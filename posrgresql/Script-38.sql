@@ -1,0 +1,1 @@
+select * from "gloqual_feedbacks_view"

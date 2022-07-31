@@ -1,0 +1,1 @@
+select * from "NetflixDttLocQcResult" ndlqr where author = 'susannehoyersten@glocalizeinc.com'

@@ -1,0 +1,2 @@
+const SAVING_FEEDBACK_API_ENDPOINT = ''; // API 생성에 따른 변경 필요
+const CLIENT_REGISTRY_SHEETS_ID = ''; 
