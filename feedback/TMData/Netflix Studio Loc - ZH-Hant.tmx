@@ -1,0 +1,1170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="memsource_tool" creationtoolversion="2.0" segtype="sentence" o-tmf="memsourceTM" adminlang="en" srclang="en" datatype="unknown" creationdate="20220725T004623Z">
+    <prop type="name">Netflix Studio Loc - ZH-Hant</prop>
+  </header>
+  <body>
+    <tu tuid="_1UyAlcyn06z9wqiwqo0cyHMh1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Conversations about the creative scope of music (songs, score, and personnel) should happen early in the production budgeting phase, so the music budget and schedule align with the creative expectations.</prop>
+        <prop type="context_next">Is the score to be recorded and produced in the composer's studio, or will there be live orchestration?</prop>
+        <seg>Some questions that will help inform budget and schedule include:</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T014054Z" changedate="20210225T152920Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>幾個有助於告知預算和時程的問題包括：</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_1dXIH45xxwA4UF880G3x8s0D6">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Have you &lt;1}and your P{2&gt;ost Production &lt;2}S{3&gt;upervisor &lt;3}agreed {4&gt;on when the score and songs need to be delivered and cleared for the final mix?&lt;4}</prop>
+        <prop type="context_next">{1&gt;Once you&lt;1}’ve hired a Music Supervisor{2&gt; and/or &lt;2}Clearance Consultant{3&gt;, be &lt;3}sure to {4&gt;share the music budget with them, inform them of the Netflix music libraries, and discuss the creative music needs, clearance, and &lt;4}post production {5&gt;timeline.&lt;5}</prop>
+        <seg>Do you have alternate songs ready for the mix if you are clearing songs that are known to be difficult to clear, may cost too much, or might not clear in time?</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T020611Z" changedate="20210225T170058Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>若您知道您正在取得授權的歌曲難以獲得授權、費用可能太高，或可能無法及時取得授權，您是否已有其他選擇可供混音使用？</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_2gVHu8110Iyk8cx0CGeUoF1ou">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;How many?&lt;1}</prop>
+        <prop type="context_next">Are there original songs?</prop>
+        <seg><bpt i="1" x="1"/>Does your budget allow for them to be cleared for all media (film) or all media excluding theatrical (series) in perpetuity?<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T015300Z" changedate="20210225T155905Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>您的預算是否足以取得這些曲目在所有媒體（電影）或除了院線片以外所有媒體（影集）的永久授權？<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_2w64HbXaw1C4KE9gQT10AxeL1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;If a publisher or label attempts to restrict or exclude rights &lt;1}— {2&gt;or place additional obligations on you or Netflix, please push back forcefully and consider selecting another song.&lt;2}</prop>
+        <prop type="context_next">{b&gt;Delivery Requirement:&lt;b}</prop>
+        <seg><bpt i="1" x="1"/>The sooner you reach out to and negotiate with publishers and labels, the better results you will achieve.<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T054405Z" changedate="20210225T170212Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>您愈早聯絡發行商和唱片公司進行合約議定，您得到的結果會愈好。<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_3bGWlt3dgKq21C9MR03L0vCU7">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;Territory:&lt;b}</prop>
+        <prop type="context_next">{b&gt;Term:&lt;b}</prop>
+        <seg>Worldwide</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T051042Z" changedate="20210224T060143Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>全球</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_6IZ1lurB1cKachi0GH0I0LkS8">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Are you considering pre-existing commercial music?</prop>
+        <prop type="context_next">If you answered "yes" to one or more of the above questions, you've come to the right place.</prop>
+        <seg><bpt i="1" x="1"/>Would you like to know more about our music<ept i="1"/>-<bpt i="2" x="2"/>library blanket deals?<ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210222T232343Z" changedate="20210224T035703Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>您是否想了解我們音樂庫總括授權方案的詳情？<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_6dZOReYq0O844E9MkS0yWZzj2">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;The &lt;1}Netflix Music team{2&gt; already has multiple blanket deals in place with music libraries that include all &lt;2}needed {3&gt;rights.&lt;3}</prop>
+        <prop type="context_next">{1&gt;All you are required to do is accurately list the cues you use on the cue sheets you submit to Netflix via Cuetrak (see below).&lt;1}</prop>
+        <seg><bpt i="1" x="1"/>These libraries will provide you with access to hundreds of thousands of high-quality cues, and no additional fees or contracts are required.<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T075125Z" changedate="20210224T060822Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>這些音樂庫可為您提供數十萬首高品質的音樂曲目，而且不需額外的費用或合約。<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_7tG0I15I3LWakdi0ka4yLu4U3">
+      <tuv xml:lang="en">
+        <prop type="context_prev">How many?</prop>
+        <prop type="context_next">{1&gt;Is there an instrumental main&lt;1}-{2&gt;title theme or a sting?&lt;2}</prop>
+        <seg>Does the cast sing?</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T015521Z" changedate="20210224T040909Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>演員會唱歌嗎？</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_8XFT0PZ00sVn0u12s3rwU1FTi">
+      <tuv xml:lang="en">
+        <prop type="context_prev">To appropriately budget and schedule for a given project, it is crucial to identify whether the project is music-intensive and, if so, to inform the respective Netflix Studio departments of all projected scheduling and music-related complexities.</prop>
+        <prop type="context_next">Some questions that will help inform budget and schedule include:</prop>
+        <seg>Conversations about the creative scope of music (songs, score, and personnel) should happen early in the production budgeting phase, so the music budget and schedule align with the creative expectations.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T012230Z" changedate="20210225T155901Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>關於音樂創作範圍的討論（歌曲、配樂和人員）應該在製作預算編列階段初期即進行，使音樂預算和時程能夠符合創作預期。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_8dqtyfLt0Wp4E0jwIC2sUSMQ3">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;As early as possible, we strongly recommend &lt;1}hiring{2&gt; music exper&lt;2}ts{3&gt;, &lt;3}including{4&gt; an experienced &lt;4}Music Supervisor (and/or a M{5&gt;usic &lt;5}Clearance Consultant){6&gt; &lt;6}as well as a{7&gt; music lawyer (or a production lawyer capable of handling music &lt;7}issues) {8&gt;to oversee music on your production.&lt;8}</prop>
+        <prop type="context_next">{1&gt;The Netflix Music &lt;1}t{2&gt;eam &lt;2}can{3&gt; provide referrals&lt;3} where needed.</prop>
+        <seg><bpt i="1" x="1"/>T<ept i="1"/>hey <bpt i="2" x="2"/>can assist you with creative decisions<ept i="2"/> and<bpt i="3" x="3"/> budgetary requirements <ept i="3"/>— <bpt i="4" x="4"/>and ensure <ept i="4"/>compliance<bpt i="5" x="5"/> with the commercial and legal requirements in this document.<ept i="5"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T011017Z" changedate="20210225T163921Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>他<ept i="1"/>們<bpt i="2" x="2"/>可在創意決策<ept i="2"/>和<bpt i="3" x="3"/>預算需求<ept i="3"/>方面為您提供協助，<bpt i="4" x="4"/>並能確保過程中<ept i="4"/>遵循<bpt i="5" x="5"/>本文提及的商業和法律要求。<ept i="5"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_9L1FELBVxOS4SJ88dV0C7n096">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;Waiver of Injunctive Relief &lt;b}— {1&gt;If possible under local laws, a publisher’s or label’s only remedy in the event of a breach of contract or dispute must be monetary damages, and the right to equitable or injunctive relief must be waived.&lt;1}</prop>
+        <prop type="context_next">It is unreasonable for publishers to expect you to send lyrics to them for approval for every song, in every language, for every project.</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Translation Rights <ept i="1000001">&lt;b}</ept>— The right to translate song lyrics in all languages for subtitling and captioning purposes, without the publisher’s approval.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T065916Z" changedate="20210224T060557Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>翻譯權 <ept i="1000001">&lt;b}</ept> — 不經發行商核准，將歌詞翻譯成所有語言作為字幕之用的權利。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_9YB0fvJO0u0nMaB0yOf4Au64f">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Please let the Netflix Music team know if you or any composers have any questions, and we will be happy to respond.</prop>
+        <prop type="context_next">If we do not have a standard contract for your country, please share the contract you intend to use with the Netflix Music team before providing it to the music creator.</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Negotiating the Contract <ept i="1000001">&lt;b}</ept>— Netflix may already have a standard contract for your specific country, which we will provide for you to use.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T034350Z" changedate="20210225T165450Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>議定合約 <ept i="1000001">&lt;b}</ept> — Netflix 可能已為您的所在國家/地區制訂標準合約，我們將會提供給您使用。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_BN4Gxjit0KI4q48UVd1U0LSX0">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Please reach out to the Netflix Music team; we'll help you and your production counsel get any waivers you need.</prop>
+        <prop type="context_next">{1&gt;If you cannot find a particular contract or template for your territory, it will be provided directly to you by the Netflix Music team.&lt;1}</prop>
+        <seg><bpt i="1" x="1"/>Netflix standard contracts and templates for score and original songs can be found <ept i="1"/><bpt i="2" x="2"/><bpt i="1000001" x="1000001" type="formatting">{u&gt;</bpt>here<ept i="1000001">&lt;u}</ept><ept i="2"/><bpt i="3" x="3"/>.<ept i="3"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T040701Z" changedate="20210224T060019Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>您可<bpt i="2" x="2"/><bpt i="1000001" x="1000001" type="formatting">{u&gt;</bpt>在此<ept i="1000001">&lt;u}</ept><ept i="2"/>取得 Netflix 的配樂和原創歌曲的標準合約和範本<ept i="1"/><bpt i="3" x="3"/>。<ept i="3"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_CqtD4D1E10lgEiz0sT0Mrnavn">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Unfortunately, many publishers and labels will not accept Netflix’s standard contract and will insist on the use of their own contracts.&lt;1}</prop>
+        <prop type="context_next">{1&gt;If there is no &lt;1}pre-negotiated{2&gt; template in place, you will need to negotiate the contract, using the Netflix contract as a reference.&lt;2}</prop>
+        <seg><bpt i="1" x="1"/>The <ept i="1"/>Netflix Music team<bpt i="2" x="2"/> has <ept i="2"/>pre-negotiated<bpt i="3" x="3"/> templates in place with many publishers and labels<ept i="3"/>, which <bpt i="4" x="4"/>may be helpful during your negotiations, so we encourage you to ask the <ept i="4"/>Netflix Music team<bpt i="5" x="5"/> for those templates, where applicable.<ept i="5"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T062807Z" changedate="20210225T172213Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/><ept i="1"/>Netflix Music 團隊<bpt i="2" x="2"/>與許多發行商和唱片公司已<ept i="2"/>預先議定好一些<bpt i="3" x="3"/>範本<ept i="3"/>，這<bpt i="4" x="4"/>可能有助您議定合約，因此，如適用，我們鼓勵您向 <ept i="4"/>Netflix Music 團隊<bpt i="5" x="5"/>索取這些範本。<ept i="5"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_DDStW4HWgcH2Ke4ovmwZQatE">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;If a music publisher or record label refuses to accept these requirements, please contact the Music &lt;1}t{2&gt;eam immediately for guidance.&lt;2}</prop>
+        <prop type="context_next">{1&gt;This right is unrelated to audio-only exploitation (e.g., soundtrack albums).&lt;1}</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Mechanical/Reproduction Rights <ept i="1000001">&lt;b}</ept>— <bpt i="1" x="1"/>When we say “mechanical rights,” we mean the right to reproduce or make copies of the composition as contained in the audiovisual production (e.g., digital downloads, DVDs,<ept i="1"/> or <bpt i="2" x="2"/>offline viewing).<ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T072121Z" changedate="20210224T060724Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>機械灌錄權/重製權 <ept i="1000001">&lt;b}</ept> — <bpt i="1" x="1"/> 所謂「機械灌錄權」是指重製或複製影音製作所含樂曲（例如數位下載、DVD <ept i="1"/> 或<bpt i="2" x="2"/>離線觀賞）的權利。<ept i="2"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_DkKVEtdtw8N2pf4kIh0mUvaU1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Worldwide</prop>
+        <prop type="context_next">{1&gt;Perpetuity (or the “Life of &lt;1}c{2&gt;opyright, including all renewals and extensions”)&lt;2}</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Term:<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T051046Z" changedate="20210224T060144Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>期限：<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_E9F1UE301MIn0E61cckErItkc">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;100% Ownership &lt;b}—{1&gt; You&lt;1}’re{2&gt; required to obtain all rights in all music created for your production (either as a “work for hire” or through an assignment of all rights to the production), including in-context and out-of-context promotional rights.&lt;2}</prop>
+        <prop type="context_next">{1&gt;Your production will be released on the Netflix service&lt;1};{2&gt; therefore, traditional “step deals” and box office bonuses are not acceptable.&lt;2}</prop>
+        <seg><bpt i="1" x="1"/>Composers must not retain any ownership in compositions or sound recordings, nor retain any soundtrack rights unless approved in advance by the <ept i="1"/>Netflix Music team<bpt i="2" x="2"/>.<ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T031000Z" changedate="20210225T160645Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>作曲人不得保留樂曲或錄音的任何所有權，也不得保留任何配樂權利 ，除非事先經由<ept i="1"/> Netflix Music 團隊核准<bpt i="2" x="2"/>。<ept i="2"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_EJWItSgiMTO2Of4cuagWnu3o">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Plus, there are other factors, like the budget and production schedule, to consider.</prop>
+        <prop type="context_next">{1&gt;Please use it as a resource throughout your production and reach out to your production counsel if you have any questions.&lt;1}</prop>
+        <seg>We’ve created this guide<bpt i="1" x="1"/> to simplify things as much as possible.<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210222T235923Z" changedate="20210225T152619Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>為了盡可能簡化相關事務，<ept i="1"/>我們製作了這份指南，</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_FCk8Sem9wha2UC4MySgwN0oE1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Some questions that will help inform budget and schedule include:</prop>
+        <prop type="context_next">Are there {1&gt;licensed tracks?&lt;1}</prop>
+        <seg>Is the score to be recorded and produced in the composer's studio, or will there be live orchestration?</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T014328Z" changedate="20210225T165843Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>配樂是在作曲人的錄音室錄製和製作，還是由管弦樂團現場演奏？</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_FPiX2SY80so5Uy90K14w1OiN8">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Spotting, &lt;1}music editor{2&gt; start date, scoring, and music mix should be addressed with the &lt;2}P{3&gt;ost &lt;3}Production S{4&gt;upervisor and communicated to the Netflix team.&lt;4}</prop>
+        <prop type="context_next">Before you hire a composer or performer to create original music for your production, please review the following requirements:</prop>
+        <seg><ph x="1"/><ph x="2"/>Creating Score <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>&amp;<ept i="1000001">&lt;b}</ept> Original Songs</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T023834Z" changedate="20210224T055614Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><ph x="1"/><ph x="2"/>創作配樂<bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>與<ept i="1000001">&lt;b}</ept>原創歌曲</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_FtqIi04J08A9sGhM1L5cN9P97">
+      <tuv xml:lang="en">
+        <prop type="context_prev">We’ve created this guide{1&gt; to simplify things as much as possible.&lt;1}</prop>
+        <prop type="context_next">If you or your production counsel cannot resolve a significant issue, please reach out to your contact on the Netflix Music team.</prop>
+        <seg><bpt i="1" x="1"/>Please use it as a resource throughout your production and reach out to your production counsel if you have any questions.<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T000411Z" changedate="20210225T152625Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>供您在製作時參考。若您有任何疑問，請洽詢您的製作顧問。<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_FxXMAxcewhm2Jz4cHFMyik5U">
+      <tuv xml:lang="en">
+        <prop type="context_prev">It is unreasonable for publishers to expect you to send lyrics to them for approval for every song, in every language, for every project.</prop>
+        <prop type="context_next">Note, however, that translations for dubbing purposes (e.g., lyrics spoken or sung on-screen) may need to be preapproved in writing by the applicable publishers, therefore, we recommend that you obtain this approval as early as possible if it’s likely that the lyrics will need to be translated or Netflix’s content localization team has indicated that the lyrics will need to be translated.</prop>
+        <seg>There should be no fee for these rights.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T070512Z" changedate="20210225T162828Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>這些權利不應有任何費用。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_GJfHX0X8wjF5Gj9gLP1IdMQg1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Do you have alternate songs ready for the mix if you are clearing songs that are known to be difficult to clear, may cost too much, or might not clear in time?</prop>
+        <prop type="context_next">{1&gt;Confirm if the N&lt;1}etflix C{2&gt;ontent &lt;2}E{3&gt;xecutive wants to be involved in creative approvals of the original score.&lt;3}</prop>
+        <seg><bpt i="1" x="1"/>Once you<ept i="1"/>’ve hired a Music Supervisor<bpt i="2" x="2"/> and/or <ept i="2"/>Clearance Consultant<bpt i="3" x="3"/>, be <ept i="3"/>sure to <bpt i="4" x="4"/>share the music budget with them, inform them of the Netflix music libraries, and discuss the creative music needs, clearance, and <ept i="4"/>post production <bpt i="5" x="5"/>timeline.<ept i="5"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T021725Z" changedate="20210225T170054Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>您<ept i="1"/>聘請了音樂總監及<bpt i="2" x="2"/>/<ept i="2"/>或授權顧問<bpt i="3" x="3"/>之後，請務必<ept i="3"/><bpt i="4" x="4"/>將音樂預算以及 Netflix 音樂庫的資訊告知他們，並與他們討論音樂創作需求、授權事宜及<ept i="4"/>後製<bpt i="5" x="5"/>時程。<ept i="5"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_GdXItw0e1S98k5hMXV00ivrn4">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;All &lt;1}m{2&gt;edia now known or hereafter devised, excluding &lt;2}theatrical{3&gt; (but including film festivals, premieres and other promotional screenings)&lt;3}</prop>
+        <prop type="context_next">Worldwide</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Territory:<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T051040Z" changedate="20210224T060142Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>區域：<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_GkwgXwGrwiI2vk4sDRg0QjM51">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Composers must not retain any ownership in compositions or sound recordings, nor retain any soundtrack rights unless approved in advance by the &lt;1}Netflix Music team{2&gt;.&lt;2}</prop>
+        <prop type="context_next">{b&gt;Direct Performance Licensing &lt;b}— In certain territories, where permissible, you are required to seek a direct public performance (or communication to the public) license from any composers you engage.</prop>
+        <seg><bpt i="1" x="1"/>Your production will be released on the Netflix service<ept i="1"/>;<bpt i="2" x="2"/> therefore, traditional “step deals” and box office bonuses are not acceptable.<ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T031320Z" changedate="20210225T160701Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>您的製作將由 Netflix 發行<ept i="1"/>；<bpt i="2" x="2"/>因此，我們不接受傳統的「階段式合約」和票房分紅。<ept i="2"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_GpuAvjwywB82Py40go18VOyB3">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;Media (for series):&lt;b}</prop>
+        <prop type="context_next">{b&gt;Territory:&lt;b}</prop>
+        <seg><bpt i="1" x="1"/>All <ept i="1"/>m<bpt i="2" x="2"/>edia now known or hereafter devised, excluding <ept i="2"/>theatrical<bpt i="3" x="3"/> (but including film festivals, premieres and other promotional screenings)<ept i="3"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T050406Z" changedate="20210225T170148Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>所有<ept i="1"/><bpt i="2" x="2"/>現在已知或日後發明的媒體，不包括<ept i="2"/>院線片<bpt i="3" x="3"/>（但包括電影節、首映及其他宣傳放映）<ept i="3"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_GvgWJKIc0Id4C88MvF0KFNgo0">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Please click &lt;1}{2&gt;{u&gt;here&lt;u}&lt;2}{3&gt; for more information.&lt;3}</prop>
+        <prop type="context_next">If you cannot find a particular contract or template for your territory, it will be provided directly to you by the Netflix Music team.</prop>
+        <seg>Netflix standard contracts and templates for pre-existing licensed music can be found <bpt i="1" x="1"/><bpt i="1000001" x="1000001" type="formatting">{u&gt;</bpt>here<ept i="1000001">&lt;u}</ept><ept i="1"/>.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T075538Z" changedate="20210224T060844Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>您可<bpt i="1" x="1"/><bpt i="1000001" x="1000001" type="formatting">{u&gt;</bpt>在此<ept i="1000001">&lt;u}</ept><ept i="1"/>找到 Netflix 專為既有授權音樂提供的標準合約和範本。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_HmZ5tKzQMs22JZ4ADSwalDyG">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;Publisher/Label Waivers &lt;b}— If original music is created by a songwriter or recording artist signed exclusively to a music publisher or record label, you might need to obtain an additional clearance in the form of a waiver from that publisher or label.</prop>
+        <prop type="context_next">{1&gt;Netflix standard contracts and templates for score and original songs can be found &lt;1}{2&gt;{u&gt;here&lt;u}&lt;2}{3&gt;.&lt;3}</prop>
+        <seg>Please reach out to the Netflix Music team; we'll help you and your production counsel get any waivers you need.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T040243Z" changedate="20210224T060014Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>請洽詢 Netflix Music 團隊；我們會協助您與您的製作顧問取得任何您需要的棄權書。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_IAV09uSj0M59Y9g0EW68KxkJ5">
+      <tuv xml:lang="en">
+        <prop type="context_prev">You are required to deliver a final music clearance report to Legal Delivery no later than the end of final mix using {1&gt;{u&gt;this&lt;u}&lt;1}{2&gt; template.&lt;2}</prop>
+        <prop type="context_next">{1&gt;Wherever possible, please use our standard contracts.&lt;1}</prop>
+        <seg><bpt i="1" x="1"/>Negotiating the Contract <ept i="1"/>— After a song has been locked, the applicable record label and music publisher(s) may require you to request and sign formal contracts.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T055300Z" changedate="20210225T170425Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>議定合約<ept i="1"/> — 鎖定歌曲後，相關唱片公司和音樂發行商可能要求您索取並簽署正式合約。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_JwDdwqZ70wM503jMEd0q1IoH6">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Netflix standard contracts and templates for score and original songs can be found &lt;1}{2&gt;{u&gt;here&lt;u}&lt;2}{3&gt;.&lt;3}</prop>
+        <prop type="context_next">{1}{2}{b&gt;Licensing Pre-Existing Music&lt;b}</prop>
+        <seg><bpt i="1" x="1"/>If you cannot find a particular contract or template for your territory, it will be provided directly to you by the Netflix Music team.<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T040753Z" changedate="20210225T165516Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>若找不到您所在地區適用的合約或範本，Netflix  Music 團隊將會直接提供給您。<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_K10ihVxl3pU8ErhgXz08WReh1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;This includes charging high fees, limiting&lt;1} or {2&gt;excluding rights, and placing additional obligations on producers and distributors.&lt;2}</prop>
+        <prop type="context_next">{1&gt;If a publisher or label attempts to restrict or exclude rights &lt;1}— {2&gt;or place additional obligations on you or Netflix, please push back forcefully and consider selecting another song.&lt;2}</prop>
+        <seg><bpt i="1" x="1"/>Look out for modifications to your clearance requests (typically in the form of stamps and redlines).<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T054116Z" changedate="20210225T170206Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>請注意他們對授權要求的修改（通常在蓋印和紅線處）。<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_LHpaHkI01KSag2iMKl3Ae1a24">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;If a CMO does not exist in a particular territory or region (e.g., Middle East), you must include public performance rights for those territories in the contract.&lt;1}</prop>
+        <prop type="context_next">{1&gt;If a music publisher or record label refuses to accept these requirements, please contact the Music &lt;1}t{2&gt;eam immediately for guidance.&lt;2}</prop>
+        <seg><bpt i="1" x="1"/>For master recordings, all rights, including <ept i="1"/>rights to <bpt i="2" x="2"/>public performance (or communication to the public)<ept i="2"/>,<bpt i="3" x="3"/> must be included in the contract.<ept i="3"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T071715Z" changedate="20210224T060655Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>主盤錄音的所有權利，包括<ept i="1"/><bpt i="2" x="2"/>公開演出權（或公開傳播權）<ept i="2"/>，都<bpt i="3" x="3"/>必須包含在合約內。<ept i="3"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_LkpPrP2Yg0w5G68gaa1S11xSa">
+      <tuv xml:lang="en">
+        <prop type="context_prev">No parties should commence services until a deal has been fully negotiated and a contract signed.</prop>
+        <prop type="context_next">Please reach out to the Netflix Music team; we'll help you and your production counsel get any waivers you need.</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Publisher/Label Waivers <ept i="1000001">&lt;b}</ept>— If original music is created by a songwriter or recording artist signed exclusively to a music publisher or record label, you might need to obtain an additional clearance in the form of a waiver from that publisher or label.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T035229Z" changedate="20210225T165512Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>發行商/唱片公司棄權書<ept i="1000001">&lt;b}</ept> — 若原創音樂的作曲人或演唱歌手與音樂發行商或唱片公司簽有獨家合約，您可能需要額外再向該發行商或唱片公司取得棄權書。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_MINTAm5vMv42ps4A911Q6vaa2">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;All &lt;1}m{2&gt;edia now known or hereafter devised&lt;2}</prop>
+        <prop type="context_next">{1&gt;All &lt;1}m{2&gt;edia now known or hereafter devised, excluding &lt;2}theatrical{3&gt; (but including film festivals, premieres and other promotional screenings)&lt;3}</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Media (for series):<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T050353Z" changedate="20210224T060135Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>媒體（針對影集）：<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_OIifNvTcwGw2Va48hg0yfCsA0">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;The &lt;1}Netflix Music team{2&gt; has &lt;2}pre-negotiated{3&gt; templates in place with many publishers and labels&lt;3}, which {4&gt;may be helpful during your negotiations, so we encourage you to ask the &lt;4}Netflix Music team{5&gt; for those templates, where applicable.&lt;5}</prop>
+        <prop type="context_next">{1&gt;Each contract must include all cleared rights listed above (e.g., media, term, and territory), as well as the following:&lt;1}</prop>
+        <seg><bpt i="1" x="1"/>If there is no <ept i="1"/>pre-negotiated<bpt i="2" x="2"/> template in place, you will need to negotiate the contract, using the Netflix contract as a reference.<ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T064853Z" changedate="20210225T170606Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>如果沒有先議定好<bpt i="2" x="2"/>的範本，您需要參考 Netflix 合約進行合約議定。<ept i="2"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_OIsNOlnEMkm22g4E41xtHNmI0">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1}{2}{b&gt;Hiring a Music Professional&lt;b}</prop>
+        <prop type="context_next">{1&gt;T&lt;1}hey {2&gt;can assist you with creative decisions&lt;2} and{3&gt; budgetary requirements &lt;3}— {4&gt;and ensure &lt;4}compliance{5&gt; with the commercial and legal requirements in this document.&lt;5}</prop>
+        <seg><bpt i="1" x="1"/>As early as possible, we strongly recommend <ept i="1"/>hiring<bpt i="2" x="2"/> music exper<ept i="2"/>ts<bpt i="3" x="3"/>, <ept i="3"/>including<bpt i="4" x="4"/> an experienced <ept i="4"/>Music Supervisor (and/or a M<bpt i="5" x="5"/>usic <ept i="5"/>Clearance Consultant)<bpt i="6" x="6"/> <ept i="6"/>as well as a<bpt i="7" x="7"/> music lawyer (or a production lawyer capable of handling music <ept i="7"/>issues) <bpt i="8" x="8"/>to oversee music on your production.<ept i="8"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T010027Z" changedate="20210225T152706Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>我們建議儘早<ept i="1"/>聘請<bpt i="2" x="2"/>音樂專業<ept i="2"/>人員<bpt i="3" x="3"/>，<ept i="3"/>包括<bpt i="4" x="4"/>經驗豐富<ept i="4"/>的音樂總監（及/或音<bpt i="5" x="5"/>樂<ept i="5"/>授權顧問），<bpt i="6" x="6"/><ept i="6"/>以及<bpt i="7" x="7"/>專門處理音樂版權的律師（或能處理音樂<ept i="7"/>權利問題的製作律師）<bpt i="8" x="8"/>來為您把關。<ept i="8"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_PX0c0Itu2Ut9ASh0id78o0cD0">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;This right is unrelated to audio-only exploitation (e.g., soundtrack albums).&lt;1}</prop>
+        <prop type="context_next">{1&gt;If a music publisher or record label refuses to grant such rights, please contact the Music &lt;1}t{2&gt;eam immediately for guidance.&lt;2}</prop>
+        <seg><bpt i="1" x="1"/>All contracts must include a license for mechanical rights.<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T072629Z" changedate="20210224T060736Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>所有合約都必須包含機械灌錄權的授權。<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_QTIWurjtgeq24x4AiTwIdPvK">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Your production will be released on the Netflix service&lt;1};{2&gt; therefore, traditional “step deals” and box office bonuses are not acceptable.&lt;2}</prop>
+        <prop type="context_next">This is an opportunity for composers to collect their performance fees directly up front.</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Direct Performance Licensing <ept i="1000001">&lt;b}</ept>— In certain territories, where permissible, you are required to seek a direct public performance (or communication to the public) license from any composers you engage.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T034003Z" changedate="20210225T165445Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>直接演出授權<ept i="1000001">&lt;b}</ept> — 某些地區（如許可）會要求您向您所聘請的作曲人尋求直接公開演出（或公開傳播）的授權。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_R0mwCkWO1EwaYMigPG2IwlJC0">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1}{2}{b&gt;Licensing Pre-Existing Music&lt;b}</prop>
+        <prop type="context_next">{b&gt;100% Clearance &lt;b}— {1&gt;You must clear &lt;1}100% {2&gt;of all compositions and sound recordings used in your production for the following:&lt;2}</prop>
+        <seg><bpt i="1" x="1"/>If you wish to license pre-existing music for your production, please review the following requirements<ept i="1"/>.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T040829Z" changedate="20210224T060100Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>如果您希望為您的製作取得既存音樂的授權，請檢閱以下要求 <ept i="1"/>。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_S6rqANEiwfo21z9Mw4xmcOPM1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;Public Performance Rights &lt;b}— {1&gt;For compositions only, Netflix will only be responsible for clearing public performance rights (or communication to the public rights) from collective management organizations (CMOs) authorized under applicable law in each territory.&lt;1}</prop>
+        <prop type="context_next">{1&gt;For master recordings, all rights, including &lt;1}rights to {2&gt;public performance (or communication to the public)&lt;2},{3&gt; must be included in the contract.&lt;3}</prop>
+        <seg><bpt i="1" x="1"/>If a CMO does not exist in a particular territory or region (e.g., Middle East), you must include public performance rights for those territories in the contract.<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T071522Z" changedate="20210224T060651Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>若當地沒有 CMO（例如中東），您必須在合約中納入這些地區的公開演出權。<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_SW1jN0Cu30ljEgAwk47EUVgw6">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Would you like to know more about our music&lt;1}-{2&gt;library blanket deals?&lt;2}</prop>
+        <prop type="context_next">Please read this information carefully and share it with everyone involved with music on your production, including your production counsel and Music Supervisor.</prop>
+        <seg>If you answered "yes" to one or more of the above questions, you've come to the right place.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210222T233454Z" changedate="20210225T152558Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>上述問題中，如果您回答了一個以上的「是」，您就來對地方了。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_T0627DW03LXb8gj0SV4O8erw1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;The sooner you reach out to and negotiate with publishers and labels, the better results you will achieve.&lt;1}</prop>
+        <prop type="context_next">You are required to deliver a final music clearance report to Legal Delivery no later than the end of final mix using {1&gt;{u&gt;this&lt;u}&lt;1}{2&gt; template.&lt;2}</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Delivery Requirement:<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T054439Z" changedate="20210224T060340Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>交付要求：<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Txv8VI0P0W6b4Qi0g03gzs0k4">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;Delivery Requirement:&lt;b}</prop>
+        <prop type="context_next">{1&gt;Negotiating the Contract &lt;1}— After a song has been locked, the applicable record label and music publisher(s) may require you to request and sign formal contracts.</prop>
+        <seg>You are required to deliver a final music clearance report to Legal Delivery no later than the end of final mix using <bpt i="1" x="1"/><bpt i="1000001" x="1000001" type="formatting">{u&gt;</bpt>this<ept i="1000001">&lt;u}</ept><ept i="1"/><bpt i="2" x="2"/> template.<ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T055217Z" changedate="20210225T170356Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>您最遲必須在最終混音結束前，使用<bpt i="1" x="1"/><bpt i="1000001" x="1000001" type="formatting">{u&gt;</bpt>此<ept i="1000001">&lt;u}</ept><ept i="1"/><bpt i="2" x="2"/>範本<ept i="2"/>向 Legal Delivery 部門遞交最終的音樂授權報告。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_UT1FSRIdwN094uiM0z1Icz7O7">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Will your production contain original songs?</prop>
+        <prop type="context_next">{1&gt;Would you like to know more about our music&lt;1}-{2&gt;library blanket deals?&lt;2}</prop>
+        <seg>Are you considering pre-existing commercial music?</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210222T232139Z" changedate="20210224T060942Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>您是否正在考慮使用既有的商業音樂？</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_VghPz3p7gRD2uG4cU5wpMo69">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Is there an instrumental main&lt;1}-{2&gt;title theme or a sting?&lt;2}</prop>
+        <prop type="context_next">{1&gt;Have you &lt;1}and your P{2&gt;ost Production &lt;2}S{3&gt;upervisor &lt;3}agreed {4&gt;on when the score and songs need to be delivered and cleared for the final mix?&lt;4}</prop>
+        <seg><bpt i="1" x="1"/>If so, are there vocals?<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T015748Z" changedate="20210225T155909Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>如有，其中有人聲嗎？<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_VpSzph0u1mO9YPhgb21yI9mJ0">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Note, however, that translations for dubbing purposes (e.g., lyrics spoken or sung on-screen) may need to be preapproved in writing by the applicable publishers, therefore, we recommend that you obtain this approval as early as possible if it’s likely that the lyrics will need to be translated or Netflix’s content localization team has indicated that the lyrics will need to be translated.</prop>
+        <prop type="context_next">{1&gt;If a CMO does not exist in a particular territory or region (e.g., Middle East), you must include public performance rights for those territories in the contract.&lt;1}</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Public Performance Rights <ept i="1000001">&lt;b}</ept>— <bpt i="1" x="1"/>For compositions only, Netflix will only be responsible for clearing public performance rights (or communication to the public rights) from collective management organizations (CMOs) authorized under applicable law in each territory.<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T071427Z" changedate="20210225T163203Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>公開演出權 <ept i="1000001">&lt;b}</ept> — <bpt i="1" x="1"/> 僅限樂曲，Netflix 僅負責依各地適用法律，向著作權集中管理組織（CMO）取得公開演出權（或公開傳播權）。<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_VzKz250o187bMng02q14yRA6c">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;Mechanical/Reproduction Rights &lt;b}— {1&gt;When we say “mechanical rights,” we mean the right to reproduce or make copies of the composition as contained in the audiovisual production (e.g., digital downloads, DVDs,&lt;1} or {2&gt;offline viewing).&lt;2}</prop>
+        <prop type="context_next">{1&gt;All contracts must include a license for mechanical rights.&lt;1}</prop>
+        <seg><bpt i="1" x="1"/>This right is unrelated to audio-only exploitation (e.g., soundtrack albums).<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T072146Z" changedate="20210225T155724Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>此項權利與僅限音訊的利用（例如配樂專輯）無關。<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_WFpjireQ0AQ5Oh8wGyw0CM9W0">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Each contract must include all cleared rights listed above (e.g., media, term, and territory), as well as the following:&lt;1}</prop>
+        <prop type="context_next">{b&gt;Waiver of Injunctive Relief &lt;b}— {1&gt;If possible under local laws, a publisher’s or label’s only remedy in the event of a breach of contract or dispute must be monetary damages, and the right to equitable or injunctive relief must be waived.&lt;1}</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Assignment Rights <ept i="1000001">&lt;b}</ept>— <bpt i="1" x="1"/>If possible under local laws, the right to assign and sub-license the contract to other parties, including affiliated entities and other reputable distributors.<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T065328Z" changedate="20210224T060530Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>轉讓權 <ept i="1000001">&lt;b}</ept> — <bpt i="1" x="1"/> 在當地法律許可的情況下，將合約轉讓和再授權予他人的權利，包括關聯實體及其他信譽良好的播映商。<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_XbL9SH0S0O0k8oy0Y66E3KTp0">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Is the score to be recorded and produced in the composer's studio, or will there be live orchestration?</prop>
+        <prop type="context_next">{1&gt;How many?&lt;1}</prop>
+        <seg>Are there <bpt i="1" x="1"/>licensed tracks?<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T014907Z" changedate="20210224T040838Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>是否有<bpt i="1" x="1"/>授權曲目？<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_YMRmejrawBR2o198jC0swhLH1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;Media (for films):&lt;b}</prop>
+        <prop type="context_next">{b&gt;Media (for series):&lt;b}</prop>
+        <seg><bpt i="1" x="1"/>All <ept i="1"/>m<bpt i="2" x="2"/>edia now known or hereafter devised<ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T050347Z" changedate="20210224T060134Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>所有<ept i="1"/>現在<bpt i="2" x="2"/>已知或日後發明的媒體<ept i="2"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ZuoE9nUcgtw20u8M8Lw0pZiT0">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;All you are required to do is accurately list the cues you use on the cue sheets you submit to Netflix via Cuetrak (see below).&lt;1}</prop>
+        <prop type="context_next">Netflix standard contracts and templates for pre-existing licensed music can be found {1&gt;{u&gt;here&lt;u}&lt;1}.</prop>
+        <seg><bpt i="1" x="1"/>Please click <ept i="1"/><bpt i="2" x="2"/><bpt i="1000001" x="1000001" type="formatting">{u&gt;</bpt>here<ept i="1000001">&lt;u}</ept><ept i="2"/><bpt i="3" x="3"/> for more information.<ept i="3"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T075437Z" changedate="20210225T163806Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>請<ept i="1"/><bpt i="2" x="2"/><bpt i="1000001" x="1000001" type="formatting">{u&gt;</bpt>點此<ept i="1000001">&lt;u}</ept><ept i="2"/><bpt i="3" x="3"/>了解詳情。<ept i="3"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_a1ZTXCedxw45oP90a23NFh153">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Are there {1&gt;licensed tracks?&lt;1}</prop>
+        <prop type="context_next">{1&gt;Does your budget allow for them to be cleared for all media (film) or all media excluding theatrical (series) in perpetuity?&lt;1}</prop>
+        <seg><bpt i="1" x="1"/>How many?<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T014943Z" changedate="20210224T040840Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>幾首？<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ajZ0Yk5u1M7aI1zw2E2qST1y8">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;If a music publisher or record label refuses to grant such rights, please contact the Music &lt;1}t{2&gt;eam immediately for guidance.&lt;2}</prop>
+        <prop type="context_next">{1&gt;The &lt;1}Netflix Music team{2&gt; already has multiple blanket deals in place with music libraries that include all &lt;2}needed {3&gt;rights.&lt;3}</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Music Libraries <ept i="1000001">&lt;b}</ept>— <bpt i="1" x="1"/>Please do not use royalty-free online music.<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T072740Z" changedate="20210224T060757Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>音樂庫 <ept i="1000001">&lt;b}</ept> — <bpt i="1" x="1"/> 請勿使用免版稅的線上音樂。<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_anK4ude0w0p8shjMcg1irhk77">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;In-context promotions and trailers&lt;b}{1&gt; (a&lt;1}nd out-of-context rights where possible, and always for main title/theme songs).</prop>
+        <prop type="context_next">{1&gt;In most territories, music publishers and record labels negotiate aggressively.&lt;1}</prop>
+        <seg><bpt i="1" x="1"/>If you <ept i="1"/>can’t<bpt i="2" x="2"/> secure the above rights, please contact the Netflix Music <ept i="2"/>team<bpt i="3" x="3"/> before agreeing to any restrictions or exclusions.<ept i="3"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T052741Z" changedate="20210225T170152Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>如果您<ept i="1"/>無法取<bpt i="2" x="2"/>得上述權利，請在同意任何限制或排除事項之前聯繫 Netflix Music<ept i="2"/> <bpt i="3" x="3"/> 團隊。<ept i="3"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_bVULgvXpwqY2Lr440J1IyJWc3">
+      <tuv xml:lang="en">
+        <prop type="context_prev">If you answered "yes" to one or more of the above questions, you've come to the right place.</prop>
+        <prop type="context_next">Music rights and deals can be complicated, and different countries have different laws and conventions.</prop>
+        <seg>Please read this information carefully and share it with everyone involved with music on your production, including your production counsel and Music Supervisor.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210222T234046Z" changedate="20210225T152605Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>請詳閱以下內容，並將這些資訊分享給在您製作中參與音樂環節的每位人員，包括製作顧問和音樂總監。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_bYyiIzDK0oJ48580aC1MvRpq6">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;The Netflix Music &lt;1}t{2&gt;eam &lt;2}can{3&gt; provide referrals&lt;3} where needed.</prop>
+        <prop type="context_next">To appropriately budget and schedule for a given project, it is crucial to identify whether the project is music-intensive and, if so, to inform the respective Netflix Studio departments of all projected scheduling and music-related complexities.</prop>
+        <seg><ph x="1"/><ph x="2"/><bpt i="3" x="3"/>Setting a Budget <ept i="3"/><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>&amp;<ept i="1000001">&lt;b}</ept><bpt i="4" x="4"/> Scheduling<ept i="4"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T011408Z" changedate="20210224T040632Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><ph x="1"/><ph x="2"/><bpt i="3" x="3"/>編列預算<ept i="3"/><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>與<ept i="1000001">&lt;b}</ept><bpt i="4" x="4"/>制定時程<ept i="4"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_bdyhQg3QMOI24Y4ExewAy1I60">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Are there original songs?</prop>
+        <prop type="context_next">Does the cast sing?</prop>
+        <seg>How many?</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T014943Z" changedate="20210224T040840Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>幾首？</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_brLstq76gNq2wm4I4lgtuIZ8">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Music rights and deals can be complicated, and different countries have different laws and conventions.</prop>
+        <prop type="context_next">Plus, there are other factors, like the budget and production schedule, to consider.</prop>
+        <seg>Because Netflix distributes content globally, music will need to be cleared more broadly than what is typical for other productions.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210222T234609Z" changedate="20210225T170719Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>由於 Netflix 播映的內容遍及全球，因此音樂授權的範圍通常比其他類型的製作更加廣泛。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ciEMXGkxwL925Q40kB0OYDY52">
+      <tuv xml:lang="en">
+        <prop type="context_prev">There should be no fee for these rights.</prop>
+        <prop type="context_next">{b&gt;Public Performance Rights &lt;b}— {1&gt;For compositions only, Netflix will only be responsible for clearing public performance rights (or communication to the public rights) from collective management organizations (CMOs) authorized under applicable law in each territory.&lt;1}</prop>
+        <seg>Note, however, that translations for dubbing purposes (e.g., lyrics spoken or sung on-screen) may need to be preapproved in writing by the applicable publishers, therefore, we recommend that you obtain this approval as early as possible if it’s likely that the lyrics will need to be translated or Netflix’s content localization team has indicated that the lyrics will need to be translated.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T070631Z" changedate="20210225T163026Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>但請注意，為配音目的而做的翻譯（例如，在螢幕上說出或唱出的歌詞），可能需要取得相關發行商的事先書面核准，因此，如可能需要翻譯歌詞，或是 Netflix 的內容本地化團隊表示歌詞需要翻譯，我們建議您儘早取得此項核准。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_d1cyv2HXxXk5G68gRf0CGojz2">
+      <tuv xml:lang="en">
+        <prop type="context_prev">If we do not have a standard contract for your country, please share the contract you intend to use with the Netflix Music team before providing it to the music creator.</prop>
+        <prop type="context_next">{b&gt;Publisher/Label Waivers &lt;b}— If original music is created by a songwriter or recording artist signed exclusively to a music publisher or record label, you might need to obtain an additional clearance in the form of a waiver from that publisher or label.</prop>
+        <seg>No parties should commence services until a deal has been fully negotiated and a contract signed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T034804Z" changedate="20210225T165504Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>在交易議定完成並簽訂合約之前，任何一方均不得開始提供服務。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_dJSw5pr5wID2JS4IFSw45cex">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;If you wish to license pre-existing music for your production, please review the following requirements&lt;1}.</prop>
+        <prop type="context_next">{b&gt;Media (for films):&lt;b}</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>100% Clearance <ept i="1000001">&lt;b}</ept>— <bpt i="1" x="1"/>You must clear <ept i="1"/>100% <bpt i="2" x="2"/>of all compositions and sound recordings used in your production for the following:<ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T044727Z" changedate="20210225T170137Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>100% 授權<ept i="1000001">&lt;b}</ept> — 您在製作中使用的樂曲和錄音<bpt i="1" x="1"/>必須<ept i="1"/>全部<bpt i="2" x="2"/>取得授權，授權範圍如下：<ept i="2"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ddQ8BB1JxHt4Gm9wEmwNsags1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Before you hire a composer or performer to create original music for your production, please review the following requirements:</prop>
+        <prop type="context_next">{1&gt;Composers must not retain any ownership in compositions or sound recordings, nor retain any soundtrack rights unless approved in advance by the &lt;1}Netflix Music team{2&gt;.&lt;2}</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>100% Ownership <ept i="1000001">&lt;b}</ept>—<bpt i="1" x="1"/> You<ept i="1"/>’re<bpt i="2" x="2"/> required to obtain all rights in all music created for your production (either as a “work for hire” or through an assignment of all rights to the production), including in-context and out-of-context promotional rights.<ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T030732Z" changedate="20210225T170132Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>100% 所有權<ept i="1000001">&lt;b}</ept><bpt i="2" x="2"/> — <bpt i="1" x="1"/> 您<ept i="1"/>必須就所有為您的製作而創作的音樂取得所有權利（無論是「僱傭作品」或透過所有權利轉讓取得的音樂），包括配合和獨立宣傳權。<ept i="2"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_eDNz2wfT0M09wwjMLS0kenw22">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Look out for modifications to your clearance requests (typically in the form of stamps and redlines).&lt;1}</prop>
+        <prop type="context_next">{1&gt;The sooner you reach out to and negotiate with publishers and labels, the better results you will achieve.&lt;1}</prop>
+        <seg><bpt i="1" x="1"/>If a publisher or label attempts to restrict or exclude rights <ept i="1"/>— <bpt i="2" x="2"/>or place additional obligations on you or Netflix, please push back forcefully and consider selecting another song.<ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T054147Z" changedate="20210225T170209Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>若發行商或唱片公司試圖限制或排除權利<ept i="1"/><bpt i="2" x="2"/>，或要求您或 Netflix 承擔額外義務，請堅決回絕，並考慮選用其他歌曲。<ept i="2"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ebqIxwqxwx04mV8oYsxLHXbY1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Because Netflix distributes content globally, music will need to be cleared more broadly than what is typical for other productions.</prop>
+        <prop type="context_next">We’ve created this guide{1&gt; to simplify things as much as possible.&lt;1}</prop>
+        <seg>Plus, there are other factors, like the budget and production schedule, to consider.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210222T235531Z" changedate="20210224T035815Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>除此之外，還有預算和製作時程等其他因素需要考慮。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ekjHK9D20as4St900f5EhBEt2">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Please use it as a resource throughout your production and reach out to your production counsel if you have any questions.&lt;1}</prop>
+        <prop type="context_next">{1}{2}{b&gt;Hiring a Music Professional&lt;b}</prop>
+        <seg>If you or your production counsel cannot resolve a significant issue, please reach out to your contact on the Netflix Music team.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T000501Z" changedate="20210225T152659Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>若您或您的製作顧問無法解決重大問題，請洽詢 Netflix Music 團隊的聯絡窗口。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_er16K2b2xxb4UN9obuxViTOF1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;These libraries will provide you with access to hundreds of thousands of high-quality cues, and no additional fees or contracts are required.&lt;1}</prop>
+        <prop type="context_next">{1&gt;Please click &lt;1}{2&gt;{u&gt;here&lt;u}&lt;2}{3&gt; for more information.&lt;3}</prop>
+        <seg><bpt i="1" x="1"/>All you are required to do is accurately list the cues you use on the cue sheets you submit to Netflix via Cuetrak (see below).<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T075405Z" changedate="20210224T060830Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>您只需要在曲目列表正確列出您所使用的曲目，再透過 Cuetrak 向 Netflix 提交即可（詳見下文）。<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ey9G6z411cJbIGhg832e7z0k7">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Once you&lt;1}’ve hired a Music Supervisor{2&gt; and/or &lt;2}Clearance Consultant{3&gt;, be &lt;3}sure to {4&gt;share the music budget with them, inform them of the Netflix music libraries, and discuss the creative music needs, clearance, and &lt;4}post production {5&gt;timeline.&lt;5}</prop>
+        <prop type="context_next">{1&gt;If applicable, the &lt;1}P{2&gt;ost Production &lt;2}S{3&gt;upervisor should be engaged to discuss schedule and workflow to ensure timely delivery of all licensed music, original songs, and score for the final mix.&lt;3}</prop>
+        <seg><bpt i="1" x="1"/>Confirm if the N<ept i="1"/>etflix C<bpt i="2" x="2"/>ontent <ept i="2"/>E<bpt i="3" x="3"/>xecutive wants to be involved in creative approvals of the original score.<ept i="3"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T021808Z" changedate="20210224T055537Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>確認 N<ept i="1"/>etflix 內容<bpt i="2" x="2"/><ept i="2"/>專<bpt i="3" x="3"/>員是否想要參與原創配樂的創意審核。<ept i="3"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_gb7jko8FMOr2pB4IfZMxTBjc">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Wherever possible, please use our standard contracts.&lt;1}</prop>
+        <prop type="context_next">{1&gt;The &lt;1}Netflix Music team{2&gt; has &lt;2}pre-negotiated{3&gt; templates in place with many publishers and labels&lt;3}, which {4&gt;may be helpful during your negotiations, so we encourage you to ask the &lt;4}Netflix Music team{5&gt; for those templates, where applicable.&lt;5}</prop>
+        <seg><bpt i="1" x="1"/>Unfortunately, many publishers and labels will not accept Netflix’s standard contract and will insist on the use of their own contracts.<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T062746Z" changedate="20210224T060412Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>不過，許多發行商和唱片公司不接受 Netflix 的標準合約，堅持使用他們自己的合約。<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_gje1rTsDxEJ54y8Ems0MlFsW0">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Netflix standard contracts and templates for pre-existing licensed music can be found {1&gt;{u&gt;here&lt;u}&lt;1}.</prop>
+        <seg>If you cannot find a particular contract or template for your territory, it will be provided directly to you by the Netflix Music team.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T040753Z" changedate="20210225T172238Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>若找不到您所在地區適用的合約或範本，Netflix  Music 團隊將會直接提供給您。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_kNF2WWf1xjD46t8gyk1q7kKb1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Please read this information carefully and share it with everyone involved with music on your production, including your production counsel and Music Supervisor.</prop>
+        <prop type="context_next">Because Netflix distributes content globally, music will need to be cleared more broadly than what is typical for other productions.</prop>
+        <seg>Music rights and deals can be complicated, and different countries have different laws and conventions.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210222T234141Z" changedate="20210224T035748Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>音樂權利和交易可能非常複雜，不同國家有不同的法律和慣例。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_kOJJZAVoMAk2vZ4IIu00xemm3">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;Direct Performance Licensing &lt;b}— In certain territories, where permissible, you are required to seek a direct public performance (or communication to the public) license from any composers you engage.</prop>
+        <prop type="context_next">Please let the Netflix Music team know if you or any composers have any questions, and we will be happy to respond.</prop>
+        <seg>This is an opportunity for composers to collect their performance fees directly up front.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T034158Z" changedate="20210224T055813Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>這是作曲人直接收取演出預付費用的機會。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_l7v8qgrlMwh21L80Cf2af9VX3">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;For master recordings, all rights, including &lt;1}rights to {2&gt;public performance (or communication to the public)&lt;2},{3&gt; must be included in the contract.&lt;3}</prop>
+        <prop type="context_next">{b&gt;Mechanical/Reproduction Rights &lt;b}— {1&gt;When we say “mechanical rights,” we mean the right to reproduce or make copies of the composition as contained in the audiovisual production (e.g., digital downloads, DVDs,&lt;1} or {2&gt;offline viewing).&lt;2}</prop>
+        <seg><bpt i="1" x="1"/>If a music publisher or record label refuses to accept these requirements, please contact the Music <ept i="1"/>t<bpt i="2" x="2"/>eam immediately for guidance.<ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T071758Z" changedate="20210225T155734Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>若發行商或唱片公司拒絕接受上述要求，請立即聯繫 Music <ept i="1"/><bpt i="2" x="2"/>團隊尋求建議。<ept i="2"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_lijNeCBk0Sw5mw8MOpwCbqM90">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;Assignment Rights &lt;b}— {1&gt;If possible under local laws, the right to assign and sub-license the contract to other parties, including affiliated entities and other reputable distributors.&lt;1}</prop>
+        <prop type="context_next">{b&gt;Translation Rights &lt;b}— The right to translate song lyrics in all languages for subtitling and captioning purposes, without the publisher’s approval.</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Waiver of Injunctive Relief <ept i="1000001">&lt;b}</ept>— <bpt i="1" x="1"/>If possible under local laws, a publisher’s or label’s only remedy in the event of a breach of contract or dispute must be monetary damages, and the right to equitable or injunctive relief must be waived.<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T065431Z" changedate="20210225T184344Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>放棄禁令救濟 <ept i="1000001">&lt;b}</ept> <bpt i="1" x="1"/> — 在當地法律許可的情況下，發行商或唱片公司在發生違約或爭端時的唯一補償必須為金錢賠償，而且必須放棄衡平救濟或禁令救濟的權利。<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_mZhH7HUF0sH5My9wzVw6oufU1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;T&lt;1}hey {2&gt;can assist you with creative decisions&lt;2} and{3&gt; budgetary requirements &lt;3}— {4&gt;and ensure &lt;4}compliance{5&gt; with the commercial and legal requirements in this document.&lt;5}</prop>
+        <prop type="context_next">{1}{2}{3&gt;Setting a Budget &lt;3}{b&gt;&amp;&lt;b}{4&gt; Scheduling&lt;4}</prop>
+        <seg><bpt i="1" x="1"/>The Netflix Music <ept i="1"/>t<bpt i="2" x="2"/>eam <ept i="2"/>can<bpt i="3" x="3"/> provide referrals<ept i="3"/> where needed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T011136Z" changedate="20210225T152823Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>如有需要，<bpt i="1" x="1"/>Netflix Music <ept i="1"/>團隊可<bpt i="2" x="2"/>為您<ept i="2"/><bpt i="3" x="3"/>推薦相關人員<ept i="3"/>。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_nVwtKi2SwlT2j080MT1EwJ5L3">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;If you cannot find a particular contract or template for your territory, it will be provided directly to you by the Netflix Music team.&lt;1}</prop>
+        <prop type="context_next">{1&gt;If you wish to license pre-existing music for your production, please review the following requirements&lt;1}.</prop>
+        <seg><ph x="1"/><ph x="2"/><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Licensing Pre-Existing Music<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T040825Z" changedate="20210224T060034Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><ph x="1"/><ph x="2"/><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>取得既存音樂的授權<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_nXbuzBjxMuK2m64wvZMZEzWa">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;Music Libraries &lt;b}— {1&gt;Please do not use royalty-free online music.&lt;1}</prop>
+        <prop type="context_next">{1&gt;These libraries will provide you with access to hundreds of thousands of high-quality cues, and no additional fees or contracts are required.&lt;1}</prop>
+        <seg><bpt i="1" x="1"/>The <ept i="1"/>Netflix Music team<bpt i="2" x="2"/> already has multiple blanket deals in place with music libraries that include all <ept i="2"/>needed <bpt i="3" x="3"/>rights.<ept i="3"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T074623Z" changedate="20210225T170706Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>Netflix Music 團隊<bpt i="2" x="2"/>提供許多總括授權方案<ept i="2"/>，音樂庫中的曲目已包含所有<ept i="1"/>必須取得的<bpt i="3" x="3"/>權利。<ept i="3"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_o1r08qQ60iyjwZx0ms6YMnJc9">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;Translation Rights &lt;b}— The right to translate song lyrics in all languages for subtitling and captioning purposes, without the publisher’s approval.</prop>
+        <prop type="context_next">There should be no fee for these rights.</prop>
+        <seg>It is unreasonable for publishers to expect you to send lyrics to them for approval for every song, in every language, for every project.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T070438Z" changedate="20210224T060602Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>發行商無權要求您將每個專案、每首歌曲、每種語言的歌詞提交給他們進行核准。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_o2eRQUA8MHB20798EI0E7zIv1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Are you thinking about hiring a composer for your production?</prop>
+        <prop type="context_next">Are you considering pre-existing commercial music?</prop>
+        <seg>Will your production contain original songs?</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210222T232135Z" changedate="20210224T060935Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>您的製作是否將會含有原創歌曲？</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_oMiX5YLugmA2gP40Kqw5zbAW1">
+      <tuv xml:lang="en">
+        <prop type="context_next">Will your production contain original songs?</prop>
+        <seg>Are you thinking about hiring a composer for your production?</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210222T231709Z" changedate="20210224T060928Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>您是否正在考慮為您的製作聘請作曲人？</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_oSszlcaRgMp2KP4gfqMnY8iO">
+      <tuv xml:lang="en">
+        <prop type="context_prev">If you or your production counsel cannot resolve a significant issue, please reach out to your contact on the Netflix Music team.</prop>
+        <prop type="context_next">{1&gt;As early as possible, we strongly recommend &lt;1}hiring{2&gt; music exper&lt;2}ts{3&gt;, &lt;3}including{4&gt; an experienced &lt;4}Music Supervisor (and/or a M{5&gt;usic &lt;5}Clearance Consultant){6&gt; &lt;6}as well as a{7&gt; music lawyer (or a production lawyer capable of handling music &lt;7}issues) {8&gt;to oversee music on your production.&lt;8}</prop>
+        <seg><ph x="1"/><ph x="2"/><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Hiring a Music Professional<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T000510Z" changedate="20210224T035906Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><ph x="1"/><ph x="2"/><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>聘請音樂專業人員<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_qgH9syLwgsS2yz4Qz00Ej1gQ2">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;If applicable, the &lt;1}P{2&gt;ost Production &lt;2}S{3&gt;upervisor should be engaged to discuss schedule and workflow to ensure timely delivery of all licensed music, original songs, and score for the final mix.&lt;3}</prop>
+        <prop type="context_next">{1}{2}Creating Score {b&gt;&amp;&lt;b} Original Songs</prop>
+        <seg><bpt i="1" x="1"/>Spotting, <ept i="1"/>music editor<bpt i="2" x="2"/> start date, scoring, and music mix should be addressed with the <ept i="2"/>P<bpt i="3" x="3"/>ost <ept i="3"/>Production S<bpt i="4" x="4"/>upervisor and communicated to the Netflix team.<ept i="4"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T023815Z" changedate="20210225T165047Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>配樂及音效時間點、<ept i="1"/>音樂剪輯<bpt i="2" x="2"/>開始日期、配樂和混音等事宜，應與<ept i="2"/>後<bpt i="3" x="3"/>製<ept i="3"/>總監<bpt i="4" x="4"/>討論並告知 Netflix 團隊。<ept i="4"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_qp00s72l0uLj8cBwyb66Jcz67">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Does your budget allow for them to be cleared for all media (film) or all media excluding theatrical (series) in perpetuity?&lt;1}</prop>
+        <prop type="context_next">How many?</prop>
+        <seg>Are there original songs?</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T015507Z" changedate="20210224T040907Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>有原創歌曲嗎？</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_qug656m90Eh5wP98Wx1QFQpN3">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Confirm if the N&lt;1}etflix C{2&gt;ontent &lt;2}E{3&gt;xecutive wants to be involved in creative approvals of the original score.&lt;3}</prop>
+        <prop type="context_next">{1&gt;Spotting, &lt;1}music editor{2&gt; start date, scoring, and music mix should be addressed with the &lt;2}P{3&gt;ost &lt;3}Production S{4&gt;upervisor and communicated to the Netflix team.&lt;4}</prop>
+        <seg><bpt i="1" x="1"/>If applicable, the <ept i="1"/>P<bpt i="2" x="2"/>ost Production <ept i="2"/>S<bpt i="3" x="3"/>upervisor should be engaged to discuss schedule and workflow to ensure timely delivery of all licensed music, original songs, and score for the final mix.<ept i="3"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T022407Z" changedate="20210224T055556Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>如果可以，應請<ept i="1"/>後<bpt i="2" x="2"/>製<ept i="2"/>總監<bpt i="3" x="3"/>參與討論時程和工作流程，以確保所有授權音樂、原創歌曲及配樂準時交付，進行最後混音。<ept i="3"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_quuwEaIQ0kA4Sa8ERg1uFgeU1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;Term:&lt;b}</prop>
+        <prop type="context_next">{b&gt;In-context promotions and trailers&lt;b}{1&gt; (a&lt;1}nd out-of-context rights where possible, and always for main title/theme songs).</prop>
+        <seg><bpt i="1" x="1"/>Perpetuity (or the “Life of <ept i="1"/>c<bpt i="2" x="2"/>opyright, including all renewals and extensions”)<ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T051451Z" changedate="20210224T060152Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>永久（或「著作權年限<ept i="1"/><bpt i="2" x="2"/>，包括所有的續約和延期」）<ept i="2"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ruRWRygXw5o2ir4ctwgJaObZ">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;In most territories, music publishers and record labels negotiate aggressively.&lt;1}</prop>
+        <prop type="context_next">{1&gt;Look out for modifications to your clearance requests (typically in the form of stamps and redlines).&lt;1}</prop>
+        <seg><bpt i="1" x="1"/>This includes charging high fees, limiting<ept i="1"/> or <bpt i="2" x="2"/>excluding rights, and placing additional obligations on producers and distributors.<ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T052854Z" changedate="20210225T170203Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>包括收取高額費用、限制<ept i="1"/>或<bpt i="2" x="2"/>排除權利，以及要求製作商和播映商承擔額外義務。<ept i="2"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_tGU5YyX0wta5C69MGY04muh17">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;If you &lt;1}can’t{2&gt; secure the above rights, please contact the Netflix Music &lt;2}team{3&gt; before agreeing to any restrictions or exclusions.&lt;3}</prop>
+        <prop type="context_next">{1&gt;This includes charging high fees, limiting&lt;1} or {2&gt;excluding rights, and placing additional obligations on producers and distributors.&lt;2}</prop>
+        <seg><bpt i="1" x="1"/>In most territories, music publishers and record labels negotiate aggressively.<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T052802Z" changedate="20210225T170155Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>在大多數地區，音樂發行商和唱片公司都非常積極議定合約，<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_tO5KE1pK1yXawXjgfR3qUJs20">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;Negotiating the Contract &lt;b}— Netflix may already have a standard contract for your specific country, which we will provide for you to use.</prop>
+        <prop type="context_next">No parties should commence services until a deal has been fully negotiated and a contract signed.</prop>
+        <seg>If we do not have a standard contract for your country, please share the contract you intend to use with the Netflix Music team before providing it to the music creator.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T034736Z" changedate="20210225T165502Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>若您的所在國家/地區沒有標準合約，請先將您打算使用的合約提交 Netflix Music 團隊，再提供給音樂創作人。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_td2tBk2Rgbi2AW4Al40sVwug1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1}{2}{3&gt;Setting a Budget &lt;3}{b&gt;&amp;&lt;b}{4&gt; Scheduling&lt;4}</prop>
+        <prop type="context_next">Conversations about the creative scope of music (songs, score, and personnel) should happen early in the production budgeting phase, so the music budget and schedule align with the creative expectations.</prop>
+        <seg>To appropriately budget and schedule for a given project, it is crucial to identify whether the project is music-intensive and, if so, to inform the respective Netflix Studio departments of all projected scheduling and music-related complexities.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T011534Z" changedate="20210224T040759Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>為使專案預算和時程安排得宜，請務必確定專案是否需要大量音樂，如是，請務必將所有預定時程和音樂相關細節告知各 Netflix Studio 部門。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ti44T4svME04W49gROwUpnUP1">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Perpetuity (or the “Life of &lt;1}c{2&gt;opyright, including all renewals and extensions”)&lt;2}</prop>
+        <prop type="context_next">{1&gt;If you &lt;1}can’t{2&gt; secure the above rights, please contact the Netflix Music &lt;2}team{3&gt; before agreeing to any restrictions or exclusions.&lt;3}</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>In-context promotions and trailers<ept i="1000001">&lt;b}</ept><bpt i="1" x="1"/> (a<ept i="1"/>nd out-of-context rights where possible, and always for main title/theme songs).</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T051800Z" changedate="20210224T060206Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>配合宣傳和預告片<ept i="1000001">&lt;b}</ept><bpt i="1" x="1"/>（<ept i="1"/>最好加上獨立宣傳權，而且主題曲/主題歌曲一律適用）。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_wH0iHiFt0wI8I8hw9m12kVaL4">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1}{2}Creating Score {b&gt;&amp;&lt;b} Original Songs</prop>
+        <prop type="context_next">{b&gt;100% Ownership &lt;b}—{1&gt; You&lt;1}’re{2&gt; required to obtain all rights in all music created for your production (either as a “work for hire” or through an assignment of all rights to the production), including in-context and out-of-context promotional rights.&lt;2}</prop>
+        <seg>Before you hire a composer or performer to create original music for your production, please review the following requirements:</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T024000Z" changedate="20210224T055640Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>在聘請作曲人或演奏人為您的製作創作原創音樂之前，請先檢閱以下要求：</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_xJCwSPjZgcB24a4EQqMw85lz">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{b&gt;100% Clearance &lt;b}— {1&gt;You must clear &lt;1}100% {2&gt;of all compositions and sound recordings used in your production for the following:&lt;2}</prop>
+        <prop type="context_next">{1&gt;All &lt;1}m{2&gt;edia now known or hereafter devised&lt;2}</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Media (for films):<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T050256Z" changedate="20210224T060112Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>媒體（針對電影）：<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_xPBbwVt4w9326q4wljgTDMGP">
+      <tuv xml:lang="en">
+        <prop type="context_prev">Does the cast sing?</prop>
+        <prop type="context_next">{1&gt;If so, are there vocals?&lt;1}</prop>
+        <seg><bpt i="1" x="1"/>Is there an instrumental main<ept i="1"/>-<bpt i="2" x="2"/>title theme or a sting?<ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T015722Z" changedate="20210224T040915Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>是否有器樂<ept i="1"/><bpt i="2" x="2"/>主題曲或旋律？<ept i="2"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_yBMOPNWDwFm2kP4g55MQQiZp">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;Negotiating the Contract &lt;1}— After a song has been locked, the applicable record label and music publisher(s) may require you to request and sign formal contracts.</prop>
+        <prop type="context_next">{1&gt;Unfortunately, many publishers and labels will not accept Netflix’s standard contract and will insist on the use of their own contracts.&lt;1}</prop>
+        <seg><bpt i="1" x="1"/>Wherever possible, please use our standard contracts.<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T062716Z" changedate="20210224T060403Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>請盡可能使用我們的標準合約。<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_z8CJZ458w2X2eG4UtPMrvL9r">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;If so, are there vocals?&lt;1}</prop>
+        <prop type="context_next">Do you have alternate songs ready for the mix if you are clearing songs that are known to be difficult to clear, may cost too much, or might not clear in time?</prop>
+        <seg><bpt i="1" x="1"/>Have you <ept i="1"/>and your P<bpt i="2" x="2"/>ost Production <ept i="2"/>S<bpt i="3" x="3"/>upervisor <ept i="3"/>agreed <bpt i="4" x="4"/>on when the score and songs need to be delivered and cleared for the final mix?<ept i="4"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T020513Z" changedate="20210225T153235Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>您與您<ept i="1"/>的<bpt i="2" x="2"/>後製<ept i="2"/><bpt i="3" x="3"/>總監<ept i="3"/>決定何時<bpt i="4" x="4"/>交付配樂和歌曲並取得授權，進行最後混音了嗎？<ept i="4"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_zEKafREBMYb2P24oqqgLQsc9">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;All contracts must include a license for mechanical rights.&lt;1}</prop>
+        <prop type="context_next">{b&gt;Music Libraries &lt;b}— {1&gt;Please do not use royalty-free online music.&lt;1}</prop>
+        <seg><bpt i="1" x="1"/>If a music publisher or record label refuses to grant such rights, please contact the Music <ept i="1"/>t<bpt i="2" x="2"/>eam immediately for guidance.<ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T072637Z" changedate="20210225T155720Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>若發行商或唱片公司拒絕授予該等權利，請立即聯繫 Music<ept i="1"/> <bpt i="2" x="2"/>團隊尋求建議。<ept i="2"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_zIJPJmGf0aH5qb9ovI1kMLML0">
+      <tuv xml:lang="en">
+        <prop type="context_prev">This is an opportunity for composers to collect their performance fees directly up front.</prop>
+        <prop type="context_next">{b&gt;Negotiating the Contract &lt;b}— Netflix may already have a standard contract for your specific country, which we will provide for you to use.</prop>
+        <seg>Please let the Netflix Music team know if you or any composers have any questions, and we will be happy to respond.</seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T034239Z" changedate="20210224T055838Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg>如果您或作曲人有任何疑問，請洽詢 Netflix Music 團隊，我們很樂意答覆您。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_zXu20bxbx2B4yz9Uuk1IimPO0">
+      <tuv xml:lang="en">
+        <prop type="context_prev">{1&gt;If there is no &lt;1}pre-negotiated{2&gt; template in place, you will need to negotiate the contract, using the Netflix contract as a reference.&lt;2}</prop>
+        <prop type="context_next">{b&gt;Assignment Rights &lt;b}— {1&gt;If possible under local laws, the right to assign and sub-license the contract to other parties, including affiliated entities and other reputable distributors.&lt;1}</prop>
+        <seg><bpt i="1" x="1"/>Each contract must include all cleared rights listed above (e.g., media, term, and territory), as well as the following:<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="zh-hant" creationdate="20210223T065107Z" changedate="20210225T155814Z">
+        <prop type="project">21280132</prop>
+        <prop type="filename">Copy of Formatted_ Music (PM) (1).docx</prop>
+        <seg><bpt i="1" x="1"/>每份合約皆必須包含上列所有授權的權利（例如媒體、期限和區域），以及下列各項：<ept i="1"/></seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

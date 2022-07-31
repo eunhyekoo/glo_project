@@ -1,0 +1,2636 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="memsource_tool" creationtoolversion="2.0" segtype="sentence" o-tmf="memsourceTM" adminlang="en" srclang="ko-kr" datatype="unknown" creationdate="20220725T011215Z">
+    <prop type="name">[Naver] The Monarch of Elos (엘로스의 군주)</prop>
+  </header>
+  <body>
+    <tu tuid="_0FAtaPkmxll50Niw1r4uJbX1a">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀은 최소한 눈앞에 보이는 베로크만이라도 저승의 길동무로 데려갈 생각이었다.</prop>
+        <prop type="context_next">생(生)을 포기한 채 쥐어짠 마지막 오라였다</prop>
+        <seg>검에서 짙은 회색 아지랑이가 활활 타오르기 시작했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T121933Z" changedate="20220722T121933Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>A thick, grey haze began blazing from the blade.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_0isIqYtN0YB8cYhMKp30AAQT4">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">조금만 더하면 꼬리에 불붙은 황소처럼 달려들 것 같았으니까.</prop>
+        <prop type="context_next">난 남자야.</prop>
+        <seg>“왜, 발정이 난 개새끼처럼 얼굴이 빨개지냐?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T044943Z" changedate="20220721T085054Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“What with the blushing? You look like a dog desperate to mate someone.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_0nJpXe3Q1Wx8osg0Sk7q4aiF0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">백작은 사냥개인 칼리얀에게 명령했고 그는 정말 깔끔하게 일을 해결했다.</prop>
+        <prop type="context_next">영애를 붙잡아 백작가에 데려왔고 평민 기사는 그 자리에서 목을 베어 백작에게 바쳤다.</prop>
+        <seg>백작이 만족스럽게 고개를 끄덕일 정도.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T080326Z" changedate="20220722T134522Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>so much so that even the count nodded satisfyingly.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_1CCwDGQc0Ae883j0uO0s7Rk17">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">영애를 붙잡아 백작가에 데려왔고 평민 기사는 그 자리에서 목을 베어 백작에게 바쳤다.</prop>
+        <prop type="context_next">백작은 그 기사의 목을 원했으니까.</prop>
+        <seg>어쩔 수 없었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T083928Z" changedate="20220721T083928Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>He had no choice but to follow</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_1MCv3H9i0EPagajwIb1k3n6L5">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">프롤로그</prop>
+        <prop type="context_next">아니, 기분이 더럽다고 하는 게 더 정확했다.</prop>
+        <seg>누군가의 사냥개로 살아간다는 것은 썩 좋은 기분이 아니다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T042618Z" changedate="20220719T231326Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>It doesn’t feel great to live as someone’s hound.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_1d0jKC1S706LwEa10Xu0kRjZp1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">몰골을 보아하니 검 한 번 휘두를 힘도 없어 보였다.</prop>
+        <prop type="context_next">비록 멸문 귀족이었다지만 저놈이 처음으로 백작가에 들어왔을 때는 비루한 노예 신분이었다.</prop>
+        <seg>평소에 그토록 죽이고 싶었던 녀석이었으니 자신의 손으로 처리할 생각이었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T032758Z" changedate="20220722T135548Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Despite his fallen noble upbringing, Kaliyan started as a filthy slave when he first entered the count’s house</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_1huQbyUa0a39QtgwRg30aoMf2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀은 작게 중얼거리며 땅에 박힌 검을 뽑아 들었다.</prop>
+        <prop type="context_next">온몸에 감각이 마비된 듯 이젠 통증조차 느껴지지 않았다.</prop>
+        <seg>상처로 인해 출혈은 이미 한계를 넘어선 상태.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T073356Z" changedate="20220722T135126Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>His body already bled from wounds above the human limits,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_1kVB6wdP1mebEzjMGQ1G5Nre3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">기사의 이름은 베로크.</prop>
+        <prop type="context_next">“베로크 단장님 아니십니까?”</prop>
+        <seg>칼리얀이 속해 있던 돌렌 기사단의 기사 단장이었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T084719Z" changedate="20220720T084719Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>the knight commander of the Order of Dolen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_2b5OIgytwdb2yn4oZY0gqYSe0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀이 속해 있던 돌렌 기사단의 기사 단장이었다.</prop>
+        <prop type="context_next">칼리얀은 그를 보며 비아냥거렸다.</prop>
+        <seg>“베로크 단장님 아니십니까?”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T084806Z" changedate="20220722T064636Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“Salutations, Sir Veroq.”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_33Pi4oK1xDO4uB9UzKwOyIXj0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“흥!</prop>
+        <prop type="context_next">“하…….”</prop>
+        <seg>백작님을 암살하기 위해 암살단을 조직한 것을 모를 줄 아느냐?”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T085621Z" changedate="20220722T121546Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Did you really think I wouldn’t know that you formed a league of assassins to assassinate his liege?” Answered Veroq.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_36sIq30T1c5bYehgNE10hV2u7">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">하지만 칼리얀은 그 모습을 보며 회심의 미소를 지었다.</prop>
+        <prop type="context_next">놈을 상대하기가 더욱 수월해졌다.</prop>
+        <seg>죽을 듯이 헐떡이는 상대에게 오라를 뽑아낼 정도라면 도발에 눈이 뒤집힌 게 분명했으니까.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T073010Z" changedate="20220722T073106Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>because the fact that Veroq was emitting such a strong aura against a dying person meant that his taunting worked and that Veroq’s anger has taken the best of him.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_3DQ3Y9bCw1i58H8UU60KONBE3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그들의 눈빛은 평소에 알고 지내던 우호적인 눈빛과는 거리가 멀었다.</prop>
+        <prop type="context_next">어떻게 보면 절망스러운 상황.</prop>
+        <seg>기사들은 동료가 아닌 주적(主敵)을 말살하기 위해 그에게 날카로운 칼을 겨누었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T065623Z" changedate="20220722T133722Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>The knights pointed their sharp blades at Kaliyan who was no longer their friend, but a sworn enemy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_3MNN5l900sBbQmjwP41oR1hGe">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“뭐…… 뭐!?”</prop>
+        <prop type="context_next">하지만 칼리얀은 이젠 뒤가 없는 상태.</prop>
+        <seg>갑작스러운 욕설에 베로크는 당황했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T043719Z" changedate="20220722T062339Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Veroq was caught off-guard by a sudden insult from Kaliyan,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_3fUTFyKe0Qp5WU8wbs0MGyBl0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">‘정말 일이 개같이 꼬였군.’</prop>
+        <prop type="context_next">칼리얀은 ‘가문의 재건’을 위해 오랫동안 사냥개로서 백작의 발을 핥으며 살아왔다.</prop>
+        <seg>칼리얀은 그저 그가 모시는 군주, 피이베르 백작의 ‘사냥개’로서 임무에 최선을 다했을 뿐이었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T014452Z" changedate="20220722T134434Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan simply did everything in his power to carry out his mission as a <bpt i="1000001" x="1000001" type="formatting">{i&gt;</bpt>hound <ept i="1000001">&lt;i}</ept>to<bpt i="1000002" x="1000002" type="formatting">{i&gt;</bpt> <ept i="1000002">&lt;i}</ept>Count<bpt i="1000003" x="1000003" type="formatting">{i&gt;</bpt> <ept i="1000003">&lt;i}</ept>Puivert, his master.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_41v7D1PP3Lu8ctgwK910157bq">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀은 죄명을 들을 때마다 기가 막힌 듯 한숨을 내쉬었다.</prop>
+        <prop type="context_next">모두 자신의 손에 죽은 녀석들인데 저들은 지금 말도 안 되는 억지를 부리고 있었다.</prop>
+        <seg>이곳에 널브러져 있는 백(百)구 가량의 시신이 안 보인단 말인가?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T092926Z" changedate="20220720T092926Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>How blind could he be to not see a hundred or more corpses lying around here?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_4ZOg6cOi0eR50NjwRd1YHM6k7">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“쩝…… 이렇게 뒈지려고 치열하게 살아온 게 아닌데…….”</prop>
+        <prop type="context_next">물론 그 노력에 대한 대가가 죽음으로 돌아올지는 몰랐지만.</prop>
+        <seg>그는 그 누구보다 치열하게 살아왔다고 자신했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T075951Z" changedate="20220722T064352Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>He firmly believed that he lived a life that is fiercer and busier than anyone,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_4cC05PQHwFB42B8Uld0COuXt2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀은 ‘반역자’라는 말에 잠시 울컥했지만 이내 심호흡을 하며 마음을 가라앉혔다.</prop>
+        <prop type="context_next">그보다는 지금 상황이 발생한 일에 대해 생각할 수밖에 없었다.</prop>
+        <seg>이미 십 년도 더 지난 일에 얽매일 이유가 없었기 때문이었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T013545Z" changedate="20220721T013545Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>for there was no reason to re-live the past event that occurred over ten years ago.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_4oPp0KGy0Qgbosj0iy0Q8Sld3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“하…….”</prop>
+        <prop type="context_next">이곳에 널브러져 있는 백(百)구 가량의 시신이 안 보인단 말인가?</prop>
+        <seg>칼리얀은 죄명을 들을 때마다 기가 막힌 듯 한숨을 내쉬었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T092843Z" changedate="20220722T134331Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan let out a sigh of frustration whenever the name of his crime was said.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_4qkIrZNh0Az4GU90231YmdZ08">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀은 검의 궤적을 읽기 위해 집중했다.</prop>
+        <prop type="context_next">강력한 일격이었지만 검의 움직임이 무척 단순했다.</prop>
+        <seg>베로크는 흥분한 나머지 검에 힘이 너무 들어가 있었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T122821Z" changedate="20220722T122821Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>and noticed that the swing, although powerful, was too predictable</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_71mYujqDxh74m698U00aX8EZ7">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">놈이 주군의 총애를 한몸에 받기도 했고 시간이 지나면서 실력도 자신을 뛰어넘었기 때문이었다.</prop>
+        <prop type="context_next">“자 이제 목을 내밀어라!”</prop>
+        <seg>왠지 모를 박탈감을 느끼게 해준 상대였기에 베로크는 칼리얀을 죽여 설욕할 생각이었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T054310Z" changedate="20220722T135605Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Veroq’s desired to see Kaliyan dead for being the reason behind his feeling of deprivation and to quell that feeling.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_7CvYZ05VxgM5OT9ott0sprht0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">하지만 나는 직접 그의 사냥개가 되기를 자청했다.</prop>
+        <prop type="context_next">그는 나의 염원을 들어줄 권력을 가지고 있었으니까.</prop>
+        <seg>왜?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T043655Z" changedate="20220719T043655Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>Why?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_7t1M9Es11CWh8Hxwqw3qcN1Sd">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">생(生)을 포기한 채 쥐어짠 마지막 오라였다</prop>
+        <prop type="context_next">코앞까지 다가온 베로크는 그대로 검을 휘둘렀다.</prop>
+        <seg>“죽어라!”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T051054Z" changedate="20220722T125019Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“Die!” Veroq cried out and</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_81gqq0FV31wmURz0uLcQy1sOa">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“모두 뒤로 물러나라.”</prop>
+        <prop type="context_next">다른 기사와 다른 정밀하게 세공된 화려한 갑주를 걸치고 있는 기사였다.</prop>
+        <seg>사방이 포위되고 주변이 정리되자 기사들 사이로 기사 하나가 불쑥 앞으로 나왔다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T084331Z" changedate="20220722T135527Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>When Kaliyan was completely surrounded and the area was cleared, a knight appeared from the knights.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_8IODcBHEgJt2uE4UEZw4qPiL">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">기사들의 눈빛만 봐도 자신을 살려서 체포할 생각 따위는 없어 보였다.</prop>
+        <prop type="context_next">숨통을 끊은 뒤 목을 베어 영애에게 가져다주라고.</prop>
+        <seg>분명 백작에게 모종의 명령을 받았을 것이다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T032608Z" changedate="20220722T032636Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>The count clearly ordered them to slay Kaliyan,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_8k8VI8rQw362ET4A5l0oVTOo1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그때 기사들이 약속이라도 한 듯 나타났다.</prop>
+        <prop type="context_next">칼리얀의 실력은 기사단 내에서도 발군이었다.</prop>
+        <seg>그리고 암살자의 수장으로 지목되는 황당한 죄명을 뒤집어쓴 채 기사들과 한 차례 칼부림을 한 상태였다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T004134Z" changedate="20220722T004134Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>and Kaliyan had already gone through a melee with knights after being accused of leading the assassins as their chief, as absurd as that sounded.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_8l1WoAtWxjG5KZ88PVxYqni02">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀은 그를 보며 비아냥거렸다.</prop>
+        <prop type="context_next">평소에 기사단 내에서도 자신을 괴롭히지 못해 안달이 난 직속상관이었으니 못 알아보는 게 더 이상했다.</prop>
+        <seg>면상을 본 순간, 그가 누군지 단박에 알아차렸다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T085020Z" changedate="20220721T011510Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>He recognized the face of his direct superior at once</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_8vj8S8YB04G5Sa9gFn00Y6r36">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그런 칼리얀의 주위로 기사들이 몰려들었다.</prop>
+        <prop type="context_next">그들의 눈빛은 평소에 알고 지내던 우호적인 눈빛과는 거리가 멀었다.</prop>
+        <seg>어제까지 동료였던 기사들이 주위를 점점 포위한 채 다가오고 있었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T065413Z" changedate="20220721T091009Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>on Kaliyan from all directions,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_9C90HP9Nwkr5u69w8dwPxfZ70">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">백작은 그 기사의 목을 원했으니까.</prop>
+        <prop type="context_next">문제는 영애가 보는 눈앞에서 기사의 목을 친 것이 실수였다.</prop>
+        <seg>그리고 그 공으로 기사단의 부단장에 오르며 자신의 염원에 한 발자국 나아간 듯 보였다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T084104Z" changedate="20220721T084104Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>It appeared as though Kaliyan took a step closer to his wish when he was appointed as the vice commander of the order.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_9DVxl2NxwFZ2564QmKgXSIup">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“하…… 참 내.”</prop>
+        <prop type="context_next">그의 몸은 수많은 일(一)자로 문신을 새긴 양 끔찍한 상처로 도배되어 있었다.</prop>
+        <seg>칼리얀은 복부에 흘러내리는 내장을 틀어막으며 헛웃음을 터뜨렸다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T062359Z" changedate="20220722T133638Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>He let out slight laughter while holding his guts from spilling out</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_9aWBl08K0aoaU4i0Yw2Y0zu2b">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">이곳에 그의 편은 아무도 없었다.</prop>
+        <prop type="context_next">“모두 뒤로 물러나라.”</prop>
+        <seg>그는 묵묵히 제자리에서 전방을 바라보고 있었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T083857Z" changedate="20220722T134242Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>fixed his gaze on the front in silence.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_9atgnMMrMiw2od4wvdwzLfQe">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">베로크는 그 모습에 이를 바득 갈며 노려보았다.</prop>
+        <prop type="context_next">역시 반역자의 씨답게 뻔뻔하구나!”</prop>
+        <seg>“죄 지은 주제에 이리 태연한 얼굴이라니.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T012424Z" changedate="20220722T121707Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“You committed a crime, and yet you remain so calm and shameless.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_9rjNFt0K0Msawhh0Qb006JQFn">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">이곳에 널브러져 있는 백(百)구 가량의 시신이 안 보인단 말인가?</prop>
+        <prop type="context_next">‘뭐.</prop>
+        <seg>모두 자신의 손에 죽은 녀석들인데 저들은 지금 말도 안 되는 억지를 부리고 있었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T093039Z" changedate="20220722T134354Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>All these men were killed by his hands, and yet, the knight would spew an accusation that doesn’t make sense.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_At3caCwx0A85y1gwJj2HTIHX2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">하지만 나는 염원에 눈이 멀어 가장 중요한 것을 잊고 있었다.</prop>
+        <prop type="context_next">사냥이 끝나면 결국 사냥꾼의 한 끼 식사로 전락할 뿐이라는 것을.</prop>
+        <seg>사냥개는 결국 사냥개일 뿐이라는 것을.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T141603Z" changedate="20220719T144543Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>That a hound is always just a hound,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_BA8A1XZHwqe5ia8gfF1QgvqE3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">어찌 보면 굉장히 위협적인 공격.</prop>
+        <prop type="context_next">죽을 듯이 헐떡이는 상대에게 오라를 뽑아낼 정도라면 도발에 눈이 뒤집힌 게 분명했으니까.</prop>
+        <seg>하지만 칼리얀은 그 모습을 보며 회심의 미소를 지었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T072713Z" changedate="20220722T072830Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>but Kaliyan let out a smile of content</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_BJwv5YNOMEp2Iy4AXSgeYUKu">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">평소에 그토록 죽이고 싶었던 녀석이었으니 자신의 손으로 처리할 생각이었다.</prop>
+        <prop type="context_next">면천을 해 평민으로 승격되었다 해도 준귀족인 자신에 비하면 벼룩같이 하찮은 놈이었다.</prop>
+        <seg>비록 멸문 귀족이었다지만 저놈이 처음으로 백작가에 들어왔을 때는 비루한 노예 신분이었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T050729Z" changedate="20220722T053905Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>and climbed up the ladder to attain the rank of a commoner.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_BnZNASaB06v5I78UI3xkNw0g2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">코앞까지 다가온 베로크는 그대로 검을 휘둘렀다.</prop>
+        <prop type="context_next">칼리얀은 검의 궤적을 읽기 위해 집중했다.</prop>
+        <seg>칼리얀을 절반으로 쪼갤 듯 그의 검(劍)은, 붉은 벼락처럼 내리꽂혔다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T122613Z" changedate="20220722T135253Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>His sword struck downward like red lightning with the force that would cut Kaliyan in half. </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_C736zv48gDZ2rg4oZXgwGTo9">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">십 년 동안 그의 손에 피가 마를 날이 없을 정도로.</prop>
+        <prop type="context_next">근 십 년을 백작이 싸지른 똥을 치우며 살아왔는데 최근 맡은 임무로 인해 이런 꼴로 버려지게 되었다.</prop>
+        <seg>그의 목적은 오직 하나, 백작의 가신으로 인정 받아 멸문한 자신의 가문을 복권하기 위해서였다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T052757Z" changedate="20220722T130932Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>His only goal was to reach the status of count’s vassal and be recognized as one to restore his fallen family.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_CEkcTzcOg8221N9ULawcE8do0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">백작님을 암살하기 위해 암살단을 조직한 것을 모를 줄 아느냐?”</prop>
+        <prop type="context_next">칼리얀은 죄명을 들을 때마다 기가 막힌 듯 한숨을 내쉬었다.</prop>
+        <seg>“하…….”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T085635Z" changedate="20220720T085635Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“Sigh...”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_CmezWnjtMDx29N4I0Z0U6qyn3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">‘아무리 봐도 살려줄 분위기는 아니지?’</prop>
+        <prop type="context_next">분명 백작에게 모종의 명령을 받았을 것이다.</prop>
+        <seg>기사들의 눈빛만 봐도 자신을 살려서 체포할 생각 따위는 없어 보였다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T032528Z" changedate="20220722T032528Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Just from looking at the eyes of the knights, it was clear that they had no intention of taking him in custody, alive.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_DIjISdXSMK62Z940Ynw7El0P3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">죽을 듯이 헐떡이는 상대에게 오라를 뽑아낼 정도라면 도발에 눈이 뒤집힌 게 분명했으니까.</prop>
+        <prop type="context_next">“흥분하면 뒈진다고 병신아.”</prop>
+        <seg>놈을 상대하기가 더욱 수월해졌다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T073112Z" changedate="20220722T073112Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>He was now easier to deal with.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_DNt6sLE9MJS2Uf4AEr0orxVh1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">시간이 지날수록 나는 그 염원이 이뤄질 것이라 확신했다.</prop>
+        <prop type="context_next">하지만 나는 염원에 눈이 멀어 가장 중요한 것을 잊고 있었다.</prop>
+        <seg>나는 그가 내려준 임무를 완벽히 처리할 실력과 머리를 충분히 겸비하고 있었으니까.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T141505Z" changedate="20220719T144447Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>for I had enough skills and wits to handle his missions perfectly.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_DgjdMuBv08D5k69gwmxFpgAO0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">궤적을 머릿속에 입력한 칼리얀은 이를 악물고 앞으로 튀어나갔다.</prop>
+        <prop type="context_next">아니, 막았다고 하기에는 어폐(語弊)가 있었다.</prop>
+        <seg>그는 오른손에 검을 쥔 채 달려나가, 베로크의 공격을 왼쪽 어깨로 들이막았다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T123148Z" changedate="20220722T123217Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Grabbing his sword with his right hand, Kaliyan guarded Veroq’s attack with his left shoulder after surging.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_EjMStzjcMoI21W9osuxWzOvX1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">사냥개는 그런 빌어먹을 존재였다.</prop>
+        <prop type="context_next">왜?</prop>
+        <seg>하지만 나는 직접 그의 사냥개가 되기를 자청했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T043655Z" changedate="20220719T142259Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>However, it is also I who voluntarily became his hound.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_FJA4ejK8gM05K69UxO1a8xxO3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그리고 그 공으로 기사단의 부단장에 오르며 자신의 염원에 한 발자국 나아간 듯 보였다.</prop>
+        <prop type="context_next">백작가를 버리고 도망갈 정도로 사랑했던 이가 눈앞에서 처참하게 죽어버리자 영애의 눈은 복수로 뒤집혔다.</prop>
+        <seg>문제는 영애가 보는 눈앞에서 기사의 목을 친 것이 실수였다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T084145Z" changedate="20220721T084400Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>His mistake, however, was that he executed the knight in front of his lover, the count’s daughter,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_G6Rt5g63wnF2PG4g0owvyiC90">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">곧 있으면 불꽃은 한 줌의 재와 함께 푹 꺼질 것이다.</prop>
+        <prop type="context_next">두터운 포위망을 뚫고, 배신한 백작과 저 빌어먹을 영애를 죽이는 건 죽었다 깨어나도 불가능한 상태.</prop>
+        <seg>그 전에 몸을 움직여야 했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T081114Z" changedate="20220722T081114Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan had to move before that happened.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_GBzI6yFtwez2hw4Y2u0esASJ0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">기사들은 동료가 아닌 주적(主敵)을 말살하기 위해 그에게 날카로운 칼을 겨누었다.</prop>
+        <prop type="context_next">하지만 칼리얀은 그들을 바라보며 키득키득 웃었다.</prop>
+        <seg>어떻게 보면 절망스러운 상황.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T074945Z" changedate="20220721T091002Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>The situation was what many would call, a dire one,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_GEo0FpSMxai4a0j0yP0YeDgu2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그는 그 누구보다 치열하게 살아왔다고 자신했다.</prop>
+        <prop type="context_next">“쓸데없는 생각은 여기까지.”</prop>
+        <seg>물론 그 노력에 대한 대가가 죽음으로 돌아올지는 몰랐지만.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T080028Z" changedate="20220722T064422Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>but he had not expected his effort to be rewarded with death.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_GINz11X82WR8QhigzH1wPZwH2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그것이 더 큰 비수가 되어 날아온다는 것을 잘 알고 있기 때문이다.</prop>
+        <prop type="context_next">찝찝한 마음을 달래며 그녀를 백작가에 데려다 놨는데 그녀는 대담하게도 그녀의 부친인 백작을 찾아가 칼리얀의 목숨을 놓고 백작과 거래를 했다.</prop>
+        <seg>하지만 그녀는 주군의 영애, 죽이기는커녕 눈도 제대로 못 맞추는 상대였다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T084753Z" changedate="20220721T084753Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>But the hostile this time was his liege’s daughter, the eminence whom Kaliyan wouldn’t dare make eye contact, let alone kill.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_GL1L2A9M1wJ8ohiwHG3Jp00g6">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“흥분하면 뒈진다고 병신아.”</prop>
+        <prop type="context_next">상처로 인해 출혈은 이미 한계를 넘어선 상태.</prop>
+        <seg>칼리얀은 작게 중얼거리며 땅에 박힌 검을 뽑아 들었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T065709Z" changedate="20220722T065709Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>as he proceeded to uproot his sword.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_HaFx03xZw7g4Mv9UqJxnBWox0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">하지만 정반대로 정신은 평소보다 또렷했고 집중력도 최고조로 높아졌다.</prop>
+        <prop type="context_next">곧 있으면 불꽃은 한 줌의 재와 함께 푹 꺼질 것이다.</prop>
+        <seg>칼리얀은 자신의 상태가 죽기 직전 나타나는 마지막 불꽃 현상이라는 사실을 깨달았다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T081011Z" changedate="20220722T133350Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan realized that it was his last flame that was igniting before his demise,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_HefWMZUgwaS2EO4UJ11ijsK13">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">백작이 원하는 상대와의 결혼, 그 대가인 사냥개의 목.</prop>
+        <prop type="context_next">그날 저녁 칼리얀은 수많은 암살자의 공격을 받았다.</prop>
+        <seg>이미 결과는 정해진 것과 다름없었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T090659Z" changedate="20220722T141858Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>It was then when Kaliyan’s fate was decided.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_HkzGr6tBw1I4K698o30sRM0V7">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_next">001화</prop>
+        <seg>@회차:</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T042119Z" changedate="20220719T042119Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>@Chapter:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_HsR1OHrAwVC5Wb8UUg085a1X6">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">여자는 다른 곳 가서 찾아보라고.”</prop>
+        <prop type="context_next">“으하하!”</prop>
+        <seg>“이 새끼가!!”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T045424Z" changedate="20220722T072153Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“You son of a-!!” Snapped Veroq.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_I87obETy0QI4g88guGxaKSlb1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">하지만 상관없었다.</prop>
+        <prop type="context_next">칼리얀의 작전은 단순했다.</prop>
+        <seg>칼리얀이 원한 건 베로크와의 거리였으니.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T123433Z" changedate="20220722T142223Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>as his main goal was to close in on Veroq</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_IJ8kmrHY0qX42G8UTL0yd7iq3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">결과적으로 나는 염원을 이루기 위해 십 년 동안 그의 더럽고 추악한 임무를 수행하며 살아왔다.</prop>
+        <prop type="context_next">시간이 지날수록 나는 그 염원이 이뤄질 것이라 확신했다.</prop>
+        <seg>하루하루 손에 피 마를 날 없는 인생.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T141043Z" changedate="20220719T141043Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>My hands were always red with my victims’ blood.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_J6NhRKrfgdV2tA4sfV0gK1N42">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">002화</prop>
+        <prop type="context_next">버려진 사냥개</prop>
+        <seg>@소제목:</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T061926Z" changedate="20220720T061926Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">hayoung@glozinc.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>@Title:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_JBkvh0rM0KFbghiwOe3F9Cyu0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그리고 암살자의 수장으로 지목되는 황당한 죄명을 뒤집어쓴 채 기사들과 한 차례 칼부림을 한 상태였다.</prop>
+        <prop type="context_next">그는 대륙에서도 상위권 실력을 갖춘 ‘챔피언’급 기사였으니까.</prop>
+        <seg>칼리얀의 실력은 기사단 내에서도 발군이었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T004428Z" changedate="20220722T005132Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Although Kaliyan was one of the order’s finest,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_JK15A4GI08g8cwhwfa12R3Y73">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">@소제목:</prop>
+        <prop type="context_next">“하…… 참 내.”</prop>
+        <seg>버려진 사냥개</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T061940Z" changedate="20220720T061940Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>The Abandoned Hound</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_JiZCL8a2wiP2qs4QkFMzjH0B1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그는 이가 부러진 검을 바닥에 박아 넣고는 허리를 폈다.</prop>
+        <prop type="context_next">이런 종류의 통증은 이제 면역이 될 대로 된 상태라 그에게 그리 큰 감흥을 주기 어려웠다.</prop>
+        <seg>피가 거꾸로 솟는 느낌과 함께 지독한 통증이 찾아왔지만, 그는 금세 적응된 얼굴로 가볍게 혀를 찼다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T084334Z" changedate="20220722T134240Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>His action was followed by a malicious pain accompanied by the feeling of blood flowing backward in his blood vessels, but soon after, his face calmed down as he adjusted. Kaliyan clicked his tongue lightly.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_JmCqiFRgwZO2bn4ww6wF1jHU0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">이제 그만 죄를 인정하고 포기해라.”</prop>
+        <prop type="context_next">“흥!</prop>
+        <seg>“제가 무슨 죄를 지어서 이런 꼴이 되었는지 모르겠습니다만?”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T085432Z" changedate="20220722T064807Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“With all due respect sir, I fail to understand what sin I’ve committed to deserve this,” replied Kaliyan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_JnXESP6mwi15c99M8rxHIgJR0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">처음에는 권력을 이용해 짓눌렀지만 그것도 한계가 있었다.</prop>
+        <prop type="context_next">왠지 모를 박탈감을 느끼게 해준 상대였기에 베로크는 칼리얀을 죽여 설욕할 생각이었다.</prop>
+        <seg>놈이 주군의 총애를 한몸에 받기도 했고 시간이 지나면서 실력도 자신을 뛰어넘었기 때문이었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T054047Z" changedate="20220722T134658Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>but as time went by, Kaliyan took all the spotlight from his liege, and eventually surpassed Veroq in skills.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_K5T2DrZfM9046r90Ag0EoPj40">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">하지만 칼리얀은 그들을 바라보며 키득키득 웃었다.</prop>
+        <prop type="context_next">“쩝…… 이렇게 뒈지려고 치열하게 살아온 게 아닌데…….”</prop>
+        <seg>비록 공허함과 허탈감이 섞인 자조적인 웃음이었지만 말이다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T075712Z" changedate="20220721T091009Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>letting out a snicker of hollowness and futility.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_K6CsDLN11C2aY7g08X1YHqc09">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">이번 공격이 실패로 돌아가는 순간 베로크에게 농락당하며 죽을 확률이 높았다.</prop>
+        <prop type="context_next">칼리얀의 어깻죽지가 나가떨어지며 핏물이 사방으로 튀었다.</prop>
+        <seg>칼리얀은 그것이 죽기보다 싫었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T124737Z" changedate="20220722T124737Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan would rather die than see that happen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_K9oj5ugJMpS2l94MSAMIeAGN">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">물론 도발을 유도하려는 계획도 있었지만.</prop>
+        <prop type="context_next">알겠습니다!’하고 목을 들이밀겠냐?”</prop>
+        <seg>“너 같으면 ‘예!</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T043946Z" changedate="20220721T044753Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“What? Think about it, if you were me,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_L7DdzxHqMHx25I4Mj30ojSbr1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">갑작스러운 욕설에 베로크는 당황했다.</prop>
+        <prop type="context_next">평소에 짜증을 유발했던 놈이었으니 욕설이나 실컷 퍼부을 생각이었다.</prop>
+        <seg>하지만 칼리얀은 이젠 뒤가 없는 상태.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T043800Z" changedate="20220722T062347Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>the cornered one who was without an escape or a place to return.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_LFLePq8dgSK2IT4sHogqSc3R">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">001화</prop>
+        <prop type="context_next">프롤로그</prop>
+        <seg>@소제목:</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T042143Z" changedate="20220719T042143Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>@Title:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_LnALqbGRgIm2Vl4ARtwm4nX3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">허리를 펴고 뒤쪽을 바라보자 궁수들이 사방에 배치된 채 시위를 당기고 있었다.</prop>
+        <prop type="context_next">아무리 머리를 굴려 봐도 빠져나갈 구멍이 보이지 않았다.</prop>
+        <seg>수백으로 이뤄진 궁수 부대는 언제라도 명령이 떨어지면 쏴버리겠다는 듯이 날카로운 눈빛을 보내오고 있었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T083254Z" changedate="20220722T141554Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>The archers, hundreds of them, glared at him sharply, as if saying they would launch the volley the very moment the order was given.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Ms4OgA9AMkf2Ii48Bj00ldSM0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">몸은 더는 검을 휘두를 수 없을 정도로 망가진 상태.</prop>
+        <prop type="context_next">칼리얀은 그것이 죽기보다 싫었다.</prop>
+        <seg>이번 공격이 실패로 돌아가는 순간 베로크에게 농락당하며 죽을 확률이 높았다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T124644Z" changedate="20220722T135331Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Failing this attack would mean death by Veroq’s dishonorable brutality.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Ng6Aac0IxkP5EP8M9G1cF1c21">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">하루하루 손에 피 마를 날 없는 인생.</prop>
+        <prop type="context_next">나는 그가 내려준 임무를 완벽히 처리할 실력과 머리를 충분히 겸비하고 있었으니까.</prop>
+        <seg>시간이 지날수록 나는 그 염원이 이뤄질 것이라 확신했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T141141Z" changedate="20220719T144444Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>As time passed by, I was sure that my ambitions would come true,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_OWoW19m4x0a9o4gwu73hJHUF0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">근 십 년을 백작이 싸지른 똥을 치우며 살아왔는데 최근 맡은 임무로 인해 이런 꼴로 버려지게 되었다.</prop>
+        <prop type="context_next">‘저 미친년 때문에 골로 가는군.’</prop>
+        <seg>칼리얀은 궁수들 한가운데서 자신을 죽일 듯이 노려보는 한 여인을 바라보며 쓴웃음을 지었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T053310Z" changedate="20220721T053328Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan looked at the woman who was noticeably standing among the archers, glaring him to death, and smirked.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_OhuUreuk0WM5YY8MtPw80HA20">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">백작이 만족스럽게 고개를 끄덕일 정도.</prop>
+        <prop type="context_next">어쩔 수 없었다.</prop>
+        <seg>영애를 붙잡아 백작가에 데려왔고 평민 기사는 그 자리에서 목을 베어 백작에게 바쳤다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T083856Z" changedate="20220722T130933Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan brought the lady before the count, relieved the commoner knight of his head on-site, and gifted it to the count.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Ol4jCGSIMnm2Yh4EJNwpTYbD">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">문제는 영애가 보는 눈앞에서 기사의 목을 친 것이 실수였다.</prop>
+        <prop type="context_next">칼리얀은 적대감을 보인 상대에게 자비를 베풀지 않는다.</prop>
+        <seg>백작가를 버리고 도망갈 정도로 사랑했던 이가 눈앞에서 처참하게 죽어버리자 영애의 눈은 복수로 뒤집혔다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T084447Z" changedate="20220721T084447Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>who swore to avenge the horrible death of her dearest, whom she loved so deeply as to leave her noble family behind and elope.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_PLeK1CHW1sSbkpi0gu2GdCfl3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“이…… 이놈이!!”</prop>
+        <prop type="context_next">베로크는 모두가 보는 앞에서 심한 모욕을 당하자 얼굴을 시뻘게졌다.</prop>
+        <seg>“실력도 없는 주제에 왜 앞으로 기어 나와, 뒈지고 싶냐?”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T044732Z" changedate="20220721T085042Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“For an incompetent knight, you sure do love to crawl forward. You have a death wish or something?”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_PTfH1BoYxVh5GL9MlYw7jEux0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그의 목적은 오직 하나, 백작의 가신으로 인정 받아 멸문한 자신의 가문을 복권하기 위해서였다.</prop>
+        <prop type="context_next">칼리얀은 궁수들 한가운데서 자신을 죽일 듯이 노려보는 한 여인을 바라보며 쓴웃음을 지었다.</prop>
+        <seg>근 십 년을 백작이 싸지른 똥을 치우며 살아왔는데 최근 맡은 임무로 인해 이런 꼴로 버려지게 되었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T053053Z" changedate="20220721T053053Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>But because of the last mission he undertook, the ten years of cleaning up the count’s mess have been dumped along with Kaliyan himself.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_PYlV7LiUgO22m44IRDMc8JG6">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“이 새끼가!!”</prop>
+        <prop type="context_next">칼리얀의 비웃음에 그는 더는 참지 못하고 바로 칼리얀을 향해 쇄도했다.</prop>
+        <seg>“으하하!”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T045428Z" changedate="20220722T072210Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“Ahaha!” Kaliyan laughed,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_PkExVY010Y0Kwe02qGl0UMkVo">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">하지만 숫자가 너무 많았기에 암살자를 모조리 죽였을 땐 그는 무척 지쳐있었다.</prop>
+        <prop type="context_next">그리고 암살자의 수장으로 지목되는 황당한 죄명을 뒤집어쓴 채 기사들과 한 차례 칼부림을 한 상태였다.</prop>
+        <seg>그때 기사들이 약속이라도 한 듯 나타났다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T092247Z" changedate="20220722T134603Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>It was then when the knights showed as if it was all planned,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Pv9S6IqRMjC2bf4cjmwY0B9B0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀은 ‘가문의 재건’을 위해 오랫동안 사냥개로서 백작의 발을 핥으며 살아왔다.</prop>
+        <prop type="context_next">십 년 동안 그의 손에 피가 마를 날이 없을 정도로.</prop>
+        <seg>백작이 시키는 건 가리지 않고 다 했으며 그가 원한다면 살인까지도 불사했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T051554Z" changedate="20220721T051554Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>For ten years, there was not a single day where blood washed out from his hands,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Q1jr8kYN0mn9E9hwIT3JvOYj0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">이미 결과는 정해진 것과 다름없었다.</prop>
+        <prop type="context_next">사냥개 노릇을 하며 자주 이용해왔던 모든 암살자가 검을 거꾸로 쥐고 칼리얀을 압박해왔다.</prop>
+        <seg>그날 저녁 칼리얀은 수많은 암살자의 공격을 받았다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T091624Z" changedate="20220721T091624Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>That evening, the very assassins whom Kaliyan utilized frequently during his time</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Q5vxbJDyMoA27A48LIMf0RBz1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">하지만 이미 암살자들과 치열한 전투를 치른 뒤였기에 지쳐있던 그는 제대로 된 반격을 할 수 없었다.</prop>
+        <prop type="context_next">기사들의 눈빛만 봐도 자신을 살려서 체포할 생각 따위는 없어 보였다.</prop>
+        <seg>‘아무리 봐도 살려줄 분위기는 아니지?’</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T005155Z" changedate="20220722T005155Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{i&gt;</bpt>I guess they have no intention of sparing me.<ept i="1000001">&lt;i}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_QwA6UvClg1k5ee8gDW0oLKD17">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">면상을 본 순간, 그가 누군지 단박에 알아차렸다.</prop>
+        <prop type="context_next">베로크는 칼리얀의 몰골을 바라보며 능글거리게 웃었다.</prop>
+        <seg>평소에 기사단 내에서도 자신을 괴롭히지 못해 안달이 난 직속상관이었으니 못 알아보는 게 더 이상했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T085845Z" changedate="20220720T085845Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>as Veroq took every opportunity to assault him in some way. It would have been strange if he hadn’t noticed him.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_S0Jp8gqWwD65mK9ocS1ckKqY2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">원하는 것도 없이 남의 더러운 짓거리를 대신 맡아 줄 멍청한 놈이 존재할 리 없다.</prop>
+        <prop type="context_next">하루하루 손에 피 마를 날 없는 인생.</prop>
+        <seg>결과적으로 나는 염원을 이루기 위해 십 년 동안 그의 더럽고 추악한 임무를 수행하며 살아왔다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T140134Z" changedate="20220719T230854Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>Ultimately, I carried out his devious, wretched schemes for ten years to realize my ambitions.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_S9UQgb0w1E0loBxwLL7wL9bV3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">강력한 일격이었지만 검의 움직임이 무척 단순했다.</prop>
+        <prop type="context_next">그는 오른손에 검을 쥔 채 달려나가, 베로크의 공격을 왼쪽 어깨로 들이막았다.</prop>
+        <seg>궤적을 머릿속에 입력한 칼리얀은 이를 악물고 앞으로 튀어나갔다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T123021Z" changedate="20220722T123021Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan gritted his teeth and lunged forward after imprinting the trajectory onto his head.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_SXYwC6Ewwrk2UT4AREMM8S1x0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">백작의 영애가 평민 기사와 눈이 맞아 사랑의 도피를 시작한 것이 사건 발단의 시초였다.</prop>
+        <prop type="context_next">백작이 만족스럽게 고개를 끄덕일 정도.</prop>
+        <seg>백작은 사냥개인 칼리얀에게 명령했고 그는 정말 깔끔하게 일을 해결했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T080310Z" changedate="20220721T080316Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>The count ordered his hound, and Kaliyan handled the job perfectly,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Semk9tI1001CwLe100hxk0Sl93">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">‘뭐.</prop>
+        <prop type="context_next">백작이 까라면 까야겠지.’</prop>
+        <seg>이해는 했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T093112Z" changedate="20220720T093126Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{i&gt;</bpt>understandable.<ept i="1000001">&lt;i}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_T10VbDYH00rD0O42gW3wTEps4">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">알겠습니다!’하고 목을 들이밀겠냐?”</prop>
+        <prop type="context_next">“실력도 없는 주제에 왜 앞으로 기어 나와, 뒈지고 싶냐?”</prop>
+        <seg>“이…… 이놈이!!”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T044518Z" changedate="20220722T061844Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“Y-you... insolent-” Veroq spoke, but was interrupted by Kaliyan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_TPEXWV1o14OboPigOV24YQNt1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">수백으로 이뤄진 궁수 부대는 언제라도 명령이 떨어지면 쏴버리겠다는 듯이 날카로운 눈빛을 보내오고 있었다.</prop>
+        <prop type="context_next">평소에 그렇게 잘 돌아갔던 머리가 오늘따라 멍청하게 느껴진다.</prop>
+        <seg>아무리 머리를 굴려 봐도 빠져나갈 구멍이 보이지 않았다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T083330Z" changedate="20220722T135510Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>No matter how hard Kaliyan used his brain, he could not see any escape openings.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_TUOMdioAM074E58M8118spN08">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">평소에 그렇게 잘 돌아갔던 머리가 오늘따라 멍청하게 느껴진다.</prop>
+        <prop type="context_next">그는 묵묵히 제자리에서 전방을 바라보고 있었다.</prop>
+        <seg>이곳에 그의 편은 아무도 없었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T083835Z" changedate="20220720T083843Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan, standing still without a single ally amidst the crowd,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_TagYqfQgMqb2cJ4Esaws91CL0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">어쩔 수 없었다.</prop>
+        <prop type="context_next">그리고 그 공으로 기사단의 부단장에 오르며 자신의 염원에 한 발자국 나아간 듯 보였다.</prop>
+        <seg>백작은 그 기사의 목을 원했으니까.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T083947Z" changedate="20220721T083947Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>the count’s wish to behead the fellow.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_UJiGBUbLwwD2PP4cme0qx6Pa1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">‘저 미친년 때문에 골로 가는군.’</prop>
+        <prop type="context_next">백작은 사냥개인 칼리얀에게 명령했고 그는 정말 깔끔하게 일을 해결했다.</prop>
+        <seg>백작의 영애가 평민 기사와 눈이 맞아 사랑의 도피를 시작한 것이 사건 발단의 시초였다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T061254Z" changedate="20220721T061308Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>It all began when the daughter of the count and a commoner knight fell in love and eloped.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_UXHXn8Yqw5U29d4QxHMPExRg">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">평소에 짜증을 유발했던 놈이었으니 욕설이나 실컷 퍼부을 생각이었다.</prop>
+        <prop type="context_next">“너 같으면 ‘예!</prop>
+        <seg>물론 도발을 유도하려는 계획도 있었지만.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T043928Z" changedate="20220722T140128Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>onto the knight who always got on his nerve—intending to taunting him as well—Kaliyan started shaming Veroq.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Uh3hBQETM8f2Uo48QPwMBvi1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">평소에 기사단 내에서도 자신을 괴롭히지 못해 안달이 난 직속상관이었으니 못 알아보는 게 더 이상했다.</prop>
+        <prop type="context_next">몰락 귀족 주제에 뻗대는 모습이 눈꼴시었는데 넝마가 된 모습에 속이 다 시원했다.</prop>
+        <seg>베로크는 칼리얀의 몰골을 바라보며 능글거리게 웃었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T085955Z" changedate="20220722T134245Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Veroq’s face was filled with a smirk at the sight of the sorry state Kaliyan was in</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_UiG2pEcy0Cf5ce9EiCx8Vr1y1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">분명 백작에게 모종의 명령을 받았을 것이다.</prop>
+        <prop type="context_next">베로크는 앞으로 나서며 검을 뽑아 들었다.</prop>
+        <seg>숨통을 끊은 뒤 목을 베어 영애에게 가져다주라고.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T032642Z" changedate="20220722T121622Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>cut his head, and bring it to his daughter.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_UxYT8RUAwoD2tc4Ynv005xQp3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그는 대륙에서도 상위권 실력을 갖춘 ‘챔피언’급 기사였으니까.</prop>
+        <prop type="context_next">‘아무리 봐도 살려줄 분위기는 아니지?’</prop>
+        <seg>하지만 이미 암살자들과 치열한 전투를 치른 뒤였기에 지쳐있던 그는 제대로 된 반격을 할 수 없었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T032450Z" changedate="20220722T121625Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>he could not strike back properly as the intense fight with assassins had taken a toll on him.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_V2lPfpCEg362cn4IoQ0QwV0t2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">몰락 귀족 주제에 뻗대는 모습이 눈꼴시었는데 넝마가 된 모습에 속이 다 시원했다.</prop>
+        <prop type="context_next">이제 그만 죄를 인정하고 포기해라.”</prop>
+        <seg>“칼리얀, 꼴좋구나.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T085100Z" changedate="20220721T083414Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“A well-deserved end, Kaliyan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_VHgA4sJ3003bA3hMw81qr10af">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀은 궁수들 한가운데서 자신을 죽일 듯이 노려보는 한 여인을 바라보며 쓴웃음을 지었다.</prop>
+        <prop type="context_next">백작의 영애가 평민 기사와 눈이 맞아 사랑의 도피를 시작한 것이 사건 발단의 시초였다.</prop>
+        <seg>‘저 미친년 때문에 골로 가는군.’</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T054006Z" changedate="20220721T054029Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{i&gt;</bpt>That damned woman is the bane of my existence, literally.<ept i="1000001">&lt;i}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_VIKLccCHw8q2ej4MKGgcZueu">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“죽어라!”</prop>
+        <prop type="context_next">칼리얀을 절반으로 쪼갤 듯 그의 검(劍)은, 붉은 벼락처럼 내리꽂혔다.</prop>
+        <seg>코앞까지 다가온 베로크는 그대로 검을 휘둘렀다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T122239Z" changedate="20220722T122412Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>swung his sword from right in front of Kaliyan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_WCipmCHU0iF4wt9wH03hr2be2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">사방이 포위되고 주변이 정리되자 기사들 사이로 기사 하나가 불쑥 앞으로 나왔다.</prop>
+        <prop type="context_next">그가 걸친 푸른 갑주는 기사들 사이에서도 시선을 확 사로잡을 정도로 눈에 띄었다.</prop>
+        <seg>다른 기사와 다른 정밀하게 세공된 화려한 갑주를 걸치고 있는 기사였다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T084437Z" changedate="20220720T084603Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>The knight’s lavish armor, refined with great attention to details distinguished from other knights,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Wswu5yqLwUv2cX4UuYgRiGpA">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀은 적대감을 보인 상대에게 자비를 베풀지 않는다.</prop>
+        <prop type="context_next">하지만 그녀는 주군의 영애, 죽이기는커녕 눈도 제대로 못 맞추는 상대였다.</prop>
+        <seg>그것이 더 큰 비수가 되어 날아온다는 것을 잘 알고 있기 때문이다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T084613Z" changedate="20220721T084613Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>as he knew that the signs will one day, come back as deadly blades that stab him in the back.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_X9CluLFOMfW2U09UiZ0QJiMN3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">검에 닿는 순간 어깨는 순식간에 잘려나갔으니까.</prop>
+        <prop type="context_next">칼리얀이 원한 건 베로크와의 거리였으니.</prop>
+        <seg>하지만 상관없었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T123435Z" changedate="20220722T123457Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>But Kaliyan did not mind,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_YB5HFhDUgxm22Y4QMnMxowwH">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">버려진 사냥개</prop>
+        <prop type="context_next">칼리얀은 복부에 흘러내리는 내장을 틀어막으며 헛웃음을 터뜨렸다.</prop>
+        <seg>“하…… 참 내.”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T062011Z" changedate="20220722T064439Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“Ha... This is just great,” Kaliyan muttered.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_YH3XvqMSgxd2v84Ybk0wRfrs0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">하지만 칼리얀은 이젠 뒤가 없는 상태.</prop>
+        <prop type="context_next">물론 도발을 유도하려는 계획도 있었지만.</prop>
+        <seg>평소에 짜증을 유발했던 놈이었으니 욕설이나 실컷 퍼부을 생각이었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T043845Z" changedate="20220722T133240Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Planning to spill all the profanity he could think</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ZED6lQQw0cc4ie9EpZ127RdQ2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“실력도 없는 주제에 왜 앞으로 기어 나와, 뒈지고 싶냐?”</prop>
+        <prop type="context_next">평소에 지독히도 싫어했던 놈에게 욕까지 처먹자 그는 몸을 부들부들 떨며 칼리얀을 죽일 듯이 노려봤다.</prop>
+        <seg>베로크는 모두가 보는 앞에서 심한 모욕을 당하자 얼굴을 시뻘게졌다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T061409Z" changedate="20220722T061606Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan continued to brutally insult Veroq in front of everyone, and his face reddened rapidly.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ZLPX1zx91mK8kjhwqF20vU2c7">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">놈을 상대하기가 더욱 수월해졌다.</prop>
+        <prop type="context_next">칼리얀은 작게 중얼거리며 땅에 박힌 검을 뽑아 들었다.</prop>
+        <seg>“흥분하면 뒈진다고 병신아.”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T050714Z" changedate="20220722T065628Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“You will die for losing your cool, moron,” muttered Kaliyan</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_a3CXW3qqglv2xd4cAWM6ihuc">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">베로크는 칼리얀의 몰골을 바라보며 능글거리게 웃었다.</prop>
+        <prop type="context_next">“칼리얀, 꼴좋구나.</prop>
+        <seg>몰락 귀족 주제에 뻗대는 모습이 눈꼴시었는데 넝마가 된 모습에 속이 다 시원했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T090449Z" changedate="20220720T090449Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>because Kaliyan’s proud demeanor—despite his fallen noble upbringing—always got on his nerves.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_aeu2SxIVM5s2Ui486t0G48ks0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“너 같으면 ‘예!</prop>
+        <prop type="context_next">“이…… 이놈이!!”</prop>
+        <seg>알겠습니다!’하고 목을 들이밀겠냐?”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T044425Z" changedate="20220722T141817Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>would you have gladly extended your head, shouting yessir?!”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_aqgQPHjQ06Q4qo9gcB1EUflY3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">어떻게 보면 절망스러운 상황.</prop>
+        <prop type="context_next">비록 공허함과 허탈감이 섞인 자조적인 웃음이었지만 말이다.</prop>
+        <seg>하지만 칼리얀은 그들을 바라보며 키득키득 웃었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T075004Z" changedate="20220720T075017Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>but Kaliyan chuckled at the knights,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_b49tcznU00h9QogMa80SfUKA3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀은 그의 외침에 헛웃음이 흘러나왔다.</prop>
+        <prop type="context_next">“하…… 멍청한 새끼.”</prop>
+        <seg>평소에 자신의 눈치를 보며 조심히 행동하던 녀석이 의기양양한 표정으로 앞에 나와 설레발 치고 있으니 기가 막힐 뿐이었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T060915Z" changedate="20220722T134804Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>It was funny to see someone who has always been so self-conscious and careful around Kaliyan come forward with much eagerness and confidence on his face.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_bObhfWyPM9w2uE4sGwgxtVQ2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">사냥개 노릇을 하며 자주 이용해왔던 모든 암살자가 검을 거꾸로 쥐고 칼리얀을 압박해왔다.</prop>
+        <prop type="context_next">하지만 숫자가 너무 많았기에 암살자를 모조리 죽였을 땐 그는 무척 지쳐있었다.</prop>
+        <seg>하지만 칼리얀은 암살자가 어떻게 해볼 수 있을 정도로 나약하지 않았다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T092101Z" changedate="20220721T092101Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Although Kaliyan was not someone weak whom mere assassins could slay,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_bce08kpGw754kP9EFnxkXwBv1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“제가 무슨 죄를 지어서 이런 꼴이 되었는지 모르겠습니다만?”</prop>
+        <prop type="context_next">백작님을 암살하기 위해 암살단을 조직한 것을 모를 줄 아느냐?”</prop>
+        <seg>“흥!</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T085434Z" changedate="20220720T085434Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“Ha!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_be0rm0Mb2Is806y02oacpSVB3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">이미 모든 것을 알고 있기에 그는 덤덤히 베로크를 바라볼 뿐이었다.</prop>
+        <prop type="context_next">“죄 지은 주제에 이리 태연한 얼굴이라니.</prop>
+        <seg>베로크는 그 모습에 이를 바득 갈며 노려보았다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T012321Z" changedate="20220721T012321Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>and Veroq ground his teeth at such a sight.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_bklLYuXrgZQ29R4ILWgVNN4t">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">베로크는 모두가 보는 앞에서 심한 모욕을 당하자 얼굴을 시뻘게졌다.</prop>
+        <prop type="context_next">칼리얀은 베로크의 반응에 기분 좋게 키득거리며 화를 더 돋우기로 마음먹었다.</prop>
+        <seg>평소에 지독히도 싫어했던 놈에게 욕까지 처먹자 그는 몸을 부들부들 떨며 칼리얀을 죽일 듯이 노려봤다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T062710Z" changedate="20220722T134831Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>As if his existence alone wasn’t loathsome enough, the lowly once-knight would personally mock him. That made Veroq tremble his body in anger and he glared at Kaliyan with animosity.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_c38ZSlJtwSP2e44MS80yj54q0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">온몸에 감각이 마비된 듯 이젠 통증조차 느껴지지 않았다.</prop>
+        <prop type="context_next">칼리얀은 자신의 상태가 죽기 직전 나타나는 마지막 불꽃 현상이라는 사실을 깨달았다.</prop>
+        <seg>하지만 정반대로 정신은 평소보다 또렷했고 집중력도 최고조로 높아졌다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T080829Z" changedate="20220722T135954Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>His mind, however, was so much clearer than usual, and his level of concentration was at its peak.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_cUXTcLeTMXo2po48cVwCbaCg">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그날 저녁 칼리얀은 수많은 암살자의 공격을 받았다.</prop>
+        <prop type="context_next">하지만 칼리얀은 암살자가 어떻게 해볼 수 있을 정도로 나약하지 않았다.</prop>
+        <seg>사냥개 노릇을 하며 자주 이용해왔던 모든 암살자가 검을 거꾸로 쥐고 칼리얀을 압박해왔다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T092010Z" changedate="20220722T003615Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>as the count’s hound attacked him with a reverse grip.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_cde1Vw1r0CGjMIAwlk0Md8HP7">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀은 자신의 상태가 죽기 직전 나타나는 마지막 불꽃 현상이라는 사실을 깨달았다.</prop>
+        <prop type="context_next">그 전에 몸을 움직여야 했다.</prop>
+        <seg>곧 있으면 불꽃은 한 줌의 재와 함께 푹 꺼질 것이다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T081058Z" changedate="20220722T081058Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>the flame destined to be extinguished into a handful of dust soon.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_cscUKHLHgcb2149Ull1Q4s0X5">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그 전에 몸을 움직여야 했다.</prop>
+        <prop type="context_next">칼리얀은 최소한 눈앞에 보이는 베로크만이라도 저승의 길동무로 데려갈 생각이었다.</prop>
+        <seg>두터운 포위망을 뚫고, 배신한 백작과 저 빌어먹을 영애를 죽이는 건 죽었다 깨어나도 불가능한 상태.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T121823Z" changedate="20220722T121836Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>It was simply not possible for Kaliyan to break through the encircling knights and kill the traitor count and her damned daughter,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_cv10llx30gWiw1b1Agq8mn5D4">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀은 그저 그가 모시는 군주, 피이베르 백작의 ‘사냥개’로서 임무에 최선을 다했을 뿐이었다.</prop>
+        <prop type="context_next">백작이 시키는 건 가리지 않고 다 했으며 그가 원한다면 살인까지도 불사했다.</prop>
+        <seg>칼리얀은 ‘가문의 재건’을 위해 오랫동안 사냥개로서 백작의 발을 핥으며 살아왔다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T051354Z" changedate="20220722T134450Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>As the count’s hound, he did everything the count asked him to do without question and even resorted to murder if the situation called for it.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_dKsyvmdf0QA5sb9MrfwqvyQv0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">왠지 모를 박탈감을 느끼게 해준 상대였기에 베로크는 칼리얀을 죽여 설욕할 생각이었다.</prop>
+        <prop type="context_next">칼리얀은 그의 외침에 헛웃음이 흘러나왔다.</prop>
+        <seg>“자 이제 목을 내밀어라!”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T043545Z" changedate="20220722T054558Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“Now, extend your head!” Shouted Veroq,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_dS1sHGGm1oZawTj0GB1Mgtlyd">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">왜?</prop>
+        <prop type="context_next">과거에 잃어버린 모든 것을 되찾아 줄 힘이 있었으니까.</prop>
+        <seg>그는 나의 염원을 들어줄 권력을 가지고 있었으니까.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T043628Z" changedate="20220719T140052Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>Because he’s got the power to fulfill my ambitions.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_dbHLaDq9gKG2gU4okMwQ0EN91">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“으하하!”</prop>
+        <prop type="context_next">베로크는 이를 빠득 갈며 검을 머리 위로 치켜들었다.</prop>
+        <seg>칼리얀의 비웃음에 그는 더는 참지 못하고 바로 칼리얀을 향해 쇄도했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T072321Z" changedate="20220722T134845Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>and Veroq who had enough of Kaliyan charged toward him at an instant.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_dnalCoIiMyE2YU44QLMxGfNe">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">하지만 그녀는 주군의 영애, 죽이기는커녕 눈도 제대로 못 맞추는 상대였다.</prop>
+        <prop type="context_next">백작이 원하는 상대와의 결혼, 그 대가인 사냥개의 목.</prop>
+        <seg>찝찝한 마음을 달래며 그녀를 백작가에 데려다 놨는데 그녀는 대담하게도 그녀의 부친인 백작을 찾아가 칼리얀의 목숨을 놓고 백작과 거래를 했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T090413Z" changedate="20220721T090413Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Suppressing his ominous feeling, Kaliyan escorted the lady to the house of the count, but she audaciously sought the audience with her father, the count.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_dsrhxM17xOK5ai9EUzwBGkuy0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀의 어깻죽지가 나가떨어지며 핏물이 사방으로 튀었다.</prop>
+        <seg>베로크는 그 결과에 들뜬 표정을 지었지만, 밑에서 질풍처럼 다가오는 칼리얀의 악귀 같은 얼굴에 두 눈을 부릅떴다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T130232Z" changedate="20220722T135340Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Veroq’s face kindled with the excitement of such a sight, but he opened his eyes wide upon coming in eye contact with Kaliyan who dashed upward from below with a menacing face.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_du1dCda30qa84AjwTv1YoWxP1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">역시 반역자의 씨답게 뻔뻔하구나!”</prop>
+        <prop type="context_next">이미 십 년도 더 지난 일에 얽매일 이유가 없었기 때문이었다.</prop>
+        <seg>칼리얀은 ‘반역자’라는 말에 잠시 울컥했지만 이내 심호흡을 하며 마음을 가라앉혔다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T013341Z" changedate="20220721T013454Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan felt his heart shaking at the term “<bpt i="1000001" x="1000001" type="formatting">{i&gt;</bpt>traitors,<ept i="1000001">&lt;i}</ept>” but took a deep breath in to soothe his body</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_e2ovZErjgJI25o4AdT0Ai1CL2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">아니, 막았다고 하기에는 어폐(語弊)가 있었다.</prop>
+        <prop type="context_next">하지만 상관없었다.</prop>
+        <seg>검에 닿는 순간 어깨는 순식간에 잘려나갔으니까.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T123327Z" changedate="20220722T123327Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>as his shoulder was removed from his body the moment the sword touched it.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_erl9nScAMSM2GF4kS10cnlWL0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀을 절반으로 쪼갤 듯 그의 검(劍)은, 붉은 벼락처럼 내리꽂혔다.</prop>
+        <prop type="context_next">베로크는 흥분한 나머지 검에 힘이 너무 들어가 있었다.</prop>
+        <seg>칼리얀은 검의 궤적을 읽기 위해 집중했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T122639Z" changedate="20220722T122706Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan focused his senses to read the trajectory of the swing</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_f3PqZBbHwfJ20v9wMY1K84Sf3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">나는 그가 내려준 임무를 완벽히 처리할 실력과 머리를 충분히 겸비하고 있었으니까.</prop>
+        <prop type="context_next">사냥개는 결국 사냥개일 뿐이라는 것을.</prop>
+        <seg>하지만 나는 염원에 눈이 멀어 가장 중요한 것을 잊고 있었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T141544Z" changedate="20220719T141611Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>Unfortunately, my ambitions were what blinded me from seeing the most important facts:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_f91Wx6Cw0c9a8eh0ex7Szsle5">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">백작이 시키는 건 가리지 않고 다 했으며 그가 원한다면 살인까지도 불사했다.</prop>
+        <prop type="context_next">그의 목적은 오직 하나, 백작의 가신으로 인정 받아 멸문한 자신의 가문을 복권하기 위해서였다.</prop>
+        <seg>십 년 동안 그의 손에 피가 마를 날이 없을 정도로.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T052609Z" changedate="20220721T052609Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>and Kaliyan vigorously licked the count’s feet like this just to grasp the chance to <bpt i="1000001" x="1000001" type="formatting">{i&gt;</bpt>restore his family<ept i="1000001">&lt;i}</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_fh4bGR8S0MM5SX9M2Ww5ZSEG0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀의 비웃음에 그는 더는 참지 못하고 바로 칼리얀을 향해 쇄도했다.</prop>
+        <prop type="context_next">검날에는 분노감정이 듬뿍 담긴 붉은 아지랑이가 활활 타올랐다.</prop>
+        <seg>베로크는 이를 빠득 갈며 검을 머리 위로 치켜들었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T072349Z" changedate="20220722T072349Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Veroq gritted his teeth and raised his sword above his head.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_fjHVAU3D0Yc5A0ggiJ38rZKg0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀은 그것이 죽기보다 싫었다.</prop>
+        <prop type="context_next">베로크는 그 결과에 들뜬 표정을 지었지만, 밑에서 질풍처럼 다가오는 칼리얀의 악귀 같은 얼굴에 두 눈을 부릅떴다.</prop>
+        <seg>칼리얀의 어깻죽지가 나가떨어지며 핏물이 사방으로 튀었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T124946Z" changedate="20220722T124946Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan’s shoulder flew out and blood splashed everywhere.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_g1NxQuai1sd9ATh0kr70Om1Fc">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그 누군가를 대신해 상대방의 욕설과 저주를 감내해야 했으니까.</prop>
+        <prop type="context_next">하지만 나는 직접 그의 사냥개가 되기를 자청했다.</prop>
+        <seg>사냥개는 그런 빌어먹을 존재였다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T043654Z" changedate="20220719T142221Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>Such is the despicable life of a hound.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_g5D8e0amw5v5g0iwJC2MvQee2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">이런 종류의 통증은 이제 면역이 될 대로 된 상태라 그에게 그리 큰 감흥을 주기 어려웠다.</prop>
+        <prop type="context_next">허리를 펴고 뒤쪽을 바라보자 궁수들이 사방에 배치된 채 시위를 당기고 있었다.</prop>
+        <seg>차라리 주군으로 생각했던 이의 배신이 그의 가슴을 더욱 강하게 짓누를 뿐이었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T081642Z" changedate="20220722T133900Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>but the pain of being on the receiving end of the betrayal by someone whom he thought of as his master. That was the feeling that heavily pressured his heart.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_g5gWxzXBMvl2C24QBD0CfA052">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">아니, 기분이 더럽다고 하는 게 더 정확했다.</prop>
+        <prop type="context_next">그 누군가를 대신해 상대방의 욕설과 저주를 감내해야 했으니까.</prop>
+        <seg>그 누군가가 하기 싫은 일을 대신 해야 했고.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T043653Z" changedate="20220719T043653Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>It means doing things the person isn’t up to doing,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_gaaSrqTw0gX5m1igbk00gLuC5">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">@회차:</prop>
+        <prop type="context_next">@소제목:</prop>
+        <seg>002화</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T061700Z" changedate="20220720T061700Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">hayoung@glozinc.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>002</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_h02gTDfR0k8acrhwfr3dsPmS2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">검날에는 분노감정이 듬뿍 담긴 붉은 아지랑이가 활활 타올랐다.</prop>
+        <prop type="context_next">하지만 칼리얀은 그 모습을 보며 회심의 미소를 지었다.</prop>
+        <seg>어찌 보면 굉장히 위협적인 공격.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T072637Z" changedate="20220722T072820Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>An extremely deadly attack, some would perceive,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_h6k9NoccM9n2vC4UXkwN2WU1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">백작이 까라면 까야겠지.’</prop>
+        <prop type="context_next">베로크는 그 모습에 이를 바득 갈며 노려보았다.</prop>
+        <seg>이미 모든 것을 알고 있기에 그는 덤덤히 베로크를 바라볼 뿐이었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T011833Z" changedate="20220722T134407Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Knowing it all, Kaliyan calmly gazed at Veroq with an indifferent face,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_hfhrcDUlgpe24F4w8bwwQmjO">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">일격필살(一激必殺)</prop>
+        <prop type="context_next">몸은 더는 검을 휘두를 수 없을 정도로 망가진 상태.</prop>
+        <seg>이번 공격이 실패로 돌아간다면 두 번의 기회 따위는 없었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T124115Z" changedate="20220722T124115Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>If this attack failed, he would not get a second chance</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_hqLaU7x9Mam2Z18E6rw1kL952">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">검에서 짙은 회색 아지랑이가 활활 타오르기 시작했다.</prop>
+        <prop type="context_next">“죽어라!”</prop>
+        <seg>생(生)을 포기한 채 쥐어짠 마지막 오라였다</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T122217Z" changedate="20220722T135155Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>It was Kaliyan’s final aura that he forcibly created in exchange for his life.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_i4MK4PTTwjn2FD4Qu8wS7tzp">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">어제까지 동료였던 기사들이 주위를 점점 포위한 채 다가오고 있었다.</prop>
+        <prop type="context_next">기사들은 동료가 아닌 주적(主敵)을 말살하기 위해 그에게 날카로운 칼을 겨누었다.</prop>
+        <seg>그들의 눈빛은 평소에 알고 지내던 우호적인 눈빛과는 거리가 멀었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T065528Z" changedate="20220722T133653Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>and their eyes were not the warm, welcoming eyes that Kaliyan was accustomed to.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_iQpytMsSgG523k4gh7g0ih290">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀의 작전은 단순했다.</prop>
+        <prop type="context_next">이번 공격이 실패로 돌아간다면 두 번의 기회 따위는 없었다.</prop>
+        <seg>일격필살(一激必殺)</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T065749Z" changedate="20220722T124050Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>thrust to kill.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ig0iyVxKxNb5ux8MrawVrIh90">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그는 묵묵히 제자리에서 전방을 바라보고 있었다.</prop>
+        <prop type="context_next">사방이 포위되고 주변이 정리되자 기사들 사이로 기사 하나가 불쑥 앞으로 나왔다.</prop>
+        <seg>“모두 뒤로 물러나라.”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T084244Z" changedate="20220722T064229Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“Leave us be,” commanded the knight.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_iuLpQFRIMRH2vI4kd10ivWQs3">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“왜, 발정이 난 개새끼처럼 얼굴이 빨개지냐?</prop>
+        <prop type="context_next">여자는 다른 곳 가서 찾아보라고.”</prop>
+        <seg>난 남자야.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T045039Z" changedate="20220721T050529Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Sorry, but I’m a man.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_jgN3RzOr0WK42i9US3wKX1mZ0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">두터운 포위망을 뚫고, 배신한 백작과 저 빌어먹을 영애를 죽이는 건 죽었다 깨어나도 불가능한 상태.</prop>
+        <prop type="context_next">검에서 짙은 회색 아지랑이가 활활 타오르기 시작했다.</prop>
+        <seg>칼리얀은 최소한 눈앞에 보이는 베로크만이라도 저승의 길동무로 데려갈 생각이었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T121912Z" changedate="20220722T135147Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>but he was determined to at least bring Veroq along with him on the ride to the underworld.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_jt22i00i3qw8Eni0ik0MDtKg9">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">@소제목:</prop>
+        <prop type="context_next">누군가의 사냥개로 살아간다는 것은 썩 좋은 기분이 아니다.</prop>
+        <seg>프롤로그</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T042145Z" changedate="20220719T042145Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>Prologue</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_k9qoXjzFgsv2vG4okJwzG1dM0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">난 남자야.</prop>
+        <prop type="context_next">“이 새끼가!!”</prop>
+        <seg>여자는 다른 곳 가서 찾아보라고.”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T050120Z" changedate="20220721T050527Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>You should look for women to show that face elsewhere.”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_kLFUA2yIgDu2Q64ofs0MjOSg1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">이미 십 년도 더 지난 일에 얽매일 이유가 없었기 때문이었다.</prop>
+        <prop type="context_next">‘정말 일이 개같이 꼬였군.’</prop>
+        <seg>그보다는 지금 상황이 발생한 일에 대해 생각할 수밖에 없었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T013654Z" changedate="20220722T134423Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>He had to focus on what led to the current situation.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_kV36n5qQ0eV42R8oxS1aIyxq2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">베로크는 흥분한 나머지 검에 힘이 너무 들어가 있었다.</prop>
+        <prop type="context_next">궤적을 머릿속에 입력한 칼리얀은 이를 악물고 앞으로 튀어나갔다.</prop>
+        <seg>강력한 일격이었지만 검의 움직임이 무척 단순했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T122905Z" changedate="20220722T122905Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>because Veroq placed too much strength on the sword out of frenzy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_l00kiV3132Kk0Uc1QR10EZIWN0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">과거에 잃어버린 모든 것을 되찾아 줄 힘이 있었으니까.</prop>
+        <prop type="context_next">결과적으로 나는 염원을 이루기 위해 십 년 동안 그의 더럽고 추악한 임무를 수행하며 살아왔다.</prop>
+        <seg>원하는 것도 없이 남의 더러운 짓거리를 대신 맡아 줄 멍청한 놈이 존재할 리 없다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T043854Z" changedate="20220719T144656Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>Only fools would do others’ dirty work for them without wanting something in return.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_lBpPscb1wyG4WY8M012QpSbk2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">백작가를 버리고 도망갈 정도로 사랑했던 이가 눈앞에서 처참하게 죽어버리자 영애의 눈은 복수로 뒤집혔다.</prop>
+        <prop type="context_next">그것이 더 큰 비수가 되어 날아온다는 것을 잘 알고 있기 때문이다.</prop>
+        <seg>칼리얀은 적대감을 보인 상대에게 자비를 베풀지 않는다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T084520Z" changedate="20220721T084520Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan never showed mercy to those who showed clear signs of hostility toward him</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_lKEZwy0l1kSbE4iMzR0IfH2J0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">누군가의 사냥개로 살아간다는 것은 썩 좋은 기분이 아니다.</prop>
+        <prop type="context_next">그 누군가가 하기 싫은 일을 대신 해야 했고.</prop>
+        <seg>아니, 기분이 더럽다고 하는 게 더 정확했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T042618Z" changedate="20220719T230831Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>Foul, that is the more precise word to describe that feeling.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_lTZEhpGjgK82pW4ECYMj8dcx">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그가 걸친 푸른 갑주는 기사들 사이에서도 시선을 확 사로잡을 정도로 눈에 띄었다.</prop>
+        <prop type="context_next">칼리얀이 속해 있던 돌렌 기사단의 기사 단장이었다.</prop>
+        <seg>기사의 이름은 베로크.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T084621Z" changedate="20220720T084621Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>It was Veroq,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_m3zg1V9hwEC5i68o0C2vLrnc2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그의 몸은 수많은 일(一)자로 문신을 새긴 양 끔찍한 상처로 도배되어 있었다.</prop>
+        <prop type="context_next">그런 칼리얀의 주위로 기사들이 몰려들었다.</prop>
+        <seg>온몸은 이미 난도질로 넝마가 된 상태.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T063859Z" changedate="20220722T063502Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>It was full of severe cuts which resembled line tattoos etched on the skin.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_n09OW1f12k6lgRD0eS444Qbr0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">사냥이 끝나면 결국 사냥꾼의 한 끼 식사로 전락할 뿐이라는 것을.</prop>
+        <seg>그 사실을 알았을 때 난 너무 멀리 왔다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T141735Z" changedate="20220719T230939Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>When I came to the realization, I had already ventured out too far.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_nFPybIm7gG82KH4EJ4MoQFDy">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그는 나의 염원을 들어줄 권력을 가지고 있었으니까.</prop>
+        <prop type="context_next">원하는 것도 없이 남의 더러운 짓거리를 대신 맡아 줄 멍청한 놈이 존재할 리 없다.</prop>
+        <seg>과거에 잃어버린 모든 것을 되찾아 줄 힘이 있었으니까.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T043647Z" changedate="20220719T043647Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>Because he’s got the power to restore everything that I lost.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_nRAIF4q7wg15w89Mv02Ng4DT0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_next">002화</prop>
+        <seg>@회차:</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T061925Z" changedate="20220720T061925Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">hayoung@glozinc.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>@Chapter:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ncvtAAVmwZU2KB4gsB08rSBA1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“칼리얀, 꼴좋구나.</prop>
+        <prop type="context_next">“제가 무슨 죄를 지어서 이런 꼴이 되었는지 모르겠습니다만?”</prop>
+        <seg>이제 그만 죄를 인정하고 포기해라.”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T085319Z" changedate="20220722T064700Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Now, admit to your crime and give it up,” Veroq said.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_nr34V1N51Es8stjMWd18Qvsb7">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“하…… 멍청한 새끼.”</prop>
+        <prop type="context_next">갑작스러운 욕설에 베로크는 당황했다.</prop>
+        <seg>“뭐…… 뭐!?”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T043658Z" changedate="20220721T043658Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“Wh-what?!”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_nvQZYdrj0EI4o49o0v18BEXD5">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">@회차:</prop>
+        <prop type="context_next">@소제목:</prop>
+        <seg>001화</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T042122Z" changedate="20220719T042122Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>001</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_nvqz1vOaxZk5aV8oqmwtrb8A1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">온몸은 이미 난도질로 넝마가 된 상태.</prop>
+        <prop type="context_next">어제까지 동료였던 기사들이 주위를 점점 포위한 채 다가오고 있었다.</prop>
+        <seg>그런 칼리얀의 주위로 기사들이 몰려들었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T065434Z" changedate="20220722T142046Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>The knights who were yesterday’s friends closed in</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_oGK9RKLM00898viM2z2fID0r4">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">비록 공허함과 허탈감이 섞인 자조적인 웃음이었지만 말이다.</prop>
+        <prop type="context_next">그는 그 누구보다 치열하게 살아왔다고 자신했다.</prop>
+        <seg>“쩝…… 이렇게 뒈지려고 치열하게 살아온 게 아닌데…….”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T065359Z" changedate="20220722T064337Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“Tsk... I didn’t live with such a hectic pace to get wasted like this,” Kaliyan murmured.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_oRZV0iu716990OAwb1bgDXi6a">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">이해는 했다.</prop>
+        <prop type="context_next">이미 모든 것을 알고 있기에 그는 덤덤히 베로크를 바라볼 뿐이었다.</prop>
+        <seg>백작이 까라면 까야겠지.’</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T011548Z" changedate="20220721T011548Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{i&gt;</bpt>When the count tells you to do it, you do it.<ept i="1000001">&lt;i}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_oYOw7TGE00MaksgwK07Cc9Vg1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">다른 기사와 다른 정밀하게 세공된 화려한 갑주를 걸치고 있는 기사였다.</prop>
+        <prop type="context_next">기사의 이름은 베로크.</prop>
+        <seg>그가 걸친 푸른 갑주는 기사들 사이에서도 시선을 확 사로잡을 정도로 눈에 띄었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T084536Z" changedate="20220720T084536Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>caught the sight at an instant amongst the armors of the knights.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_opwWaHf6waA2ej4kXbgLqDGu">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그보다는 지금 상황이 발생한 일에 대해 생각할 수밖에 없었다.</prop>
+        <prop type="context_next">칼리얀은 그저 그가 모시는 군주, 피이베르 백작의 ‘사냥개’로서 임무에 최선을 다했을 뿐이었다.</prop>
+        <seg>‘정말 일이 개같이 꼬였군.’</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T013828Z" changedate="20220721T083726Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{i&gt;</bpt>The threads got tangled up pretty darn bad.<ept i="1000001">&lt;i}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_oyz3c68ogcq2qb4o4I0OAZa31">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">물론 그 노력에 대한 대가가 죽음으로 돌아올지는 몰랐지만.</prop>
+        <prop type="context_next">그는 이가 부러진 검을 바닥에 박아 넣고는 허리를 폈다.</prop>
+        <seg>“쓸데없는 생각은 여기까지.”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T080046Z" changedate="20220722T064424Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“Whatever, no more pointless thoughts,” Kaliyan told himself.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_pLPIH9kKMjl2QM44cjgiynp1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“베로크 단장님 아니십니까?”</prop>
+        <prop type="context_next">면상을 본 순간, 그가 누군지 단박에 알아차렸다.</prop>
+        <seg>칼리얀은 그를 보며 비아냥거렸다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T085004Z" changedate="20220722T064637Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan greeted the knight sarcastically.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_pWzLtDRR0g344I9MAD0OUiI23">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">사냥개는 결국 사냥개일 뿐이라는 것을.</prop>
+        <prop type="context_next">그 사실을 알았을 때 난 너무 멀리 왔다.</prop>
+        <seg>사냥이 끝나면 결국 사냥꾼의 한 끼 식사로 전락할 뿐이라는 것을.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T141709Z" changedate="20220719T230920Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>and that at the end of the hunt, the hound is the one who is served on the table.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_pbqUuUlAMep2e64kCcgOZkVa">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀의 실력은 기사단 내에서도 발군이었다.</prop>
+        <prop type="context_next">하지만 이미 암살자들과 치열한 전투를 치른 뒤였기에 지쳐있던 그는 제대로 된 반격을 할 수 없었다.</prop>
+        <seg>그는 대륙에서도 상위권 실력을 갖춘 ‘챔피언’급 기사였으니까.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T005127Z" changedate="20220722T134627Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>no, the continent’s finest knights on the level of a <bpt i="1000001" x="1000001" type="formatting">{i&gt;</bpt>Champion<ept i="1000001">&lt;i}</ept>,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_pi88Iimt0CS4qR9wn60KR0lX6">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">평소에 지독히도 싫어했던 놈에게 욕까지 처먹자 그는 몸을 부들부들 떨며 칼리얀을 죽일 듯이 노려봤다.</prop>
+        <prop type="context_next">조금만 더하면 꼬리에 불붙은 황소처럼 달려들 것 같았으니까.</prop>
+        <seg>칼리얀은 베로크의 반응에 기분 좋게 키득거리며 화를 더 돋우기로 마음먹었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T063004Z" changedate="20220722T063004Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Satisfied with his reaction, Kaliyan giggled and decided to enrage him further</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_piFo800l1gIngHA0Av6E0AG38">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">아무리 머리를 굴려 봐도 빠져나갈 구멍이 보이지 않았다.</prop>
+        <prop type="context_next">이곳에 그의 편은 아무도 없었다.</prop>
+        <seg>평소에 그렇게 잘 돌아갔던 머리가 오늘따라 멍청하게 느껴진다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T083718Z" changedate="20220720T083718Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>It was as if his brilliant wits regressed in stupidity today.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_pwljFk9L0Il5Aw80W15SkC7H7">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">하지만 칼리얀은 암살자가 어떻게 해볼 수 있을 정도로 나약하지 않았다.</prop>
+        <prop type="context_next">그때 기사들이 약속이라도 한 듯 나타났다.</prop>
+        <seg>하지만 숫자가 너무 많았기에 암살자를 모조리 죽였을 땐 그는 무척 지쳐있었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T092225Z" changedate="20220721T092225Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>he was severely outnumbered, and by the end when he eliminated all the assassins, he was completely drained.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_qIxoMPb200k8sEg00KaQlG8qe">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">베로크는 앞으로 나서며 검을 뽑아 들었다.</prop>
+        <prop type="context_next">평소에 그토록 죽이고 싶었던 녀석이었으니 자신의 손으로 처리할 생각이었다.</prop>
+        <seg>몰골을 보아하니 검 한 번 휘두를 힘도 없어 보였다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T003902Z" changedate="20220722T134647Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>to end the life of Kaliyan—whom he so despised—while he was debilitated and without the strength to even swing his sword.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_qO806AKAw1pb0exwn02QkvOg8">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">평소에 자신의 눈치를 보며 조심히 행동하던 녀석이 의기양양한 표정으로 앞에 나와 설레발 치고 있으니 기가 막힐 뿐이었다.</prop>
+        <prop type="context_next">“뭐…… 뭐!?”</prop>
+        <seg>“하…… 멍청한 새끼.”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T043638Z" changedate="20220722T061027Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>“Ha... What a pathetic fool.” Kaliyan uttered.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_rCvNck2p0sS5El881h1wbCtm2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">차라리 주군으로 생각했던 이의 배신이 그의 가슴을 더욱 강하게 짓누를 뿐이었다.</prop>
+        <prop type="context_next">수백으로 이뤄진 궁수 부대는 언제라도 명령이 떨어지면 쏴버리겠다는 듯이 날카로운 눈빛을 보내오고 있었다.</prop>
+        <seg>허리를 펴고 뒤쪽을 바라보자 궁수들이 사방에 배치된 채 시위를 당기고 있었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T083116Z" changedate="20220722T135932Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Kaliyan turned to look behind after straightening his back and saw archers surrounding him and readying their bows.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_rIEPqq7igrp2CW4AJ3MC9wrm">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">비록 멸문 귀족이었다지만 저놈이 처음으로 백작가에 들어왔을 때는 비루한 노예 신분이었다.</prop>
+        <prop type="context_next">처음에는 권력을 이용해 짓눌렀지만 그것도 한계가 있었다.</prop>
+        <seg>면천을 해 평민으로 승격되었다 해도 준귀족인 자신에 비하면 벼룩같이 하찮은 놈이었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T053910Z" changedate="20220722T132833Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Even so, he was still as petty as a flea when compared to Veroq, the upper-class commoner.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_rRvtF0gF18bacdjMa52K0vat7">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">찝찝한 마음을 달래며 그녀를 백작가에 데려다 놨는데 그녀는 대담하게도 그녀의 부친인 백작을 찾아가 칼리얀의 목숨을 놓고 백작과 거래를 했다.</prop>
+        <prop type="context_next">이미 결과는 정해진 것과 다름없었다.</prop>
+        <seg>백작이 원하는 상대와의 결혼, 그 대가인 사냥개의 목.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T090602Z" changedate="20220722T143123Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>It was then where the deal was made: the hound’s head for the marriage with the one whom the count desires.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_sD4FW78mwGc2Qy4saY0u1G563">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">상처로 인해 출혈은 이미 한계를 넘어선 상태.</prop>
+        <prop type="context_next">하지만 정반대로 정신은 평소보다 또렷했고 집중력도 최고조로 높아졌다.</prop>
+        <seg>온몸에 감각이 마비된 듯 이젠 통증조차 느껴지지 않았다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T073513Z" changedate="20220722T073530Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>and there was no longer any pain as if all the nerves in his body shut down.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_sMa1ZDdgw7Q5Op9E9p0qQbVz2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">숨통을 끊은 뒤 목을 베어 영애에게 가져다주라고.</prop>
+        <prop type="context_next">몰골을 보아하니 검 한 번 휘두를 힘도 없어 보였다.</prop>
+        <seg>베로크는 앞으로 나서며 검을 뽑아 들었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T003724Z" changedate="20220722T003724Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Veroq moved forward and unsheathed his sword</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_sWyVZIbj0mP4Wm8o1j1mNlzv4">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그는 오른손에 검을 쥔 채 달려나가, 베로크의 공격을 왼쪽 어깨로 들이막았다.</prop>
+        <prop type="context_next">검에 닿는 순간 어깨는 순식간에 잘려나갔으니까.</prop>
+        <seg>아니, 막았다고 하기에는 어폐(語弊)가 있었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T123258Z" changedate="20220722T135825Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>No, it would be incorrect to say that he guarded the attack</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_sYHnuK0p00Ng8qCwxa0gg2gvf">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“쓸데없는 생각은 여기까지.”</prop>
+        <prop type="context_next">피가 거꾸로 솟는 느낌과 함께 지독한 통증이 찾아왔지만, 그는 금세 적응된 얼굴로 가볍게 혀를 찼다.</prop>
+        <seg>그는 이가 부러진 검을 바닥에 박아 넣고는 허리를 폈다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T080146Z" changedate="20220722T134239Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Following his words, he thrust his sword onto the ground and straightened his back.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_t8tZ2L9Aw8r2IK40oWwxWRdf1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">모두 자신의 손에 죽은 녀석들인데 저들은 지금 말도 안 되는 억지를 부리고 있었다.</prop>
+        <prop type="context_next">이해는 했다.</prop>
+        <seg>‘뭐.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T093107Z" changedate="20220720T093126Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{i&gt;</bpt>Well, it’s<ept i="1000001">&lt;i}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_teWc7K7pMqy2B444Pig1X5vX0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">그 누군가가 하기 싫은 일을 대신 해야 했고.</prop>
+        <prop type="context_next">사냥개는 그런 빌어먹을 존재였다.</prop>
+        <seg>그 누군가를 대신해 상대방의 욕설과 저주를 감내해야 했으니까.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220719T043654Z" changedate="20220719T142933Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_001화.HWP.docx</prop>
+        <seg>and enduring curses and scorns of other parties in that person’s stead. </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_tpWOi5q5wpR2ph44KcwU1EvZ0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀은 복부에 흘러내리는 내장을 틀어막으며 헛웃음을 터뜨렸다.</prop>
+        <prop type="context_next">온몸은 이미 난도질로 넝마가 된 상태.</prop>
+        <seg>그의 몸은 수많은 일(一)자로 문신을 새긴 양 끔찍한 상처로 도배되어 있었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T063859Z" changedate="20220722T131917Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>of the damaged leather that was his body, the leather that was relentlessly hacked and slashed.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_uOwRnJ12w7m4Mk8UDh0wXRmO0">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">피가 거꾸로 솟는 느낌과 함께 지독한 통증이 찾아왔지만, 그는 금세 적응된 얼굴로 가볍게 혀를 찼다.</prop>
+        <prop type="context_next">차라리 주군으로 생각했던 이의 배신이 그의 가슴을 더욱 강하게 짓누를 뿐이었다.</prop>
+        <seg>이런 종류의 통증은 이제 면역이 될 대로 된 상태라 그에게 그리 큰 감흥을 주기 어려웠다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220720T080829Z" changedate="20220722T141501Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>It was not the pain from blades that hurt him as such pain stopped amusing him because he was so used to it,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ud3hHyfQ0UG5wm9MkV1ElmT62">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">이번 공격이 실패로 돌아간다면 두 번의 기회 따위는 없었다.</prop>
+        <prop type="context_next">이번 공격이 실패로 돌아가는 순간 베로크에게 농락당하며 죽을 확률이 높았다.</prop>
+        <seg>몸은 더는 검을 휘두를 수 없을 정도로 망가진 상태.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T124341Z" changedate="20220722T135330Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>for his body was broken and battered to the point at which swinging the sword is an impossibility.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_v4bAHije0CC46l8oTwxQPNi12">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀이 원한 건 베로크와의 거리였으니.</prop>
+        <prop type="context_next">일격필살(一激必殺)</prop>
+        <seg>칼리얀의 작전은 단순했다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T123942Z" changedate="20220722T142240Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>to carry out his simple move:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_vPiaUTG5MLN2BZ4gC9wYE5TE">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">면천을 해 평민으로 승격되었다 해도 준귀족인 자신에 비하면 벼룩같이 하찮은 놈이었다.</prop>
+        <prop type="context_next">놈이 주군의 총애를 한몸에 받기도 했고 시간이 지나면서 실력도 자신을 뛰어넘었기 때문이었다.</prop>
+        <seg>처음에는 권력을 이용해 짓눌렀지만 그것도 한계가 있었다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T053949Z" changedate="20220722T053949Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>Veroq pressured him with his authority,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_worfaJydgNt2319wDpxwKJWB1">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“자 이제 목을 내밀어라!”</prop>
+        <prop type="context_next">평소에 자신의 눈치를 보며 조심히 행동하던 녀석이 의기양양한 표정으로 앞에 나와 설레발 치고 있으니 기가 막힐 뿐이었다.</prop>
+        <seg>칼리얀은 그의 외침에 헛웃음이 흘러나왔다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T054628Z" changedate="20220722T134737Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>to which Kaliyan responded with half-suppressed, dry laughter.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_yApBBL2Gwlh2jU44I6M6IrP9">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">베로크는 이를 빠득 갈며 검을 머리 위로 치켜들었다.</prop>
+        <prop type="context_next">어찌 보면 굉장히 위협적인 공격.</prop>
+        <seg>검날에는 분노감정이 듬뿍 담긴 붉은 아지랑이가 활활 타올랐다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T072611Z" changedate="20220722T121600Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>His blade was burning with a red haze of concentrated fury.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_zWfNX0J41e4bIxgga06eTqgV2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">“죄 지은 주제에 이리 태연한 얼굴이라니.</prop>
+        <prop type="context_next">칼리얀은 ‘반역자’라는 말에 잠시 울컥했지만 이내 심호흡을 하며 마음을 가라앉혔다.</prop>
+        <seg>역시 반역자의 씨답게 뻔뻔하구나!”</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220721T012627Z" changedate="20220721T012659Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>I should have expected no less from the seed of the traitors!” Lashed out Veroq with glaring eyes.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_zb0oISLL0M98A2iwNs1M0jIR2">
+      <tuv xml:lang="ko-kr">
+        <prop type="context_prev">칼리얀은 베로크의 반응에 기분 좋게 키득거리며 화를 더 돋우기로 마음먹었다.</prop>
+        <prop type="context_next">“왜, 발정이 난 개새끼처럼 얼굴이 빨개지냐?</prop>
+        <seg>조금만 더하면 꼬리에 불붙은 황소처럼 달려들 것 같았으니까.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220722T063113Z" changedate="20220722T121607Z">
+        <prop type="project">24843440</prop>
+        <prop type="created_by">tmcparadise@gmail.com</prop>
+        <prop type="modified_by">tmcparadise@gmail.com</prop>
+        <prop type="filename">엘로스의 군주_002화.HWP.docx</prop>
+        <seg>until Veroq loses his mind shortly and starts charging at him like a bull with its tail on fire.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

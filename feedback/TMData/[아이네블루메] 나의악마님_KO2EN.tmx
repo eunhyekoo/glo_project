@@ -1,0 +1,3212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="memsource_tool" creationtoolversion="2.0" segtype="sentence" o-tmf="memsourceTM" adminlang="en" srclang="ko" datatype="unknown" creationdate="20220725T005607Z">
+    <prop type="name">[아이네블루메] 나의악마님_KO2EN</prop>
+  </header>
+  <body>
+    <tu tuid="_0GWR9imE04Pag1B0mQdgs13En">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">그럼 안 돼?</prop>
+        <prop type="context_next">아무도 나하고는</prop>
+        <seg>그건 아니지만...</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203137Z" changedate="20220331T203201Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I mean...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_0QNIdsdR0q6bgIgM852cGcJg2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">오늘은 짝을 지어</prop>
+        <prop type="context_next">각자 원하는</prop>
+        <seg>배드민턴을 쳐볼까?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202322Z" changedate="20220402T092751Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>going to play badminton in pairs today.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_0dER1Fyf2u1gMgx04K9A49tB0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">도망쳐 왔다는 거</prop>
+        <prop type="context_next">내 인생은 왜...</prop>
+        <seg>하아, 우울해</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203000Z" changedate="20220402T093548Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>sigh... this is so depressing</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_0dHZ20CX33U9w5h0Gx20CxOI6">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">자자, 그만 떠들고 주목!</prop>
+        <prop type="context_next">배드민턴을 쳐볼까?</prop>
+        <seg>오늘은 짝을 지어</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202321Z" changedate="20220402T092742Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>we’re</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_0zNyKVj71oMaI8jwyN3S3aAb2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">교실에 들어가 쉬도록 해</prop>
+        <prop type="context_next">정말 아픈 거야?</prop>
+        <seg>서연, 교실로 향하면</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202350Z" changedate="20220402T092905Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>seoyeon walks back to the classroom</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_11o3hyOX3Sf8Umggby3noGCM0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">꼰질러 보시던가</prop>
+        <prop type="context_next">찾아와줄 사람은 있니?</prop>
+        <seg>근데 너 학폭위 열리면</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220401T154744Z" changedate="20220402T093315Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>would anyone even come for you</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_18By1GfP3nea4EiMb13YJwmn6">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">부모는 뒤졌고</prop>
+        <prop type="context_next">어우 야~ ㅋㅋ</prop>
+        <seg>할머닌 야채 팔아야지</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202715Z" changedate="20220331T202715Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>and your grandma’s busy selling veggies.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_1Ba7CUPr0UU9grj0av3Ag80B9">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">저기, 선생님..</prop>
+        <prop type="context_next">무슨 일이지?</prop>
+        <seg>응?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202333Z" changedate="20220402T092833Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>yes?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_1hXmI8uT0SZ8Itjgx31o5bAG0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">많이 안 좋은 거니?</prop>
+        <prop type="context_next">하는 수 없지</prop>
+        <seg>네 좀...</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202337Z" changedate="20220331T202337Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I think so...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_2ESoCjZe0Sj5wG80SE0SH1XO7">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">하지 않는단 말이야</prop>
+        <prop type="context_next">왕따니까</prop>
+        <seg>어째서?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203231Z" changedate="20220402T093836Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>why not?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_2F125x2K1EHa0CAwIL42UW883">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">뭐야, 갑자기</prop>
+        <prop type="context_next">나 참, 아니거든?!</prop>
+        <seg>얼굴까지 붉히고</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203332Z" changedate="20220402T094656Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>you’re blushing</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_2GcmvcM9MnW2FM4QFk0MeafY1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">네 좀...</prop>
+        <prop type="context_next">교실에 들어가 쉬도록 해</prop>
+        <seg>하는 수 없지</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202337Z" changedate="20220402T092847Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>that’s a shame.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_2JvM0gD9xju5a0iMNH1Ucf1s7">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">정말 아픈 거야?</prop>
+        <prop type="context_next">아~ 무도 없어서야?</prop>
+        <seg>아님 같이 쳐줄 애가</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202356Z" changedate="20220402T092913Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>or are you lying</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_2Q2TV2FXgZg2My4QiVMt7aaS">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">왜?</prop>
+        <prop type="context_next">부모가 없어서?</prop>
+        <seg>글쎄..</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203235Z" changedate="20220402T093933Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>well...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_2cWlCY9n0Y65Ya9otKwuUNG70">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">하아, 우울해</prop>
+        <prop type="context_next">서연</prop>
+        <seg>내 인생은 왜...</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203012Z" changedate="20220402T093551Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>why is my life so–</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_2jUq2JtMg992724wtp0qizMW0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">ㅆㅂ년이 째려보면 뭐?</prop>
+        <prop type="context_next">꼰질러 보시던가</prop>
+        <seg>억울하면 가서</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202607Z" changedate="20220331T202607Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>If you have a problem with us</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_3SLDD2000oQjMXDwX53MQeso5">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">우리 반 일진</prop>
+        <prop type="context_next">나한테 고백했단 이유로</prop>
+        <seg>걔가 좋아하는 남자애가</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203248Z" changedate="20220402T094028Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>the bullying started</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_4VpW3jxwgMx2Gu40whxddg7r1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">ㅋㅋㅋㅋㅋㅋㅋㅋㅋ</prop>
+        <prop type="context_next">창가 끝에 있는</prop>
+        <seg>텅 빈 교실</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202735Z" changedate="20220402T093414Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>in the empty classroom</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_4c1XRps4xjb4i48MFP1c1M8R7">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">김봄이 빡쳤다는..</prop>
+        <prop type="context_next">오늘은 짝을 지어</prop>
+        <seg>자자, 그만 떠들고 주목!</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202321Z" changedate="20220402T092736Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>all right, everyone, listen up!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_4jVdeSNxgKw21s8MBmwe6oFb0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">도련님이 아니지</prop>
+        <prop type="context_next">이쪽을 본다</prop>
+        <seg>꺄악, 난 몰라!</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202237Z" changedate="20220402T092607Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>kyaaa, I can’t!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_4km5XCyz0cL5Ks8gNgx0xd1v4">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">설렜어?</prop>
+        <prop type="context_next">그, 그냥..</prop>
+        <seg>오, 오해하지 마</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203416Z" changedate="20220402T094809Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>d-don’t get me wrong</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_5MWCzD1o1IJakuiwBV3W1xy20">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">......</prop>
+        <prop type="context_next">저기 봐, 도현우다!</prop>
+        <seg>ㅡ운동장ㅡ</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202024Z" changedate="20220402T092249Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>ㅡ at the gym ㅡ</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_5XW92MFbMhN2bq4co9081qti2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">아까도 운동화에</prop>
+        <prop type="context_next">얼마나 곤란했다고</prop>
+        <seg>물을 부어놔서</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203258Z" changedate="20220402T094123Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>she poured water into my sneakers</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_6VWsJyEo0CB4U0i04P1U2uVUa">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">만남의 장소 정도로</prop>
+        <prop type="context_next">이상한 애네</prop>
+        <seg>받아들여주면 좋겠는데</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203049Z" changedate="20220402T093744Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>you meet others</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_6qaSdaCUMTo2hE4EpO0eSOnV1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">...</prop>
+        <prop type="context_next">사실은 아프지 않다는 거</prop>
+        <seg>다들 눈치 챘을까?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202954Z" changedate="20220402T093504Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>did everyone figure out</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_6tEZTTlig0D5EU9wbixKwq6A1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">얼굴이라면..</prop>
+        <prop type="context_next">(어떡해.</prop>
+        <seg>(으, 실수다!)</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203321Z" changedate="20220402T094619Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>(crap, that was a mistake!)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_6tY1tuCa0YLa00d1I27MSfoA0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">한 번도 본 적 없고</prop>
+        <prop type="context_next">금지되어 있으니까..</prop>
+        <seg>나에게 말 거는 건</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203452Z" changedate="20220402T094915Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>besides, it’s pretty much </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_8BrbQDyKMGB2k190aG2htKjP1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">무슨 일이지?</prop>
+        <prop type="context_next">많이 안 좋은 거니?</prop>
+        <seg>제가 몸이 안 좋아서...</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202335Z" changedate="20220331T202335Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I don’t feel very well...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_8Yzq4leXMGW2gH4sFkMhayz4">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">금지되어 있으니까..</prop>
+        <prop type="context_next">어, 어쩌면</prop>
+        <seg>앗!</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203453Z" changedate="20220402T094941Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>wait!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_8oFWApxo0KG42g8wag1gupBK0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">텅 빈 교실</prop>
+        <prop type="context_next">자신의 책상에</prop>
+        <seg>창가 끝에 있는</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202746Z" changedate="20220402T093424Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>seoyeon sunk onto her seat</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_8u5vu1142P698Wjgwk283G1L0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">그리고 왜 나한테</prop>
+        <prop type="context_next">그럼 안 돼?</prop>
+        <seg>친한 척 말을 걸지?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203131Z" changedate="20220331T203131Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>nice to me?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_9HmNZjfKM3G2zB4o1HxDlCLn0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">우리까지 괴롭힘당할라</prop>
+        <prop type="context_next">아, 냅두라니까!</prop>
+        <seg>그치만..</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202001Z" changedate="20220402T091842Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>but...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_9S5PYTSo0mS5GQ9MPe0Kox0l5">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">서연</prop>
+        <prop type="context_next">여길 봐</prop>
+        <seg>정서연</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203015Z" changedate="20220402T093600Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>seoyeon jeong.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_9V0wbHi90Eg9IhjMAz12psbG4">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">왜 난 본 적이 없지?</prop>
+        <prop type="context_next">얼굴이라면..</prop>
+        <seg>특히 너처럼 생긴</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203319Z" changedate="20220402T094614Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>if someone who looked like you showed up at school,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_AILtG8tq0CX5Mt8MB4xOGlJb1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">다들 눈치 챘을까?</prop>
+        <prop type="context_next">같이 어울려줄</prop>
+        <seg>사실은 아프지 않다는 거</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202955Z" changedate="20220402T093512Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>that I’m not actually feeling unwell?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_AO3FchugMKc2Rb4UI3Mi3Q4H">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">운동화를 뒤집자</prop>
+        <prop type="context_next">떨어지는 물</prop>
+        <seg>바닥으로 주르륵</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201838Z" changedate="20220402T091225Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{i&gt;</bpt>splash<ept i="1000001">&lt;i}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_AYVsLJzj0Iv5QF9olZwhvNlT0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">그, 그냥..</prop>
+        <prop type="context_next">우리 학교</prop>
+        <seg>눈에 띄는 얼굴이라</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203426Z" changedate="20220402T094814Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>that you would stand out.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_BBmfSF1b0kP9YghMWu1Ebq0w5">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">...</prop>
+        <prop type="context_next">바닥으로 주르륵</prop>
+        <seg>운동화를 뒤집자</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201838Z" changedate="20220402T091334Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>she flips one of her sneakers upside down</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_BLbTq3WegDR2LC444owLgE8e">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">사실이었나 봐</prop>
+        <prop type="context_next">도현우가 서연이 좋아해서</prop>
+        <seg>무슨 소문?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202313Z" changedate="20220402T092707Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>what rumor?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_BV8b0Fim0SV8sMigjU1GKVO73">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">꿈??</prop>
+        <prop type="context_next">이제 알았어?</prop>
+        <seg>딩동~ 댕</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203501Z" changedate="20220402T094955Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>bingo!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_BkTbGcezwdv2ah4oDfMzEfZ2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">급식에 모래를 뿌려서</prop>
+        <prop type="context_next">일상이지 ㅋ</prop>
+        <seg>못 먹게 하는 건</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203255Z" changedate="20220402T094115Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>so that I can’t eat it</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_C13VR16Z16anUHxwel521nNje">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">왜 말을 하다 말아?</prop>
+        <prop type="context_next">아무것도</prop>
+        <seg>아, 아냐.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203326Z" changedate="20220402T094644Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>oh,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_C728zFH3wuU2u74QFOgf0K360">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">책상에는</prop>
+        <prop type="context_next">따위의 말이</prop>
+        <seg>극혐, 역겨워, 죽어버려!</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202939Z" changedate="20220331T202939Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{i&gt;</bpt>I hate you.<ept i="1000001">&lt;i}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_CHoLH0kLxBl48V88v400Jq0h9">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">오늘도 환상적이네</prop>
+        <prop type="context_next">남학생을 두고</prop>
+        <seg>저 멀리 눈에 띄는</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202100Z" changedate="20220402T092346Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>the girls whisper amongst themselves</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_CrakBVSeMH82CC4MH1xK7pll0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">으, 진짜 초 비참</prop>
+        <prop type="context_next">(내가 왜)</prop>
+        <seg>나라면 걍 자퇴한다</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202520Z" changedate="20220331T202520Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I’d drop out if I were her.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_D8O9Yz90wzz4wB98q5wrBKDr0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">도현우가 서연이 좋아해서</prop>
+        <prop type="context_next">자자, 그만 떠들고 주목!</prop>
+        <seg>김봄이 빡쳤다는..</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202320Z" changedate="20220402T092730Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>because hyeonu do had a crush on seoyeon...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_EG1CBd4g1Mwbo5h0o00MO80IE">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">뭐랄까</prop>
+        <prop type="context_next">만남의 장소 정도로</prop>
+        <seg>일종의 응접실?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203048Z" changedate="20220402T093744Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>something like a living room</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ENF11pKN2wd8gEhMSB2xZfCt2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">나의 악마님</prop>
+        <prop type="context_next">그 지옥에서 널 건져줄게</prop>
+        <seg>나랑 계약할래?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201806Z" changedate="20220402T090158Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>shall we strike deal?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_EO20aqok1Gqbobhwwq32XDsH1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">창가 끝에 있는</prop>
+        <prop type="context_next">힘없이 앉는 서연</prop>
+        <seg>자신의 책상에</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202749Z" changedate="20220331T202749Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>at her desk</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_EWeMUVh9gix2Y64glb00AGuE0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">아, 아냐.</prop>
+        <prop type="context_next">뭐야, 갑자기</prop>
+        <seg>아무것도</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203328Z" changedate="20220331T203328Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>nothing.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Egjgh8tpgth2159wcO1MOhbM2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">저 멀리 눈에 띄는</prop>
+        <prop type="context_next">수군거리는 여자애들</prop>
+        <seg>남학생을 두고</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202101Z" changedate="20220402T092356Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>gushing over the boy on the other side</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_EuJJkiKhgA14Uf9g9035AfIh1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">짝인데</prop>
+        <prop type="context_next">맞아.</prop>
+        <seg>김봄한테 찍힌 거 몰라?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201952Z" changedate="20220402T091418Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>don’t you know she’s under bomi kim’s radar?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_F1HgRmuo0KkbI6jg501cJkeX5">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">할 만한 짓이야</prop>
+        <prop type="context_next">우리 학교 맞아?</prop>
+        <seg>근데 너</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203316Z" changedate="20220402T094552Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>by the way,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_F7Q1iCQYw0O90yDwwl1EZoTRa">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">우앙, 언제 봐도</prop>
+        <prop type="context_next">오늘도 환상적이네</prop>
+        <seg>극강의 비주얼~</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202055Z" changedate="20220402T092206Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>he’s so good-looking!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_FI4JAxxwwWP24f40g51E17bF2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">서둘러!</prop>
+        <prop type="context_next">어?</prop>
+        <seg>서연아, 빨리 가자</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201850Z" changedate="20220402T091304Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>let’s hurry up, Seoyeon.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_FJ6iKJpJMeJ2ic4gLVgwL5Bw">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">일종의 응접실?</prop>
+        <prop type="context_next">받아들여주면 좋겠는데</prop>
+        <seg>만남의 장소 정도로</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203049Z" changedate="20220402T093733Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>it’s a place where</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_FMM21Txm167a88i0kO0cXtV5f">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">난 몰라)</prop>
+        <prop type="context_next">왜 말을 하다 말아?</prop>
+        <seg>나처럼 뭐?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203323Z" changedate="20220402T094632Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>you would’ve what?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_FMzXhNvv0gd5sv90AG1Gmpnj7">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">아이들이 운동장으로</prop>
+        <prop type="context_next">신발장을 열던</prop>
+        <seg>이동하고 있다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201820Z" changedate="20220402T090551Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>heading over to the gym.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Ft0hPYmmxjF4c1igWJ30GQqu6">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">친구가 없어서</prop>
+        <prop type="context_next">하아, 우울해</prop>
+        <seg>도망쳐 왔다는 거</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202958Z" changedate="20220402T093540Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>to play with?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_GzFEZhmZ04A4uT8oEexDK7zG1">
+      <tuv xml:lang="ko">
+        <prop type="context_next">나랑 계약할래?</prop>
+        <seg>나의 악마님</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201805Z" changedate="20220402T090456Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>my dear demon</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_HDQlcC6WgZk2y18Mb4x0RNwh1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">나처럼 뭐?</prop>
+        <prop type="context_next">아, 아냐.</prop>
+        <seg>왜 말을 하다 말아?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203325Z" changedate="20220402T094640Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>what were you gonna say?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_HLem0EtxwAZ40xiwBt1C5exj7">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">친한 척 말을 걸지?</prop>
+        <prop type="context_next">그건 아니지만...</prop>
+        <seg>그럼 안 돼?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203135Z" changedate="20220402T093813Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>shouldn’t I be nice to you?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Hqd6SxJywux2n6440owe2sja1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">바닥으로 주르륵</prop>
+        <prop type="context_next">후</prop>
+        <seg>떨어지는 물</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201846Z" changedate="20220402T091143Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>water flows out of the shoe</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_I4MwnSknMXM2uq48GRwOPNWf">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">제가 몸이 안 좋아서...</prop>
+        <prop type="context_next">네 좀...</prop>
+        <seg>많이 안 좋은 거니?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202336Z" changedate="20220331T202336Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>Is it bad?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_J0yrmldf1qe8M2jg7M0O0VqTb">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">이상한 애네</prop>
+        <prop type="context_next">이해할 수 없는 말만...</prop>
+        <seg>아까부터 계속</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203116Z" changedate="20220402T093800Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>you’re not making </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_JmYzvXhE0gK4ws8UIfwttnpt1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">하는 수 없지</prop>
+        <prop type="context_next">서연, 교실로 향하면</prop>
+        <seg>교실에 들어가 쉬도록 해</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202347Z" changedate="20220402T092904Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>go back to your classroom and rest then</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_KSjm1MI3x9p4kx9wSMxdMSAx1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">하긴, 그러니까</prop>
+        <prop type="context_next">으, 진짜 초 비참</prop>
+        <seg>현우한테 꼬리도 치지</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202507Z" changedate="20220402T093013Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>that’s probably why she hit on hyeonu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_L0KxlJmhwez4af8MnpxpYhjT1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">아~ 무도 없어서야?</prop>
+        <prop type="context_next">안 그래도 쪽팔려서</prop>
+        <seg>ㅋㅋ 알면서 뭘 물어?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202402Z" changedate="20220402T092918Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>haha.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_LrzKxGmYgd92Zy4wwDMA9sPA">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">가득 적혀 있다.</prop>
+        <prop type="context_next">다들 눈치 챘을까?</prop>
+        <seg>...</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201837Z" changedate="20220331T201837Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">caroline@glozinc.com</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_LwjYuWS20yB4Ua8oeI0qonrF0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">아무도 나하고는</prop>
+        <prop type="context_next">하지 않는단 말이야</prop>
+        <seg>가까이 지내려고</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203230Z" changedate="20220402T093826Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>nobody at school</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_MC1OpogV1G0n00e2UnvMlU8r2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">ㅡ운동장ㅡ</prop>
+        <prop type="context_next">우앙, 언제 봐도</prop>
+        <seg>저기 봐, 도현우다!</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202027Z" changedate="20220402T092150Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>look, it’s hyeonu do!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_MGgXm2HFwSl2s94sMpwjQ36C">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">나라면 걍 자퇴한다</prop>
+        <prop type="context_next">(대체 내가..)</prop>
+        <seg>(내가 왜)</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202521Z" changedate="20220402T093154Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>(why)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_MSaGR5fpwqA2TH4MZhMpt5g8">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">너, 너, 너, 너 뭐야?</prop>
+        <seg>글쎄, 내가 누굴까?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203511Z" changedate="20220402T095028Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>well, what do you think?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_MT1au6cbwew5WK9UI03EqoJW3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">분명히 본 기억이</prop>
+        <prop type="context_next">하지만 난</prop>
+        <seg>있을 거라는 거지</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203436Z" changedate="20220402T094837Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>seeing you</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_MisyxnnNwZS2d09Eay1mH1Z55">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">특히 너처럼 생긴</prop>
+        <prop type="context_next">(으, 실수다!)</prop>
+        <seg>얼굴이라면..</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203319Z" changedate="20220401T154744Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I would’ve...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_MrmI0Kjf1Ew9Ydi0Cz3QwB6m3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">신경 꺼</prop>
+        <prop type="context_next">우리까지 괴롭힘당할라</prop>
+        <seg>그러다 괜히</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201959Z" changedate="20220402T091648Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>who knows, </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_NInDYM1TwJ0bIOggt32GTfui1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">이거...</prop>
+        <prop type="context_next">딩동~ 댕</prop>
+        <seg>꿈??</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203455Z" changedate="20220402T094950Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>just a dream?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_NOEWYIpFgYI2sU44eQgYlZCH">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">가자가자</prop>
+        <prop type="context_next">ㅡ운동장ㅡ</prop>
+        <seg>......</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202015Z" changedate="20220402T091939Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">caroline@glozinc.com</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_NS78R8J2gHW2BA4oUy0aj0Ut2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">안 그래도 쪽팔려서</prop>
+        <prop type="context_next">쪽팔리긴 무슨</prop>
+        <seg>죽고 싶은 애한테</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202455Z" changedate="20220402T092936Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>she’s already on the verge of dying from embarrassment</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_NrytaABD0kd5s1gMfp0GhBr12">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">ㅋㅋ 알면서 뭘 물어?</prop>
+        <prop type="context_next">죽고 싶은 애한테</prop>
+        <seg>안 그래도 쪽팔려서</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202452Z" changedate="20220402T092924Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>do you really need to ask?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Ntce91vP06ebEshM8n1U1d1ra">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">그야말로 하찮은</prop>
+        <prop type="context_next">할 만한 짓이야</prop>
+        <seg>미물들이나</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203312Z" changedate="20220402T094540Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>only mere mortals </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_O1mgh1wF0uImMnw0KF6gIFXs1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">하긴, 아버지가</prop>
+        <prop type="context_next">그런 쪽에 관심 둘</prop>
+        <seg>정계 유명 인사인데</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202205Z" changedate="20220402T092542Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>after all, his father is a major political figure</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_O439EXuEM8N2N74wGIMTWzXs">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">나랑 계약할래?</prop>
+        <prop type="context_next">1화.</prop>
+        <seg>그 지옥에서 널 건져줄게</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201809Z" changedate="20220402T090455Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I’ll get you out of this hellhole.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_O4er6iGcMYA2oL4cVAgxoQDu">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">부모가 없어서?</prop>
+        <prop type="context_next">하지만 가장 큰 이유는</prop>
+        <seg>집이 가난하니까?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203238Z" changedate="20220402T093943Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>and because my family is poor?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_P9xUj35swD42f64UHOwmP00F3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">아, 냅두라니까!</prop>
+        <prop type="context_next">......</prop>
+        <seg>가자가자</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202010Z" changedate="20220402T091936Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>come on, let’s go.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_PLAyYFsG0sU5s890Qk2Tjfk42">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">팩폭이거든?</prop>
+        <prop type="context_next">ㅋㅋㅋㅋㅋㅋㅋㅋㅋ</prop>
+        <seg>ㅋㅋㅋ</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202728Z" changedate="20220402T093403Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>hahaha</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_PMvE6O0d0sXaQahw4y2vfIoL2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">나 참, 아니거든?!</prop>
+        <prop type="context_next">흐~음, 그렇군</prop>
+        <seg>어, 얼굴은 누가 붉혔다고</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203338Z" changedate="20220402T094708Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>what are you talking about? I’m not blushing!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_PQFXmVxp0CZ5C2906m3Jrh144">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">...</prop>
+        <prop type="context_next">응?</prop>
+        <seg>저기, 선생님..</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202330Z" changedate="20220402T092829Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>excuse me, teacher...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_PhyU11pw1wqhEKyw0Y6ofElwd">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">그치만..</prop>
+        <prop type="context_next">가자가자</prop>
+        <seg>아, 냅두라니까!</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202007Z" changedate="20220402T091924Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>ah, just let it go!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_PrU9Ui1Jwwy42T8MPwxgl9XJ0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">아, 아니라니깐!</prop>
+        <prop type="context_next">외모에 대해서라면</prop>
+        <seg>괜찮아</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203347Z" changedate="20220402T094735Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>it’s okay</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Prv9yxzn0g34OF9MFgwAB2WE0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">관심 없는 듯</prop>
+        <prop type="context_next">정계 유명 인사인데</prop>
+        <seg>하긴, 아버지가</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202150Z" changedate="20220402T092545Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>that makes sense, though</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Psj8cOkb0Us5O59EPk02wssZ0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">나의 악마님</prop>
+        <prop type="context_next">아이들이 운동장으로</prop>
+        <seg>체육시간</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201815Z" changedate="20220401T154744Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>It’s time for PE class.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_PzBO7akHwMW2Kf4kn10sfQoC0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">눈을 뜬 서연</prop>
+        <prop type="context_next">뭐지.</prop>
+        <seg>...?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203022Z" changedate="20220331T203022Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">caroline@glozinc.com</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>...?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Q3wae2Wiw0f5sY8o1c3AYyo70">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">따위의 말이</prop>
+        <prop type="context_next">...</prop>
+        <seg>가득 적혀 있다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202940Z" changedate="20220402T093455Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{i&gt;</bpt>go kill yourself!<ept i="1000001">&lt;i}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_QANeDoNqMuh2fR4INiMowZda">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">걔가 좋아하는 남자애가</prop>
+        <prop type="context_next">괴롭힘이 시작됐어</prop>
+        <seg>나한테 고백했단 이유로</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203250Z" changedate="20220402T094040Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>ever since her crush </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_QZzdrArXMOT2qk4wvew6Tg1L1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">배드민턴을 쳐볼까?</prop>
+        <prop type="context_next">파트너를 찾도록</prop>
+        <seg>각자 원하는</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202323Z" changedate="20220402T092811Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>so, go ahead and find </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_QtiOv450xii5sZ9oXq00BGia6">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">극강의 비주얼~</prop>
+        <prop type="context_next">저 멀리 눈에 띄는</prop>
+        <seg>오늘도 환상적이네</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202055Z" changedate="20220402T092259Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>he’s fantastic as always</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_QyktQK6qwvM2Y180At0waMS77">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">찾아와줄 사람은 있니?</prop>
+        <prop type="context_next">할머닌 야채 팔아야지</prop>
+        <seg>부모는 뒤졌고</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202715Z" changedate="20220402T093335Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>your parents are dead</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_RHEpRBEtMXg2z94kPu0ewYv60">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">이쪽을 본다</prop>
+        <prop type="context_next">어떡하니.</prop>
+        <seg>어머머, 손도 흔들어</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202253Z" changedate="20220402T092620Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>oh my, he’s waving too</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_RJFZ7ucyw4W2Fo4E6xgDzWRm">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">하지만 난</prop>
+        <prop type="context_next">한 번도 본 적 없고</prop>
+        <seg>너 같은 남자애</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203447Z" changedate="20220402T094847Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I’ve never seen a boy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_RKoD6dMAgyi2f34ouR0UAQTI0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">서연, 교실로 향하면</prop>
+        <prop type="context_next">아님 같이 쳐줄 애가</prop>
+        <seg>정말 아픈 거야?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202351Z" changedate="20220402T092909Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>are you sure you’re sick?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_S051EqkY2Fg8IVjgaN3uca3m0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">저년 낯짝이</prop>
+        <prop type="context_next">하긴, 그러니까</prop>
+        <seg>얼마나 두꺼운데</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202459Z" changedate="20220402T093254Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>just how thick-skinned that b*tch is</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_SRpyUwzmg0w5qn8oiX0m4mob0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">있을 거라는 거지</prop>
+        <prop type="context_next">너 같은 남자애</prop>
+        <seg>하지만 난</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203446Z" changedate="20220402T094843Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>but</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ScWpzmfCwra2454YGMM11R8o0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">체육시간</prop>
+        <prop type="context_next">이동하고 있다.</prop>
+        <seg>아이들이 운동장으로</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201819Z" changedate="20220402T091157Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>the students are </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_SsuU3iERMO22nk48Bsgm1vbb0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">또 이런 짓을..</prop>
+        <prop type="context_next">서둘러!</prop>
+        <seg>우와, 늦겠다!</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201849Z" changedate="20220402T091257Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>uh-oh, we’re running late!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_T6HEOvoHMYM21p9otr0ciznA3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">어, 어쩌면</prop>
+        <prop type="context_next">꿈??</prop>
+        <seg>이거...</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203454Z" changedate="20220331T203459Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>this is...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_TD6epD5vgb14Y29wIdw2gOOM1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(대체 내가..)</prop>
+        <prop type="context_next">야, 저년 안 가고</prop>
+        <seg>(무슨 잘못을 했다고)</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202522Z" changedate="20220402T093210Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>(what have I done wrong?)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_THm1HV6sxXe5Kn8gTq0CwJ8M0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">어우 야~ ㅋㅋ</prop>
+        <prop type="context_next">팩폭이거든?</prop>
+        <seg>패드립은 너무하다</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202723Z" changedate="20220402T093353Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>don’t bring up her family, that’s a bit too much</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_TLCeLzZ20CA480h00T3s0eMD5">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">이제 알았어?</prop>
+        <prop type="context_next">너, 너, 너, 너 뭐야?</prop>
+        <seg>보기보다 둔하구나</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203508Z" changedate="20220402T095010Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>you’re not as sharp as I thought</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_TTci8pkLgeR2Vn4IG004cKF20">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(으, 실수다!)</prop>
+        <prop type="context_next">난 몰라)</prop>
+        <seg>(어떡해.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203321Z" changedate="20220402T094624Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>(oh, no.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_TcOgEcH008Jbo4j0yd36s6BK2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">정서연 같은데?</prop>
+        <prop type="context_next">그럼 그 소문이</prop>
+        <seg>헐, 진짜네</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202306Z" changedate="20220402T092703Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>woah, you’re right</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Tln27iFxMhr2sa4wUdgoc0Lr1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(어떡해.</prop>
+        <prop type="context_next">나처럼 뭐?</prop>
+        <seg>난 몰라)</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203322Z" changedate="20220402T094627Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>what should I do...)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_U0B03Rml1cekgKDw06bIpwtk0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">오디션 제의받았대</prop>
+        <prop type="context_next">대형 기획사잖아~!</prop>
+        <seg>헉, RT면</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202141Z" changedate="20220331T202141Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>RT?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_UOp00yZh2mza46jwZ134g1tF9">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">싫어한다고?</prop>
+        <prop type="context_next">글쎄..</prop>
+        <seg>왜?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201901Z" changedate="20220402T093931Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>why?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_UzjHrxrnMb05u288pq0cMRME3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">너 같은 남자애</prop>
+        <prop type="context_next">나에게 말 거는 건</prop>
+        <seg>한 번도 본 적 없고</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203452Z" changedate="20220402T094853Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>that looks like you</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_VKx2cJ0Tw3H4eV980x0gt90Z9">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">할머닌 야채 팔아야지</prop>
+        <prop type="context_next">패드립은 너무하다</prop>
+        <seg>어우 야~ ㅋㅋ</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202722Z" changedate="20220402T093343Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>woah, woah lol</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_VN0bhMn6xQN50ngwAU0uJuVt5">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">난 분명히</prop>
+        <prop type="context_next">내가 널 데려왔어</prop>
+        <seg>교실 책상에...</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203024Z" changedate="20220402T093634Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I was just sitting at my desk...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_VOOsV9yU02j5s89oAt0KuSzp0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">김봄 때문이야</prop>
+        <prop type="context_next">우리 반 일진</prop>
+        <seg>김봄?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203245Z" changedate="20220402T094006Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>bomi kim?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_VkjymMEq0iS4s48Mn8wgGkHp1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">같이 어울려줄</prop>
+        <prop type="context_next">도망쳐 왔다는 거</prop>
+        <seg>친구가 없어서</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202958Z" changedate="20220402T093540Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>because I don’t have a friend</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_W2ic5rKo0IQ46b8UaMwbJF2d1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">어라, 현우가 손 흔든 사람</prop>
+        <prop type="context_next">헐, 진짜네</prop>
+        <seg>정서연 같은데?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202305Z" changedate="20220402T092650Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>wave at seoyeon jeong?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_WL0vjNYTx254YO80074SgvQP0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">얼마나 곤란했다고</prop>
+        <prop type="context_next">그야말로 하찮은</prop>
+        <seg>유치하고 한심하군</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203311Z" changedate="20220402T094528Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>that’s childish and pathetic</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_WP9K9Bqn0uh4ur8g1m30rsYC4">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">얼굴까지 붉히고</prop>
+        <prop type="context_next">어, 얼굴은 누가 붉혔다고</prop>
+        <seg>나 참, 아니거든?!</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203337Z" changedate="20220331T203337Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I’m not!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_WRr6ERrvMf62DK4QYPgDsKBE">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">뭐지.</prop>
+        <prop type="context_next">교실 책상에...</prop>
+        <seg>난 분명히</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203023Z" changedate="20220331T203023Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I swear</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_WmVrMaFdMsT2AJ447ewHHC0i0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">그 지옥에서 널 건져줄게</prop>
+        <prop type="context_next">나의 악마님</prop>
+        <seg>1화.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T161101Z" changedate="20220402T090516Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>chapter 1</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_XjsJo1K9wNb44v8Ex81QW0qQ7">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">근데 정작 현우는</prop>
+        <prop type="context_next">하긴, 아버지가</prop>
+        <seg>관심 없는 듯</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202149Z" changedate="20220402T092545Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I don’t think hyeonu’s interested</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Xo1QgFle08O98KjMSe3w1hpQ1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">뭐 하러 말 걸어!</prop>
+        <prop type="context_next">짝인데</prop>
+        <seg>왜?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201901Z" changedate="20220402T091352Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>why not?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_XsgLiM1Vw1QaEYhw160USXRob">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">너 누구야?</prop>
+        <prop type="context_next">뭐랄까</prop>
+        <seg>여긴 어디?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203044Z" changedate="20220402T093639Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>where am I?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_XxP8sN9QwAJ2Ch4ACO0kPC8F1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">오오, 눈빛 봐</prop>
+        <prop type="context_next">억울하면 가서</prop>
+        <seg>ㅆㅂ년이 째려보면 뭐?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202537Z" changedate="20220402T093244Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>so what, b*tch?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Y90kzgq60KIb8Tgglr2YcdbZ0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">흐~음, 그렇군</prop>
+        <prop type="context_next">네 취향인 건가?</prop>
+        <seg>내 외모가</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203340Z" changedate="20220402T094723Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>do you like my looks?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_YQNZItAdwlq2Wd4oXTgTSqXl">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">얼마나 두꺼운데</prop>
+        <prop type="context_next">현우한테 꼬리도 치지</prop>
+        <seg>하긴, 그러니까</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202500Z" changedate="20220402T093006Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I guess so</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_YtBDbO2g0o95sd9oFE10I7g82">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">정계 유명 인사인데</prop>
+        <prop type="context_next">도련님이 아니지</prop>
+        <seg>그런 쪽에 관심 둘</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202205Z" changedate="20220402T092556Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>there’s no way he’d be </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Yy2A0USLwvj4kK9gnl1gX8hs1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">자신의 책상에</prop>
+        <prop type="context_next">책상에는</prop>
+        <seg>힘없이 앉는 서연</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202750Z" changedate="20220402T093429Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>by the window at the back.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Z0Ljra120YxnURz0wv7MEeEu0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">물을 부어놔서</prop>
+        <prop type="context_next">유치하고 한심하군</prop>
+        <seg>얼마나 곤란했다고</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203259Z" changedate="20220402T094520Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>and gave me a hard time</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ZRjrh33WM0o4E1jMXr1GwdgS5">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">죽고 싶은 애한테</prop>
+        <prop type="context_next">저년 낯짝이</prop>
+        <seg>쪽팔리긴 무슨</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202457Z" changedate="20220402T092954Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>as if she’ll even feel embarrassed!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ZU4YokcD0Iz4Ah8g3C0caa1k3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">가까이 지내려고</prop>
+        <prop type="context_next">어째서?</prop>
+        <seg>하지 않는단 말이야</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203230Z" changedate="20220402T093833Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>wants to be friends with me</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ZWK51QN2xjZ50fhgA12cW0tJ1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">신발장을 열던</prop>
+        <prop type="context_next">...</prop>
+        <seg>서연의 표정이 일그러진다.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201831Z" changedate="20220402T090728Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>and grimaces.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ZgaiwL90wIu5yB8gVv06DIWj3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">받아들여주면 좋겠는데</prop>
+        <prop type="context_next">아까부터 계속</prop>
+        <seg>이상한 애네</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203114Z" changedate="20220402T093749Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>you’re weird</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ZlxLxsDFM7M2v844v40kCWl11">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">괴롭힘이 시작됐어</prop>
+        <prop type="context_next">급식에 모래를 뿌려서</prop>
+        <seg>교과서를 찢어놓거나</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203252Z" changedate="20220402T094055Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>she’d tear up my textbooks</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_a2sOBVTigsa2OS44MD0W1jfs1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">응</prop>
+        <prop type="context_next">뭐 하러 말 걸어!</prop>
+        <seg>야, 쟤한텐</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201859Z" changedate="20220402T091341Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>hey!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_a5z69PHm0219whiMik0A1QpU0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">눈에 띄는 얼굴이라</prop>
+        <prop type="context_next">학생이었다면</prop>
+        <seg>우리 학교</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203427Z" changedate="20220402T094821Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>so, if you were a student </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_apuVfia3MOR2r24MjX0KdQzm1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">우리 학교 맞아?</prop>
+        <prop type="context_next">특히 너처럼 생긴</prop>
+        <seg>왜 난 본 적이 없지?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203318Z" changedate="20220402T094600Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>how come I’ve never seen you before?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_asVCv0JewDW4659MSr1gn09A3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">어머머, 손도 흔들어</prop>
+        <prop type="context_next">내 심장ㅜㅜ</prop>
+        <seg>어떡하니.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202253Z" changedate="20220331T202253Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I don’t know what to do.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_bCD9jl0Z0uN9UniwQo008bxgb">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">꽤 자신 있으니까</prop>
+        <prop type="context_next">이런 얼굴 좋아하지?</prop>
+        <seg>인간들은</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203353Z" changedate="20220402T094755Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>after all, humans like this kind of face,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_bGXy5E6v0kw4ix9wTwws6fzA1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">미물들이나</prop>
+        <prop type="context_next">근데 너</prop>
+        <seg>할 만한 짓이야</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203313Z" changedate="20220402T094546Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>would do that</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_bJ48Y8bf0WS5Gs8g5fwESkod0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">헉, RT면</prop>
+        <prop type="context_next">근데 정작 현우는</prop>
+        <seg>대형 기획사잖아~!</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202142Z" changedate="20220402T092438Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>that’s a major entertainment agency!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_bl2j13Qn0wDaw8igO22mklMh2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">얼마 전에 RT에서</prop>
+        <prop type="context_next">헉, RT면</prop>
+        <seg>오디션 제의받았대</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202138Z" changedate="20220402T092432Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>to audition at RT?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_bvdS30oJw1LaIWjwvS2QmsCY0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">ㅋㅋㅋ</prop>
+        <prop type="context_next">텅 빈 교실</prop>
+        <seg>ㅋㅋㅋㅋㅋㅋㅋㅋㅋ</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202729Z" changedate="20220401T154744Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>lmaooo</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_c61PK1ko1oSigax0uq8gXUkhb">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">그러다 괜히</prop>
+        <prop type="context_next">그치만..</prop>
+        <seg>우리까지 괴롭힘당할라</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202000Z" changedate="20220402T091817Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>we might get harassed too.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_d0nPDZM31EbaEXhgWn3dS7131">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">근데 너 학폭위 열리면</prop>
+        <prop type="context_next">부모는 뒤졌고</prop>
+        <seg>찾아와줄 사람은 있니?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202713Z" changedate="20220401T155509Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>if they hold a discipline committee meeting?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_dIEJ9HcpgaB23y4APEwi4w9h">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">그런 쪽에 관심 둘</prop>
+        <prop type="context_next">꺄악, 난 몰라!</prop>
+        <seg>도련님이 아니지</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202208Z" changedate="20220402T092557Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>into this kind of thing</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_e1ScyHP13nFbE3jwO06gHAP66">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">나한테 고백했단 이유로</prop>
+        <prop type="context_next">교과서를 찢어놓거나</prop>
+        <seg>괴롭힘이 시작됐어</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203251Z" changedate="20220402T094043Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>asked me out</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_e4k0kqKOwXk5gr8w6hxPW4441">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">그건 아니지만...</prop>
+        <prop type="context_next">가까이 지내려고</prop>
+        <seg>아무도 나하고는</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203203Z" changedate="20220402T093820Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>no one is nice to me</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_e6v1nOW9xY94Oi8w6b1ipyiu3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">응?</prop>
+        <prop type="context_next">제가 몸이 안 좋아서...</prop>
+        <seg>무슨 일이지?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202333Z" changedate="20220402T092838Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>what’s wrong?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_eDUWNIkmMp52Mw44X2M8oLjk">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">인간들은</prop>
+        <prop type="context_next">혹시...</prop>
+        <seg>이런 얼굴 좋아하지?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203357Z" changedate="20220402T094759Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>right?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_eEsdMyl7M872K080GY3WY10q0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">학생이었다면</prop>
+        <prop type="context_next">있을 거라는 거지</prop>
+        <seg>분명히 본 기억이</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203434Z" changedate="20220402T094839Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I would’ve remembered </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_eVbDbC7S0SJ5uz9o161mNcPc7">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">1화.</prop>
+        <prop type="context_next">체육시간</prop>
+        <seg>나의 악마님</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201805Z" changedate="20220402T090456Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>my dear demon</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_echDskkg0CJ5uY9UKPx13bCv0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">내 심장ㅜㅜ</prop>
+        <prop type="context_next">정서연 같은데?</prop>
+        <seg>어라, 현우가 손 흔든 사람</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202302Z" changedate="20220402T092639Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>wait, did hyeonu just</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_fAGF0XEy1kHbk2igDx02Rv035">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">야, 저년 안 가고</prop>
+        <prop type="context_next">오오, 눈빛 봐</prop>
+        <seg>우리 째려보는데?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202532Z" changedate="20220402T093227Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>glaring at us.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_fWRFb3U3wNQ2YJ4IpawO17O13">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">...?</prop>
+        <prop type="context_next">난 분명히</prop>
+        <seg>뭐지.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203022Z" changedate="20220402T093626Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>what’s going on?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_fgn93PKuM0J4sq9wzb0WNoe13">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">외모에 대해서라면</prop>
+        <prop type="context_next">인간들은</prop>
+        <seg>꽤 자신 있으니까</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203348Z" changedate="20220402T094747Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>when it comes to my looks</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_fmiNEDewg11bA4hg5s0ctlCg6">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">어, 얼굴은 누가 붉혔다고</prop>
+        <prop type="context_next">내 외모가</prop>
+        <seg>흐~음, 그렇군</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203339Z" changedate="20220402T094713Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>hmm, I see.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_fsQZbkJh0cJ5aY9M1K0gcIWy7">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(내가 왜)</prop>
+        <prop type="context_next">(무슨 잘못을 했다고)</prop>
+        <seg>(대체 내가..)</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202522Z" changedate="20220402T093210Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>(why would I...)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_gbkWfFRF0WU5e69o811qx6ja0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">이동하고 있다.</prop>
+        <prop type="context_next">서연의 표정이 일그러진다.</prop>
+        <seg>신발장을 열던</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201824Z" changedate="20220402T091148Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>seoyeon opens her locker</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_gdth4gw2wIP2wR4AHbw6WoBh">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(무슨 잘못을 했다고)</prop>
+        <prop type="context_next">우리 째려보는데?</prop>
+        <seg>야, 저년 안 가고</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202524Z" changedate="20220402T093250Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>hey, that b*tch is still there</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_gigRD4OY00V9sThMcW385ciu0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">아까부터 계속</prop>
+        <prop type="context_next">그리고 왜 나한테</prop>
+        <seg>이해할 수 없는 말만...</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203116Z" changedate="20220402T093800Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>any sense</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_gpAPwgJl0ST4YG9oerxoRLCL0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">대형 기획사잖아~!</prop>
+        <prop type="context_next">관심 없는 듯</prop>
+        <seg>근데 정작 현우는</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202143Z" changedate="20220402T092442Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>but</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_gszKL5iBggH20A8EBdw4kP7t1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">들었어?</prop>
+        <prop type="context_next">오디션 제의받았대</prop>
+        <seg>얼마 전에 RT에서</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202138Z" changedate="20220402T092432Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>that he recently got offered </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_h77PfIT6gS15yE9wl50m1MD0a">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">남학생을 두고</prop>
+        <prop type="context_next">들었어?</prop>
+        <seg>수군거리는 여자애들</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202110Z" changedate="20220401T154744Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>who stood out from the crowd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_hUzcYRN8gRq2T18867wAmYgA1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">쪽팔리긴 무슨</prop>
+        <prop type="context_next">얼마나 두꺼운데</prop>
+        <seg>저년 낯짝이</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202458Z" changedate="20220402T092959Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>you’ve no idea</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_hzm8tqN6MXY2qN4wku00y0Mq5">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">서연의 표정이 일그러진다.</prop>
+        <prop type="context_next">운동화를 뒤집자</prop>
+        <seg>...</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201837Z" changedate="20220331T201837Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">caroline@glozinc.com</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_idFIG1NK1oXaMcg04O78Eq8O3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">무슨 소문?</prop>
+        <prop type="context_next">김봄이 빡쳤다는..</prop>
+        <seg>도현우가 서연이 좋아해서</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202315Z" changedate="20220402T092715Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>the rumor that bomi kim’s upset</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_igXGgryCwy62ML4gp1xrwJRI0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">그럼 그 소문이</prop>
+        <prop type="context_next">무슨 소문?</prop>
+        <seg>사실이었나 봐</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202311Z" changedate="20220331T202311Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>the rumor was true.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ir44mY0q0KTb8dgMcu3l9oED3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">딩동~ 댕</prop>
+        <prop type="context_next">보기보다 둔하구나</prop>
+        <seg>이제 알았어?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203506Z" changedate="20220402T095001Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>did you just realize that?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_jKAjd2TEgT22IZ4ANNMHzX7M">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">교실 책상에...</prop>
+        <prop type="context_next">너 누구야?</prop>
+        <seg>내가 널 데려왔어</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203042Z" changedate="20220331T203042Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I’m the one who brought you over.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_jfTIr8igg2f21p9EVExgAsaA1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">패드립은 너무하다</prop>
+        <prop type="context_next">ㅋㅋㅋ</prop>
+        <seg>팩폭이거든?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202727Z" changedate="20220402T093400Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I’m just stating facts</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_jl2umgnD0a946I8ge21KQWKS2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">보라니까</prop>
+        <prop type="context_next">눈을 뜬 서연</prop>
+        <seg>누군가 부르는 소리에</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203020Z" changedate="20220402T093617Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>just then, someone calls out to seoyeon</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_jrIXVs3U0aF5IH9U0e2HZI4a1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">내가 널 데려왔어</prop>
+        <prop type="context_next">여긴 어디?</prop>
+        <seg>너 누구야?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203043Z" changedate="20220402T093639Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>who are you?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_k0Ho3vFQxxf4W1hMDA2uCj0U3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">야, 쟤한텐</prop>
+        <prop type="context_next">왜?</prop>
+        <seg>뭐 하러 말 걸어!</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201900Z" changedate="20220402T091348Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>why are you talking to her?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_kLiJm1MkwUP5Cu8E2xxpZexb0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">맞아.</prop>
+        <prop type="context_next">그러다 괜히</prop>
+        <seg>신경 꺼</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201954Z" changedate="20220402T091643Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>don’t talk to her. </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_kUMyp9Clgne23x4EXvMjcNpE">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">네 취향인 건가?</prop>
+        <prop type="context_next">괜찮아</prop>
+        <seg>아, 아니라니깐!</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203345Z" changedate="20220402T094729Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>n-no!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_l11DLEYJ2eBbM7ggmv3se8Mj3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">서연아, 빨리 가자</prop>
+        <prop type="context_next">응</prop>
+        <seg>어?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201858Z" changedate="20220402T091308Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>huh?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_l7GHTAGa06s50Diwon3bWKzA2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">혹시...</prop>
+        <prop type="context_next">오, 오해하지 마</prop>
+        <seg>설렜어?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203409Z" changedate="20220331T203409Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>give you butterflies in your stomach?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_lhgClDU10mr8YOjM6y1atePk6">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">각자 원하는</prop>
+        <prop type="context_next">...</prop>
+        <seg>파트너를 찾도록</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202323Z" changedate="20220402T092814Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>a partner</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_liaAWOrqMf22Tp48ifMvLLsx">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">교과서를 찢어놓거나</prop>
+        <prop type="context_next">못 먹게 하는 건</prop>
+        <seg>급식에 모래를 뿌려서</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203254Z" changedate="20220401T155652Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>and sprinkle sand on my lunch</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_lkZ0ULu000XDw321iS9ETdV5s">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">내 인생은 왜...</prop>
+        <prop type="context_next">정서연</prop>
+        <seg>서연</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203014Z" changedate="20220402T093555Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>hey, seoyeon.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_m0AeMdbuxd1bsQjg1T4qw7ML3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">왕따니까</prop>
+        <prop type="context_next">싫어한다고?</prop>
+        <seg>모두 날 싫어해</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203234Z" changedate="20220402T093924Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>because I’m an outcast</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_mHa1B6Viw0g8ESggjJ1mYSmp0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">왜?</prop>
+        <prop type="context_next">김봄한테 찍힌 거 몰라?</prop>
+        <seg>짝인데</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201901Z" changedate="20220402T091400Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>she sits next to me in class</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_mkqaBzm00q0h84Cwo12Q6m1d6">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">내 외모가</prop>
+        <prop type="context_next">아, 아니라니깐!</prop>
+        <seg>네 취향인 건가?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203340Z" changedate="20220402T094724Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>am I your type?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_nfH2OAH4wZ14Y88UZ11u1vmE2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">파트너를 찾도록</prop>
+        <prop type="context_next">저기, 선생님..</prop>
+        <seg>...</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201837Z" changedate="20220331T201837Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">caroline@glozinc.com</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ngEpEiQRw1342k8oqI0IK2Y20">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">글쎄..</prop>
+        <prop type="context_next">집이 가난하니까?</prop>
+        <seg>부모가 없어서?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203237Z" changedate="20220402T093940Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>it’s probably because I don’t have parents?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_nvXGMF4rwnB2eh4shyg6pFPd">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">아님 같이 쳐줄 애가</prop>
+        <prop type="context_next">ㅋㅋ 알면서 뭘 물어?</prop>
+        <seg>아~ 무도 없어서야?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202400Z" changedate="20220331T202400Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>because nobody wants to play with you?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_o1U0HA4k2pSaw8jgP51OqH0F9">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">힘없이 앉는 서연</prop>
+        <prop type="context_next">극혐, 역겨워, 죽어버려!</prop>
+        <seg>책상에는</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202750Z" changedate="20220402T093447Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>her desk has been scribbled all over</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_o3tKVyX1wQO5kH8wDexU4hUC1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">여긴 어디?</prop>
+        <prop type="context_next">일종의 응접실?</prop>
+        <seg>뭐랄까</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203046Z" changedate="20220402T093727Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>this is</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_o4DkdCq5gsg2Ap4QL01uJntd3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">모두 날 싫어해</prop>
+        <prop type="context_next">왜?</prop>
+        <seg>싫어한다고?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203235Z" changedate="20220402T093930Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>everyone hates you?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_oK6A7dMF00j9YJi0uL3Cr5c43">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">정서연</prop>
+        <prop type="context_next">보라니까</prop>
+        <seg>여길 봐</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203015Z" changedate="20220402T093604Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>look here.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_oSikcBsPMSP2TZ442AMup2Lf">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앗!</prop>
+        <prop type="context_next">이거...</prop>
+        <seg>어, 어쩌면</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203454Z" changedate="20220402T094945Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>oh, maybe</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_oydwhlhew7q2iI4cZWgdZOLm">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">우와, 늦겠다!</prop>
+        <prop type="context_next">서연아, 빨리 가자</prop>
+        <seg>서둘러!</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201850Z" changedate="20220402T091300Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>hurry!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_pB0Eyi7y1sv9ccgg1o3cEqgS6">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">우리 째려보는데?</prop>
+        <prop type="context_next">ㅆㅂ년이 째려보면 뭐?</prop>
+        <seg>오오, 눈빛 봐</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202536Z" changedate="20220402T093238Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>dang, what an intense look</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_pRd8wg7BMlK2eD48HRggamp3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">우리 학교</prop>
+        <prop type="context_next">분명히 본 기억이</prop>
+        <seg>학생이었다면</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203427Z" changedate="20220402T094828Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>at my school,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_pk7yPw6dwWN29i484f08lcBX1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">떨어지는 물</prop>
+        <prop type="context_next">또 이런 짓을..</prop>
+        <seg>후</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201847Z" changedate="20220402T091233Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>sigh...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_qnDjOW1u0K88QCiMSu24UpQU2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">누군가 부르는 소리에</prop>
+        <prop type="context_next">...?</prop>
+        <seg>눈을 뜬 서연</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203021Z" changedate="20220402T093620Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>seoyeon opens her eyes.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_r9xHrRbR0w0ak0x0m7dcIrRU2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">이해할 수 없는 말만...</prop>
+        <prop type="context_next">친한 척 말을 걸지?</prop>
+        <seg>그리고 왜 나한테</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203118Z" changedate="20220402T093804Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>besides, why are you being so...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_rdLu7g4FwKa2qJ4Yh7gYYy87">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">아무것도</prop>
+        <prop type="context_next">얼굴까지 붉히고</prop>
+        <seg>뭐야, 갑자기</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203331Z" changedate="20220402T094647Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>what was that?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_rziK10hg2vf8M0ywwP76xvOC7">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">못 먹게 하는 건</prop>
+        <prop type="context_next">아까도 운동화에</prop>
+        <seg>일상이지 ㅋ</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203257Z" changedate="20220402T094115Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I’m used to it by now though, haha</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_sEHQKSB3gfw2Mv4YysMxtiWw">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">억울하면 가서</prop>
+        <prop type="context_next">근데 너 학폭위 열리면</prop>
+        <seg>꼰질러 보시던가</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202608Z" changedate="20220401T155449Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>go ahead and snitch.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_sRFGNorwMh52z448Og0eshc71">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">집이 가난하니까?</prop>
+        <prop type="context_next">김봄 때문이야</prop>
+        <seg>하지만 가장 큰 이유는</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203241Z" changedate="20220402T093951Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>the biggest reason, however,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_saLxFqoH0cd4OQ8E0v2MfQLJ3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">보기보다 둔하구나</prop>
+        <prop type="context_next">글쎄, 내가 누굴까?</prop>
+        <seg>너, 너, 너, 너 뭐야?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203509Z" changedate="20220402T095019Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>w-who, who, who are you?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_so9gjMhnw6C2S348Q2gIndPV">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">저기 봐, 도현우다!</prop>
+        <prop type="context_next">극강의 비주얼~</prop>
+        <seg>우앙, 언제 봐도</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202054Z" changedate="20220402T092159Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>wow, he never disappoints</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_svfa1h7r1GObMVhwlu3iLvJ51">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">하지만 가장 큰 이유는</prop>
+        <prop type="context_next">김봄?</prop>
+        <seg>김봄 때문이야</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203243Z" changedate="20220402T093959Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>is bomi kim</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_t0X1aRQ53jybsXgMZg3UULpF2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">나에게 말 거는 건</prop>
+        <prop type="context_next">앗!</prop>
+        <seg>금지되어 있으니까..</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203453Z" changedate="20220402T094936Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>banned to even just talk to me, so...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_tSc3MjJ2whT2HI483bggCeQy">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">극혐, 역겨워, 죽어버려!</prop>
+        <prop type="context_next">가득 적혀 있다.</prop>
+        <seg>따위의 말이</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202940Z" changedate="20220402T093454Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{i&gt;</bpt>you’re disgusting.<ept i="1000001">&lt;i}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_tZCw8zhfgOc2ds4cXOwqqYMo">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">유치하고 한심하군</prop>
+        <prop type="context_next">미물들이나</prop>
+        <seg>그야말로 하찮은</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203312Z" changedate="20220402T094536Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>literally</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_u6xI90Ft0SAb8HiMKB1o4TzG7">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">여길 봐</prop>
+        <prop type="context_next">누군가 부르는 소리에</prop>
+        <seg>보라니까</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203018Z" changedate="20220402T093607Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>over here!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_uTW8DZBZ0k0bE1y02J2UTyd27">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">현우한테 꼬리도 치지</prop>
+        <prop type="context_next">나라면 걍 자퇴한다</prop>
+        <seg>으, 진짜 초 비참</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202519Z" changedate="20220402T093120Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>ugh, how miserable</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_uuH1tEzhwAI50agwd702Vj347">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">김봄?</prop>
+        <prop type="context_next">걔가 좋아하는 남자애가</prop>
+        <seg>우리 반 일진</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203246Z" changedate="20220402T094038Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>she’s a bully in my class</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_uyPzbf0U10Bl8pzwRO3ydmpv1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">후</prop>
+        <prop type="context_next">우와, 늦겠다!</prop>
+        <seg>또 이런 짓을..</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201848Z" changedate="20220402T091237Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>not again.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_vymCPi5u0Yz5U1iMfy1wpHae4">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">오, 오해하지 마</prop>
+        <prop type="context_next">눈에 띄는 얼굴이라</prop>
+        <seg>그, 그냥..</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203417Z" changedate="20220402T094812Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I-I just meant...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_w1lJGkaewwT5uq88THwAs8Cd1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">어?</prop>
+        <prop type="context_next">야, 쟤한텐</prop>
+        <seg>응</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201859Z" changedate="20220402T091321Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>okay</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_w45oa3FxMSM2Sy4cq8g5BDKc">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">괜찮아</prop>
+        <prop type="context_next">꽤 자신 있으니까</prop>
+        <seg>외모에 대해서라면</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203347Z" changedate="20220402T094741Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I’m quite confident</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_w7B25swaMLw21C88xzwXCO9O0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">사실은 아프지 않다는 거</prop>
+        <prop type="context_next">친구가 없어서</prop>
+        <seg>같이 어울려줄</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202956Z" changedate="20220402T093520Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>that I’m hiding</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_xBsxFIiiMrc2u84MpLMdXZ80">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">어떡하니.</prop>
+        <prop type="context_next">어라, 현우가 손 흔든 사람</prop>
+        <seg>내 심장ㅜㅜ</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202259Z" changedate="20220402T092632Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>my poor heart!!!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_xRaWYecxMEm2wr4c0Fwd5O151">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">이런 얼굴 좋아하지?</prop>
+        <prop type="context_next">설렜어?</prop>
+        <seg>혹시...</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203409Z" changedate="20220402T094802Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>did I...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_yMd1akZbxPT5WR9gYdxE1TYQ0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">어째서?</prop>
+        <prop type="context_next">모두 날 싫어해</prop>
+        <seg>왕따니까</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203233Z" changedate="20220402T093853Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>everyone hates me</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_yeMm1Uisw81aYSiwJt35WDmc0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">일상이지 ㅋ</prop>
+        <prop type="context_next">물을 부어놔서</prop>
+        <seg>아까도 운동화에</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203258Z" changedate="20220402T094116Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>earlier today</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ykI4A5rN0At4Kd9wPFxOp07b0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">수군거리는 여자애들</prop>
+        <prop type="context_next">얼마 전에 RT에서</prop>
+        <seg>들었어?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202113Z" changedate="20220402T092410Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>did you know</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_yqFhWWGQgKb2pN4INwMfi19E0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">헐, 진짜네</prop>
+        <prop type="context_next">사실이었나 봐</prop>
+        <seg>그럼 그 소문이</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202311Z" changedate="20220402T092703Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>I guess</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_z15X1pbB3Qf8Azh0a0d0GEWPk">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">김봄한테 찍힌 거 몰라?</prop>
+        <prop type="context_next">신경 꺼</prop>
+        <seg>맞아.</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T201954Z" changedate="20220402T091635Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>she’s right.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_zhqi31E30mybcxh0UL4e0cMGd">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">근데 너</prop>
+        <prop type="context_next">왜 난 본 적이 없지?</prop>
+        <seg>우리 학교 맞아?</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T203317Z" changedate="20220331T203317Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Grace Kim</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>do you go to our school?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_zny2nUibMs32b74YnGg17tmr1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">꺄악, 난 몰라!</prop>
+        <prop type="context_next">어머머, 손도 흔들어</prop>
+        <seg>이쪽을 본다</seg>
+      </tuv>
+      <tuv xml:lang="en-us" creationdate="20220331T202237Z" changedate="20220402T092613Z">
+        <prop type="project">24067810</prop>
+        <prop type="created_by">Grace Kim</prop>
+        <prop type="modified_by">Gwyn Low</prop>
+        <prop type="filename">샘플_나의 악마님.xlsx</prop>
+        <seg>he’s looking this way!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

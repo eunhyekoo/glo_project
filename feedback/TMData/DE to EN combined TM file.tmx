@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="memsource_tool" creationtoolversion="2.0" segtype="sentence" o-tmf="memsourceTM" adminlang="en" srclang="de" datatype="unknown" creationdate="20220725T004532Z">
+    <prop type="name">DE to EN combined TM file</prop>
+  </header>
+  <body/>
+</tmx>

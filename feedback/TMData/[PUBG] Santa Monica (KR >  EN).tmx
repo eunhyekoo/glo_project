@@ -1,0 +1,1588 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="memsource_tool" creationtoolversion="2.0" segtype="sentence" o-tmf="memsourceTM" adminlang="en" srclang="ko" datatype="unknown" creationdate="20220725T004600Z">
+    <prop type="name">[PUBG] Santa Monica (KR &gt;  EN)</prop>
+  </header>
+  <body>
+    <tu tuid="_0RM0SFMb301Jgd81M8uUzUv4r">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">높음)</prop>
+        <prop type="context_next">지금 바로 접속해볼까요? (수신거부:</prop>
+        <seg>(광고) 할로윈 깜짝 로그인 이벤트, 롤리팝 이벤트 등 모바일 배틀그라운드에서 진행되고 있는 다향한 이벤트에 참여하고 각종 보상 받아 가세요!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121633Z" changedate="20201107T020026Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) Participate in various events in PUBGM, including Halloween surprise log in events and Lollipop events and get your rewards!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_0UH11Si19ofIgHc1Ac583wDtk">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">KR Push 발송 횟수</prop>
+        <prop type="context_next">금요일 1회</prop>
+        <seg>평일:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121202Z" changedate="20201104T121202Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Weekdays:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_1Ysl0kL51ARnEqDwmx3c1xk95">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">보통)</prop>
+        <seg>게임 콘텐츠 업데이트 알림 (발송 빈도:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T124646Z" changedate="20201107T014835Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Notify game content updates (Frequency:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_27mK0rg4whG5wo8MKR1yQyQQ0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">플레이하면 할수록 빠져드는 좀비와 인간의 대결 속으로 지금 바로 함께해보세요! (수신거부:</prop>
+        <prop type="context_next">(광고) 인간VS좀비의 대결이 진행되고 있습니다!</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_2HVXy7b1xav4er80ca0EevjS4">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">KR은 월 평균 약 25~30회 발송</prop>
+        <prop type="context_next">KR Push 발송 유형</prop>
+        <seg>JP는 월 평균 약 2~3회 발송 (로얄패스, 월 정기 업데이트 안내 등)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121242Z" changedate="20201107T013554Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>JP push notifications: Average of 2 to 3 times a month (Royal Pass, monthly update notice, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_2HiQZ77kgzP2zJ4oZP0e8p3s0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">수신한 Push가 '광고'임을 알 수 있는 (광고) 표기, 무료 수신 거부 방법 등이 포함되어 있어야 합니다.</prop>
+        <prop type="context_next">예시) 제목:</prop>
+        <seg>KR에서는 아래와 같이 '본문' 내용에 <bpt i="1" x="1"/>'광고' <ept i="1"/>표기와 <bpt i="2" x="2"/>'수신거부 방법'<ept i="2"/>을 안내</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T130145Z" changedate="20201107T013257Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>In KR, the message should include the word<bpt i="1" x="1"/>“Ad” <ept i="1"/> and provide information on<bpt i="2" x="2"/>“Opting out”<ept i="2"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_3FczLUmj0SA5u798Ykx9Y0XK1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">새로워진 에란겔을 플레이 하고 업데이트 기념 이벤트에도 참여해 보세요! (수신거부:</prop>
+        <prop type="context_next">파트너 방송 시청 유도 (발송 빈도:</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_3SstuHzwMGa2964wW70U0j1n2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">로얄 패스 및 랭킹 시즌 안내 (발송 빈도:</prop>
+        <prop type="context_next">(광고) 새로운 시즌이 오픈됐습니다!</prop>
+        <seg>낮음)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122529Z" changedate="20201104T122529Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Low)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_3k4sI3WzwAd2r188SCx4kFiG0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">유령의 서곡] 이벤트!</prop>
+        <seg>(광고) 총 16종의 선물 보상이 준비되어 있는 [달빛 저택:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121601Z" changedate="20201107T020258Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) An event prepared with 16 kinds of gift rewards! [Moonlight Mansion:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_3yi4RZcj0It58Y8ETt18a1m51">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">KR Push 발송 정책</prop>
+        <prop type="context_next">KR Push 발송 정책</prop>
+        <seg>참고 자료</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T115214Z" changedate="20201104T115214Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Reference materials</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_4CnMJEe4g642CL4YYuMmZnID">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">이스포츠 시청 유도 (발송 빈도:</prop>
+        <prop type="context_next">(광고) 지금 바로 대한민국 최강 스쿼드 팀이 가려지는 순간을 함께 하세요!</prop>
+        <seg>보통)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122003Z" changedate="20201107T014835Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Average)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_5105lodk0CxnoLywcS3Aikv1b">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">지금 바로 접속해볼까요? {1&gt;(수신거부:&lt;1}</prop>
+        <prop type="context_next">위와 같은 사항을 준수하지 않을 경우 '3천만원 이하의 과태료'나 '1년 이하의 징역 또는 1천만원 이하 벌금'</prop>
+        <seg><bpt i="1" x="1"/>앱-설정-기본에서 변경 가능)<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg><bpt i="1" x="1"/>Change setting in App &gt; Setting &gt; General)<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_6R7csxeKMEr2NB44x2wzqeDk">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">JP는 월 평균 약 2~3회 발송 (로얄패스, 월 정기 업데이트 안내 등)</prop>
+        <prop type="context_next">KR에서는 Push를 스팸으로 인지하지 않도록 유저가 접속/참여/플레이 등을 했을 때 받을 수 있는 '혜택'을 최대한 안내하는 방향성을 가지고 Push 발송</prop>
+        <seg>KR Push 발송 유형</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121244Z" changedate="20201107T013548Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Types of notifications</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_6qvUlqV50Sm5SM9oIG0Gipg41">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">주말:</prop>
+        <prop type="context_next">공휴일:</prop>
+        <seg>토요일 1~2회 / 일요일 1~2회</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121220Z" changedate="20201105T003355Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">miistik@yahoo.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>1-2 times every Saturday / 1-2 times every Sunday</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_8q9RQK78MOy25E4EWvwGme2R">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">업데이트, 이벤트 이슈 등에 따라 추가 발송 진행</prop>
+        <prop type="context_next">JP는 월 평균 약 2~3회 발송 (로얄패스, 월 정기 업데이트 안내 등)</prop>
+        <seg>KR은 월 평균 약 25~30회 발송</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121239Z" changedate="20201107T013551Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>KR push notifications: Average of 25 to 30 times a month.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_9SFqA9jjw9U2QP48c9w0yg8M0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 총 16종의 선물 보상이 준비되어 있는 [달빛 저택:</prop>
+        <prop type="context_next">친구와 함께 특수 미션 클리어하고 특별 아이템 보상 받아가세요! (수신거부:</prop>
+        <seg>유령의 서곡] 이벤트!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121602Z" changedate="20201107T020300Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>House of Horrors]</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ApZbW9XPMaz2zC44fMgiXwB8">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">낮음)</prop>
+        <prop type="context_next">새로워진 에란겔을 플레이 하고 업데이트 기념 이벤트에도 참여해 보세요! (수신거부:</prop>
+        <seg>(광고) 신규 버전 업데이트 하고 접속만 해도 미스터리 상자 교환권 2개 드려요!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122415Z" changedate="20201107T020542Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) If you update to the new version and log into PUBGM, we'll give you two mystery box coupons!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Aryv3tOegLV2BH48b3gaEU5n">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">파트너 방송 시청 유도 (발송 빈도:</prop>
+        <prop type="context_next">(광고) 바이러스 인펙션 업데이트 기념 방구석에서 즐기는 할로윈 파티!</prop>
+        <seg>낮음)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122236Z" changedate="20201104T122236Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Low)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_BkVcJhweMPQ2of4gVZwoPCQo">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">유료화 상품 안내 (발송 빈도:</prop>
+        <prop type="context_next">(광고) 구독 즉시 150UC 획득, 이후 매일 데일리 조각 패키지 1개, 매주 30UC 가치의 할인권 2장을 획득할 수 있는 혜택을 누려보세요~! (수신거부:</prop>
+        <seg>낮음)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122725Z" changedate="20201104T122725Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Low)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_C8s0DD3O0KAbcviMv93pLo8X0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">커뮤니티 이벤트 참여 유도 (발송 빈도:</prop>
+        <prop type="context_next">(광고) 총 20명에게 쏩니다!</prop>
+        <seg>보통)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122003Z" changedate="20201107T014835Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Average)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_CXGCisVMgK15Yw904V10fbzKc">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">새로운 로얄 패스 미션과 다양한 보상도 확인해 보시고~ 업데이트를 기념하여 준비한 다양한 이벤트에 참여하시고 보상도 받아보세요! (수신거부:</prop>
+        <prop type="context_next">(광고) 랭킹 시즌 14는 9/15(화) 오전 9시, 로얄 패스 시즌14는 9/14(월) 오전 9시에 종료됩니다!</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_CopkTmgwwxm20s8g9kxA7NCV0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">싸인CD와 다양한 인게임 아이템을 획득할 수 있는 기회!</prop>
+        <seg>(광고) 블랙핑크와 함께하는 응원 이벤트!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121712Z" changedate="20201107T020306Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) A cheering event with BLACPINK!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_DLKjctcBMj82Oz4EAGM0znfS1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">1~2회</prop>
+        <prop type="context_next">KR은 월 평균 약 25~30회 발송</prop>
+        <seg>업데이트, 이벤트 이슈 등에 따라 추가 발송 진행</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121233Z" changedate="20201107T013256Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Additional push notifications may occur in case of updates, events, and issues, etc.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_DXZdVTKm0Yj4KA8o612qZR4F0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 바이러스 인펙션 업데이트 기념 방구석에서 즐기는 할로윈 파티!</prop>
+        <prop type="context_next">모든 채널에서 치킨교환권을 얻을 수 있는 시청 이벤트도 진행 중입니다! (수신거부:</prop>
+        <seg>지금 바로 유튜브 비누TV, 성민TV, 린튜브, 세드TV에서 생방송을 시청하세요!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122348Z" changedate="20201107T014805Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{i&gt;</bpt>Watch live broadcasts on YouTube SoapTV, SungminTV, LinTube, and SADTV right now!<ept i="1000001">&lt;i}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Db6SXM5pMRW2Z948ovwm0buM1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">보통)</prop>
+        <prop type="context_next">PMSC 2020 퀴즈 6문제 풀고 네네치킨 신메뉴 '청양마요치킨' 교환권 받아 가세요!</prop>
+        <seg>(광고) 총 20명에게 쏩니다!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T123439Z" changedate="20201107T020355Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) We will give chicken to 20 users!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_EDA0VB5O1IBaMdiMkh1OgzXx6">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">친구와 함께 특수 미션 클리어하고 특별 아이템 보상 받아가세요! (수신거부:</prop>
+        <prop type="context_next">(광고) 할로윈 깜짝 로그인 이벤트, 롤리팝 이벤트 등 모바일 배틀그라운드에서 진행되고 있는 다향한 이벤트에 참여하고 각종 보상 받아 가세요!</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_EgF9Eq7hwJt2WS4YbHwiEfVy">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">오후 7시</prop>
+        <prop type="context_next">오후 12시 or 오후 6시</prop>
+        <seg>주말 및 공휴일:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121204Z" changedate="20201107T013341Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Weekends &amp; Public holidays:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_EpRib0OM1qyaQRgM514AZsJe4">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 지금 바로 대한민국 최강 스쿼드 팀이 가려지는 순간을 함께 하세요!</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>지금 바로 PMSC 코인 이벤트 참여와 함께 대회를 시청하세요! (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T123656Z" changedate="20201107T020353Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Participate in PMSC coin event and watch the competition (To opt out:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_FTqwgBkxgQv2mI4M4hwVan3d">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">Push(광고성 정보 전송) 발송을 위해서 수신자의 사전수신 동의를 받아야 하는 이슈</prop>
+        <prop type="context_next">야간 광고 전송 금지</prop>
+        <seg>KR에서는 '광고성 알림 수신동의'를 이용약관에 포함하여 동의를 받고 있음</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T115540Z" changedate="20201107T012627Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>KR obtains the user’s permission by including “Agree to Receive Advertisement Notice” in the Terms of Use</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_FW2ZHjLYMmX2l54kdN0OjBJD1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">누적 로그인 이벤트로 최대 치킨 메달 1개, 미스터리 상자 교환권 조각3개, 200BP, 20RP 받아 보세요! (수신거부:</prop>
+        <seg>(광고) 접속 후 치킨 메달 1개 받고!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121952Z" changedate="20201107T020319Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) Log in and get one chicken medal!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_GR3nASQf0wp4Cv804E3USOC81">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 신규 버전 업데이트 하고 접속만 해도 미스터리 상자 교환권 2개 드려요!</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>새로워진 에란겔을 플레이 하고 업데이트 기념 이벤트에도 참여해 보세요! (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122303Z" changedate="20201107T020446Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Play the new Erangel and participate in an event celebrating the new update! (To opt out:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_GSWyid7fwtg2554cyPwMq5rj">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">KR Push 발송 정책</prop>
+        <prop type="context_next">게임 접속 유도</prop>
+        <seg>Push 발송 목적</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T115230Z" changedate="20201104T115230Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>The purpose of push notifications</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_H03dFZZ02Wbbk8jgg13oCoeK0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">보통)</prop>
+        <seg>이스포츠 시청 유도 (발송 빈도:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T123732Z" changedate="20201107T014838Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Encourage the user to watch esports (Frequency</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_H3M5I6v306k5Kr9UEkxjERum1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">지금 바로 정답 맞히고 치킨 메달 2개 받아 가세요! (수신거부:</prop>
+        <seg>(광고) 한글날 퀴즈 이벤트가 공식 카페에서 진행되고 있습니다!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T123004Z" changedate="20201107T020427Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) Hangeul Day quiz event is being held on our official cafe!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_H4K3fRld0w75eo80ET1IOcoX7">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">인 게임 이벤트를 통한 게임 접속 유도 (발송 빈도:</prop>
+        <prop type="context_next">(광고) 할로윈 깜짝 로그인 이벤트, 롤리팝 이벤트 등 모바일 배틀그라운드에서 진행되고 있는 다향한 이벤트에 참여하고 각종 보상 받아 가세요!</prop>
+        <seg>높음)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121306Z" changedate="20201104T121306Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>High)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_HeMrGd5S0wl5Se9gcUw5XMaJ0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">최대 치킨 메달 1개, 미스터리 상자 교환권 조각 3개, 200BP, 20RP를 획득해 보세요! (수신거부:</prop>
+        <seg>(광고) 주말 누적 로그인 시간(30분/60분/80분)에 따라 보상을 드립니다!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121848Z" changedate="20201107T020315Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) Claim your rewards based on your weekend accumulated log in time (30/60/80 minutes)!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_HvU1U0zy04ziwyAwbz1QcVVTd">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">낮음)</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>(광고) 구독 즉시 150UC 획득, 이후 매일 데일리 조각 패키지 1개, 매주 30UC 가치의 할인권 2장을 획득할 수 있는 혜택을 누려보세요~! (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122719Z" changedate="20201107T020431Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) Subscribe and get 150UC immediately. Enjoy Daily Special Bundle every day and two discount coupons worth 30UC every week! (To opt out:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_IBVIRU8GgY72id4AMY0SGPia0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">최대 치킨 메달 1개, 미스터리 상자 교환권 조각 3개, 200BP, 20RP를 획득해 보세요! (수신거부:</prop>
+        <prop type="context_next">(광고) 접속 후 치킨 메달 1개 받고!</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_JHMmw0GD1I7asXgwe13kKma18">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 새로운 시즌이 오픈됐습니다!</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>새로운 로얄 패스 미션과 다양한 보상도 확인해 보시고~ 업데이트를 기념하여 준비한 다양한 이벤트에 참여하시고 보상도 받아보세요! (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122517Z" changedate="20201107T020435Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Check out the new Royal Pass mission and various rewards. Participate in various events to celebrate the update and get rewards! (To opt out:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_KmuC3cadMLA2PS4MFEgoNjU5">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">KR에서는 Push 발송 시 '정보통신망 이용촉진 및 정보보호 등에 관한법률'에서 명시하고 있는 사항들을 준수해야 함</prop>
+        <prop type="context_next">Push(광고성 정보 전송) 발송을 위해서 수신자의 사전수신 동의를 받아야 하는 이슈</prop>
+        <seg>수신자의 사전수신동의 받기</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T115425Z" changedate="20201107T012625Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Acquiring permission from the user</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_LLJEvBnGgHu2Fa4oXn0iNsmi1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">KR Push 발송 시간</prop>
+        <prop type="context_next">오후 7시</prop>
+        <seg>평일:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121202Z" changedate="20201104T121202Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Weekdays:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_LryJ9Qlo0WR5oN9Ujl1WIp4Y3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">KR에서는 Push를 스팸으로 인지하지 않도록 유저가 접속/참여/플레이 등을 했을 때 받을 수 있는 '혜택'을 최대한 안내하는 방향성을 가지고 Push 발송</prop>
+        <prop type="context_next">높음)</prop>
+        <seg>인 게임 이벤트를 통한 게임 접속 유도 (발송 빈도:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121305Z" changedate="20201107T014821Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Encourage the user to log into PUBGM by advertising In-game events (Frequency:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_M6yktXcIMZL2EQ4gJG0wsgvu0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">Push 내용을 발송 희망 일정 기준 최소 2일, 평균 7일전 유관부서에서 공유 받아 발송</prop>
+        <prop type="context_next">평일:</prop>
+        <seg>KR Push 발송 시간</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121201Z" changedate="20201107T013340Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Release schedule</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_M9bMyPxEwf626s4EmnwJS0Cd0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">낮음)</prop>
+        <seg>업데이트 완료 안내 (발송 빈도:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122431Z" changedate="20201107T014850Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Maintenance completion notice (Frequency:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_NwszdDg00aCaMagM0S7K51TUa">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">도전 정예병의 상자, 스페셜 &amp; 미스터리 상자 교환권 조각 등의 아이템과 달성 횟수 보상으로 영구 테두리, 치킨 메달, 영구제 상의를 드려요! (수신거부:</prop>
+        <seg>(광고) 클래식 모드 TOP10 진입으로 보상을 획득해 보세요!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T131750Z" changedate="20201107T020324Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) Win rewards by entering the Classic Mode TOP 10!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_OKcVntt50Mg4I1hgqW2YKv9j3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">아직 달성하지 못한 미션 수행 및 수령하지 못한 보상을 서둘러 받아주세요! (수신거부:</prop>
+        <prop type="context_next">업데이트 완료 안내 (발송 빈도:</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ObQCVQaKM8Y2W08g5A1siurn3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">KR Push 발송 유형</prop>
+        <prop type="context_next">인 게임 이벤트를 통한 게임 접속 유도 (발송 빈도:</prop>
+        <seg>KR에서는 Push를 스팸으로 인지하지 않도록 유저가 접속/참여/플레이 등을 했을 때 받을 수 있는 '혜택'을 최대한 안내하는 방향성을 가지고 Push 발송</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T132128Z" changedate="20201107T014816Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>KR sends out push notifications with emphasis on informing of ways to enjoy “benefits” with log in, participation, gameplay, etc., so the user doesn’t regard push notifications as spam</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_PCZTRA6HMw05ut8EdYxRkquP0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">업데이트 완료 안내 (발송 빈도:</prop>
+        <prop type="context_next">(광고) 신규 버전 업데이트 하고 접속만 해도 미스터리 상자 교환권 2개 드려요!</prop>
+        <seg>낮음)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122236Z" changedate="20201104T122236Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Low)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_R3fJhMzOw4q2qP4IUF0e1dc23">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">게임 접속 유도</prop>
+        <prop type="context_next">기타 유저에게 안내해야 할 이슈 인지</prop>
+        <seg>서비스와 관련된 내용 알림 (점검 완료, 업데이트 완료, 시즌 업데이트 등)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T115322Z" changedate="20201107T012100Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Service-related notifications (Maintenance completion, update completion, season updates, etc.) </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_RbI180sI290mEGAwJN7s1WzK8">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 할로윈 깜짝 로그인 이벤트, 롤리팝 이벤트 등 모바일 배틀그라운드에서 진행되고 있는 다향한 이벤트에 참여하고 각종 보상 받아 가세요!</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>지금 바로 접속해볼까요? (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121336Z" changedate="20201107T020027Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Would you like to log in now? (To opt out:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Rjrw7JuWMQ82th4sCXwQLDp9">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">모든 채널에서 치킨교환권을 얻을 수 있는 시청 이벤트도 진행 중입니다! (수신거부:</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120238Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_TP7UWjLDgkk2Te4EF4gyr9Ar">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 접속 후 치킨 메달 1개 받고!</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>누적 로그인 이벤트로 최대 치킨 메달 1개, 미스터리 상자 교환권 조각3개, 200BP, 20RP 받아 보세요! (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T124812Z" changedate="20201107T020322Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Get up to one chicken medal, three mystery box exchange tickets, 200 BP, 20RP by participating in accumulated log in event!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_UxtCCOIRMy62KI40ewxORMNI1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">유령의 서곡] 이벤트!</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>친구와 함께 특수 미션 클리어하고 특별 아이템 보상 받아가세요! (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121606Z" changedate="20201107T020304Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Accomplish a special mission with your friends and get your special item rewards! (To opt out:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_VWUf0bhpxwu4OZ80ek0o56q40">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 총 20명에게 쏩니다!</prop>
+        <prop type="context_next">지금 바로 공식 카페에서 확인해보세요! (수신거부:</prop>
+        <seg>PMSC 2020 퀴즈 6문제 풀고 네네치킨 신메뉴 '청양마요치킨' 교환권 받아 가세요!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T123106Z" changedate="20201107T020401Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Participate in answering six PMSC 2020 quiz questions and get a voucher for Nene Chicken’s new “Cheongyang Mayo Chicken!”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_VrUcryUzgjE2nj4Aki0askWX0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">보통)</prop>
+        <prop type="context_next">지금 바로 PMSC 코인 이벤트 참여와 함께 대회를 시청하세요! (수신거부:</prop>
+        <seg>(광고) 지금 바로 대한민국 최강 스쿼드 팀이 가려지는 순간을 함께 하세요!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T124127Z" changedate="20201107T020348Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) Join the moment where Korea’s best squad is decided!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_WOuEKBopMuL2tO4Mw5gYjPzm">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">지금 바로 유튜브 비누TV, 성민TV, 린튜브, 세드TV에서 생방송을 시청하세요!</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>모든 채널에서 치킨교환권을 얻을 수 있는 시청 이벤트도 진행 중입니다! (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120253Z" changedate="20201107T020451Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>There’s also a viewing event where you can get a chicken dinner voucher on all channels! (To opt out: </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_WYjUtYxmgQn2Wo4wVXMKe8w9">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">이 외 추가적인 사항들이 있으나 (불법유해정보전송 금지 등) 해당 사항이 없어 추가적인 애용에 대해서는 생략</prop>
+        <prop type="context_next">Mobile Live Ops팀</prop>
+        <seg>KR Push 발송 주체</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121140Z" changedate="20201107T013330Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Who’s in charge of KR push notifications?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_YrEnoUt7g2J2A08Evhw1SX7a3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">지금 바로 공식 카페에서 확인해보세요! (수신거부:</prop>
+        <prop type="context_next">(광고) 한글날 퀴즈 이벤트가 공식 카페에서 진행되고 있습니다!</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Z1ENE2fk12XaAPj02Y4IW0mp4">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">낮음)</prop>
+        <prop type="context_next">지금 바로 유튜브 비누TV, 성민TV, 린튜브, 세드TV에서 생방송을 시청하세요!</prop>
+        <seg>(광고) 바이러스 인펙션 업데이트 기념 방구석에서 즐기는 할로윈 파티!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122335Z" changedate="20201107T020447Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) Virtual Halloween party to celebrate the Virus Infection updates!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_a3V6LuPewba2ZP4UAQwX48Zc">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 주말 누적 로그인 시간(30분/60분/80분)에 따라 보상을 드립니다!</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>최대 치킨 메달 1개, 미스터리 상자 교환권 조각 3개, 200BP, 20RP를 획득해 보세요! (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T131715Z" changedate="20201107T020317Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Win up to one chicken medal, three mystery box exchange tickets, 200BP, 20RP! (To opt out:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_acTDT14jxZm4es98b12FvLLa2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">낮음)</prop>
+        <seg>유료화 상품 안내 (발송 빈도:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122736Z" changedate="20201107T014845Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Notify updates on paid products (Frequency:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ahX1gT1o0ifh0Ic1mdew8fZFm">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 랭킹 시즌 14는 9/15(화) 오전 9시, 로얄 패스 시즌14는 9/14(월) 오전 9시에 종료됩니다!</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>아직 달성하지 못한 미션 수행 및 수령하지 못한 보상을 서둘러 받아주세요! (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122449Z" changedate="20201107T020441Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Hurry up and complete the mission you haven't accomplished and get the rewards you haven't received yet! (To opt out:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_amho2i9bMSn2HO40UaxFpdAq1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">보통)</prop>
+        <prop type="context_next">플레이하면 할수록 빠져드는 좀비와 인간의 대결 속으로 지금 바로 함께해보세요! (수신거부:</prop>
+        <seg>(광고) 다시 돌아온 인기 서바이벌 모드 바이러스 인펙션!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T124203Z" changedate="20201107T020339Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) The famous survivor mode virus infection is back!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_b0dQwlrSwmL5sg8gTI0ivVmg2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">금요일 1회</prop>
+        <prop type="context_next">토요일 1~2회 / 일요일 1~2회</prop>
+        <seg>주말:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121219Z" changedate="20201104T121219Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Weekends:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_bCPY5dRbM5C2J74cRU0on20O3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">서비스와 관련된 내용 알림 (점검 완료, 업데이트 완료, 시즌 업데이트 등)</prop>
+        <prop type="context_next">KR에서는 Push 발송 시 '정보통신망 이용촉진 및 정보보호 등에 관한법률'에서 명시하고 있는 사항들을 준수해야 함</prop>
+        <seg>기타 유저에게 안내해야 할 이슈 인지</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T115337Z" changedate="20201107T012114Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Other issues that need to be informed to the user</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_cjnHWJqJg5u2ZI4o0O0I2f6v2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 구독 즉시 150UC 획득, 이후 매일 데일리 조각 패키지 1개, 매주 30UC 가치의 할인권 2장을 획득할 수 있는 혜택을 누려보세요~! (수신거부:</prop>
+        <prop type="context_next">로얄 패스 및 랭킹 시즌 안내 (발송 빈도:</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_cl537QrwwUe2ng4UfF0w1YZm0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">도전 정예병의 상자, 스페셜 &amp; 미스터리 상자 교환권 조각 등의 아이템과 달성 횟수 보상으로 영구 테두리, 치킨 메달, 영구제 상의를 드려요! (수신거부:</prop>
+        <prop type="context_next">게임 콘텐츠 업데이트 알림 (발송 빈도:</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_cweOnF1F0e3bEhig8I1gNurI4">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">지금 바로 접속해볼까요? (수신거부:</prop>
+        <prop type="context_next">(광고) 총 16종의 선물 보상이 준비되어 있는 [달빛 저택:</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_daC0BZ0A3Rq8Aeh0mZ2QJrAl5">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">지금부터 출석해도 2020 할로윈 상자 획득 가능!?</prop>
+        <prop type="context_next">지금 바로 접속해볼까요? {1&gt;(수신거부:&lt;1}</prop>
+        <seg>예시) 본문: <bpt i="1" x="1"/>(광고) <ept i="1"/>할로윈 깜짝 로그인 이벤트, 롤리팝 이벤트 등 모바일 배틀그라운드에서 진행되고 있는 다향한 이벤트에 참여하고 각종 보상 받아 가세요!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T125951Z" changedate="20201107T020017Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(E.g) Body: <bpt i="1" x="1"/>(Ad) <ept i="1"/>Participate in various events in PUBGM, including Halloween surprise log in events and Lollipop events and get your rewards!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_deTjOIIMg7v29i4M2BML1V4w0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 블랙핑크와 함께하는 응원 이벤트!</prop>
+        <prop type="context_next">지금 접속해서 확인해 보세요! (수신거부:</prop>
+        <seg>싸인CD와 다양한 인게임 아이템을 획득할 수 있는 기회!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121734Z" changedate="20201107T020309Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>You can get BLACKPINK’S autographed album and various in-game items!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ejX4HsdwwzK24m4YoHwhINns">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">보통)</prop>
+        <seg>커뮤니티 이벤트 참여 유도 (발송 빈도:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T123143Z" changedate="20201107T014840Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Encourage the user to participate in community events (Frequency</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_f3131OcD0mDlMZCwLw5i3Mca3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">지금 바로 정답 맞히고 치킨 메달 2개 받아 가세요! (수신거부:</prop>
+        <prop type="context_next">유료화 상품 안내 (발송 빈도:</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_f73D71c02Tf84dgM4K10DVTd4">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 한글날 퀴즈 이벤트가 공식 카페에서 진행되고 있습니다!</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>지금 바로 정답 맞히고 치킨 메달 2개 받아 가세요! (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122821Z" changedate="20201107T020428Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Get the correct answers and get two chicken medals! (To opt out:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_fS5hJcYTMpC2Fq4s970au2bY1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">수신자의 사전수신동의 받기</prop>
+        <prop type="context_next">KR에서는 '광고성 알림 수신동의'를 이용약관에 포함하여 동의를 받고 있음</prop>
+        <seg>Push(광고성 정보 전송) 발송을 위해서 수신자의 사전수신 동의를 받아야 하는 이슈</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T115815Z" changedate="20201107T012626Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>It is required by law to get permission from the user to send push notifications (delivery of ad information)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_g3KaK7uSg7i2DY4A1IxxpInn0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 클래식 모드 TOP10 진입으로 보상을 획득해 보세요!</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>도전 정예병의 상자, 스페셜 &amp; 미스터리 상자 교환권 조각 등의 아이템과 달성 횟수 보상으로 영구 테두리, 치킨 메달, 영구제 상의를 드려요! (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T133028Z" changedate="20201107T020326Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Users who have gained items such as challenging elite’s box, special &amp; mystery box voucher and achieved the missions many times will receive a permanent wall paper, chicken medal and Covenant top! (To opt out:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_gwlmjfxVg6l2i64w0J0sMyap2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">지금 바로 PMSC 코인 이벤트 참여와 함께 대회를 시청하세요! (수신거부:</prop>
+        <prop type="context_next">커뮤니티 이벤트 참여 유도 (발송 빈도:</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_jcp08gXN0AI9MxgMbt1WmrII1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">Push 발송 목적</prop>
+        <prop type="context_next">서비스와 관련된 내용 알림 (점검 완료, 업데이트 완료, 시즌 업데이트 등)</prop>
+        <seg>게임 접속 유도</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T115259Z" changedate="20201107T014612Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>To encourage users to log in to PUBGM</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_jip0EfItx9I5Ue8EI51uz1an2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 다시 돌아온 인기 서바이벌 모드 바이러스 인펙션!</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>플레이하면 할수록 빠져드는 좀비와 인간의 대결 속으로 지금 바로 함께해보세요! (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T124608Z" changedate="20201107T020340Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Join and play the unstoppable fight between zombies and humans! (To opt out:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_jm8ydRX304H4yv88ru121lRk4">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">게임 콘텐츠 업데이트 알림 (발송 빈도:</prop>
+        <prop type="context_next">(광고) 다시 돌아온 인기 서바이벌 모드 바이러스 인펙션!</prop>
+        <seg>보통)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122003Z" changedate="20201107T014835Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Average)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_jx8pB85BwAD2774gDD0gz11z1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">토요일 1~2회 / 일요일 1~2회</prop>
+        <prop type="context_next">1~2회</prop>
+        <seg>공휴일:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121221Z" changedate="20201104T121221Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Public Holidays:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_kfKERi6Bg1O5uF9UBC1U1cGZ6">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">PMSC 2020 퀴즈 6문제 풀고 네네치킨 신메뉴 '청양마요치킨' 교환권 받아 가세요!</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>지금 바로 공식 카페에서 확인해보세요! (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T123027Z" changedate="20201107T020406Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Check out our official cafe now! (To opt out:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_l0kau5alxma4SD8gjixg8p4D0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">낮음)</prop>
+        <seg>로얄 패스 및 랭킹 시즌 안내 (발송 빈도:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122539Z" changedate="20201107T014847Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Notify updates on Royal Pass and Ranking Season (Frequency:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_m0vUPF4p1q8bM5hwP63RIQlz1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">평일:</prop>
+        <prop type="context_next">주말 및 공휴일:</prop>
+        <seg>오후 7시</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121204Z" changedate="20201105T004527Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">miistik@yahoo.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>7:00 p.m.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_mJqWi1WM0Elas6iM118wcD0h3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">참고 자료</prop>
+        <prop type="context_next">Push 발송 목적</prop>
+        <seg>KR Push 발송 정책</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T115210Z" changedate="20201104T115210Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>KR Push Notification Policy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_mX75s3rsw5W2Jd40Gy1a0iO47">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">위와 같은 사항을 준수하지 않을 경우 '3천만원 이하의 과태료'나 '1년 이하의 징역 또는 1천만원 이하 벌금'</prop>
+        <prop type="context_next">KR Push 발송 주체</prop>
+        <seg>이 외 추가적인 사항들이 있으나 (불법유해정보전송 금지 등) 해당 사항이 없어 추가적인 애용에 대해서는 생략</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T131520Z" changedate="20201107T013328Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>There are additional terms (such as Prohibition of sharing illegal and harmful contents), however those are not relevant to this case and thus we will not elaborate on it</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_mpsEmfSn0Ki4kg90At1QC2LB3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">지금 바로 접속해서 바이러스 인펙션 전장 속 마지막 주인공이 되어 보세요! (수신거부:</prop>
+        <prop type="context_next">이스포츠 시청 유도 (발송 빈도:</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_n29mKpKDwKl2Wj40I6wUSrDw1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">지금 바로 접속해볼까요? (수신거부:</prop>
+        <seg>(광고) 할로윈 깜짝 로그인 이벤트, 롤리팝 이벤트 등 모바일 배틀그라운드에서 진행되고 있는 다향한 이벤트에 참여하고 각종 보상 받아 가세요!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121633Z" changedate="20201107T020026Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) Participate in various events in PUBGM, including Halloween surprise log in events and Lollipop events and get your rewards!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_nh0O5J840kX9E3iMH92G1g7z1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">KR에서는 아래와 같이 '본문' 내용에 {1&gt;'광고' &lt;1}표기와 {2&gt;'수신거부 방법'&lt;2}을 안내</prop>
+        <prop type="context_next">지금부터 출석해도 2020 할로윈 상자 획득 가능!?</prop>
+        <seg>예시) 제목:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120125Z" changedate="20201107T013259Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>E.g. Title:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_oDMuQzD0xmA4c29M8JwUQ6u10">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">한국 시간을 기준으로 PM 21:00 ~ AM 08:00에는 Push를 발송하지 않습니다.</prop>
+        <prop type="context_next">전송한 내용에는 (광고)와 무료 수신거부 방법이 포함되어야 함</prop>
+        <seg>해당 시간에 Push를 발송하려면 별도의 수신 동의를 받아야 하며, 해당 시간에 대한 발송 니즈가 있지 않아 텐센트와 협의하여 야간 시간에 대한 별도 동의와 Push 수신 ON/OFF 기능을 구현하지 않음</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T125428Z" changedate="20201107T012623Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>In order to send push notifications at nighttime, additional permission must be obtained. Since we didn’t see a need to send notifications at night, upon agreement with Tencent, we didn’t include additional permission request and ON/OFF toggle function that apply to nighttime notifications</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_pTa5zuzlwIg2qG4QkW0QL1B50">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">지금 접속해서 확인해 보세요! (수신거부:</prop>
+        <prop type="context_next">(광고) 주말 누적 로그인 시간(30분/60분/80분)에 따라 보상을 드립니다!</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_pdpz8AvtgkM22B4oNC04A5rp1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">싸인CD와 다양한 인게임 아이템을 획득할 수 있는 기회!</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>지금 접속해서 확인해 보세요! (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121742Z" changedate="20201107T020310Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Log in now to check out! (To opt out:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_qWF8nCZf0ms4GS9wkAw0fhrO3">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">낮음)</prop>
+        <prop type="context_next">새로운 로얄 패스 미션과 다양한 보상도 확인해 보시고~ 업데이트를 기념하여 준비한 다양한 이벤트에 참여하시고 보상도 받아보세요! (수신거부:</prop>
+        <seg>(광고) 새로운 시즌이 오픈됐습니다!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122521Z" changedate="20201107T020433Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) New season is now open!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ql4V11B02Aih8Yywrb72mNxF6">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">예시) 본문: {1&gt;(광고) &lt;1}할로윈 깜짝 로그인 이벤트, 롤리팝 이벤트 등 모바일 배틀그라운드에서 진행되고 있는 다향한 이벤트에 참여하고 각종 보상 받아 가세요!</prop>
+        <prop type="context_next">{1&gt;앱-설정-기본에서 변경 가능)&lt;1}</prop>
+        <seg>지금 바로 접속해볼까요? <bpt i="1" x="1"/>(수신거부:<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120725Z" changedate="20201107T020019Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Would you like to log in now? <bpt i="1" x="1"/>(To opt out:<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_r1qUoCQ10Mvl00g2ufu0mVdg6">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">아직 달성하지 못한 미션 수행 및 수령하지 못한 보상을 서둘러 받아주세요! (수신거부:</prop>
+        <seg>(광고) 랭킹 시즌 14는 9/15(화) 오전 9시, 로얄 패스 시즌14는 9/14(월) 오전 9시에 종료됩니다!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122225Z" changedate="20201107T020440Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) Ranking season 14 ends at 9:00 a.m., September 14 (Tuesday), and Royal Pass season 14 ends at 9:00 a.m., September 14 (Monday)!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_r3PFjet1xkk50KhwYv1gmEkD5">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">기타 유저에게 안내해야 할 이슈 인지</prop>
+        <prop type="context_next">수신자의 사전수신동의 받기</prop>
+        <seg>KR에서는 Push 발송 시 '정보통신망 이용촉진 및 정보보호 등에 관한법률'에서 명시하고 있는 사항들을 준수해야 함</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T115408Z" changedate="20201105T004106Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">miistik@yahoo.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>KR must comply with the matters specified in the “Act on Promotion of Information and Communications Network Utilization and Information Protection” when sending out push notifications.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_rM6J6fyEgxy2HN4EiYgELoh0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">KR Push 발송 주체</prop>
+        <prop type="context_next">Push 내용을 발송 희망 일정 기준 최소 2일, 평균 7일전 유관부서에서 공유 받아 발송</prop>
+        <seg>Mobile Live Ops팀</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121141Z" changedate="20201104T121141Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Mobile Live Ops Team</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_rP1i8T0I3Q8bk1w0kN5Y06FUn">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">주말 및 공휴일:</prop>
+        <prop type="context_next">KR Push 발송 횟수</prop>
+        <seg>오후 12시 or 오후 6시</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121206Z" changedate="20201105T004544Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">miistik@yahoo.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>12:00 p.m. or 6:00 p.m.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_rsBuprQv02m4mD9oKbxBZjl30">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">야간 광고 전송 금지</prop>
+        <prop type="context_next">해당 시간에 Push를 발송하려면 별도의 수신 동의를 받아야 하며, 해당 시간에 대한 발송 니즈가 있지 않아 텐센트와 협의하여 야간 시간에 대한 별도 동의와 Push 수신 ON/OFF 기능을 구현하지 않음</prop>
+        <seg>한국 시간을 기준으로 PM 21:00 ~ AM 08:00에는 Push를 발송하지 않습니다.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T115840Z" changedate="20201107T012624Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Push notifications are not sent from 9:00 p.m. to 8:00 a.m. KST.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_s5se2n1Cx7S401DwJb2g95I0e">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">낮음)</prop>
+        <seg>파트너 방송 시청 유도 (발송 빈도:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122328Z" changedate="20201107T014857Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Encourage the user to watch partners’ broadcast (Frequency:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_sLXMVJiOg382DJ4UxhMa9TIW">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">(광고) 인간VS좀비의 대결이 진행되고 있습니다!</prop>
+        <prop type="context_next">앱-설정-기본에서 변경 가능)</prop>
+        <seg>지금 바로 접속해서 바이러스 인펙션 전장 속 마지막 주인공이 되어 보세요! (수신거부:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122108Z" changedate="20201107T020347Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Log in now and be the last hero from the Virus Infection Battlefield! (To opt out:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_sO4QbfNvMmV2la4gqgg1du8W0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">공휴일:</prop>
+        <prop type="context_next">업데이트, 이벤트 이슈 등에 따라 추가 발송 진행</prop>
+        <seg>1~2회</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121222Z" changedate="20201105T004559Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">miistik@yahoo.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>1-2 times</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_trnIVOANMb82H74kBQMnpv130">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">{1&gt;앱-설정-기본에서 변경 가능)&lt;1}</prop>
+        <prop type="context_next">이 외 추가적인 사항들이 있으나 (불법유해정보전송 금지 등) 해당 사항이 없어 추가적인 애용에 대해서는 생략</prop>
+        <seg>위와 같은 사항을 준수하지 않을 경우 '3천만원 이하의 과태료'나 '1년 이하의 징역 또는 1천만원 이하 벌금'</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120550Z" changedate="20201105T004449Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">miistik@yahoo.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Failure to comply with the above terms may result in “a fine of up to 30 million won” or “a sentence of up to one year in prison or a fine of up to 10 million won.”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_tvJjbfEgwP15gJ88vNwBCwtq1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">전송한 내용에는 (광고)와 무료 수신거부 방법이 포함되어야 함</prop>
+        <prop type="context_next">KR에서는 아래와 같이 '본문' 내용에 {1&gt;'광고' &lt;1}표기와 {2&gt;'수신거부 방법'&lt;2}을 안내</prop>
+        <seg>수신한 Push가 '광고'임을 알 수 있는 (광고) 표기, 무료 수신 거부 방법 등이 포함되어 있어야 합니다.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T130129Z" changedate="20201107T012813Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Push notifications should include the word “Ad”, so the user knows it is an advertisement. It should also include information on how to opt out of push notifications for free of charge</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_uyzKRmR40gz46T8oKWwjE0cm1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">해당 시간에 Push를 발송하려면 별도의 수신 동의를 받아야 하며, 해당 시간에 대한 발송 니즈가 있지 않아 텐센트와 협의하여 야간 시간에 대한 별도 동의와 Push 수신 ON/OFF 기능을 구현하지 않음</prop>
+        <prop type="context_next">수신한 Push가 '광고'임을 알 수 있는 (광고) 표기, 무료 수신 거부 방법 등이 포함되어 있어야 합니다.</prop>
+        <seg>전송한 내용에는 (광고)와 무료 수신거부 방법이 포함되어야 함</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T125722Z" changedate="20201107T012726Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Push notifications must include the word “Ad” and provide information on how to opt out of push notifications for free</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_vIRKhmL7M5Q22Z4Qn40AlQ512">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">누적 로그인 이벤트로 최대 치킨 메달 1개, 미스터리 상자 교환권 조각3개, 200BP, 20RP 받아 보세요! (수신거부:</prop>
+        <prop type="context_next">(광고) 클래식 모드 TOP10 진입으로 보상을 획득해 보세요!</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_wmz0hO8MxBV5Aw9EaQ08Gz2N0">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">KR에서는 '광고성 알림 수신동의'를 이용약관에 포함하여 동의를 받고 있음</prop>
+        <prop type="context_next">한국 시간을 기준으로 PM 21:00 ~ AM 08:00에는 Push를 발송하지 않습니다.</prop>
+        <seg>야간 광고 전송 금지</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T115504Z" changedate="20201107T012628Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Sending advertisement push notification at the nighttime is prohibited</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_xDX45RxAgs524c4AjuMboLDJ">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">앱-설정-기본에서 변경 가능)</prop>
+        <prop type="context_next">지금 바로 접속해서 바이러스 인펙션 전장 속 마지막 주인공이 되어 보세요! (수신거부:</prop>
+        <seg>(광고) 인간VS좀비의 대결이 진행되고 있습니다!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T122017Z" changedate="20201107T020340Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>(Ad) Human vs. Zombie battle is on! </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_xOq00MB13MmnUiB0u0igync10">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">지금 바로 접속해볼까요? (수신거부:</prop>
+        <prop type="context_next">(광고) 블랙핑크와 함께하는 응원 이벤트!</prop>
+        <seg>앱-설정-기본에서 변경 가능)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120728Z" changedate="20201107T020020Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Change setting in App &gt; Setting &gt; General)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_xg0z0YC30i8h8Dzwi0eIr6Nkd">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">예시) 제목:</prop>
+        <prop type="context_next">예시) 본문: {1&gt;(광고) &lt;1}할로윈 깜짝 로그인 이벤트, 롤리팝 이벤트 등 모바일 배틀그라운드에서 진행되고 있는 다향한 이벤트에 참여하고 각종 보상 받아 가세요!</prop>
+        <seg>지금부터 출석해도 2020 할로윈 상자 획득 가능!?</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T120123Z" changedate="20201107T020008Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Can you get the 2020 Halloween Box if you log into PUBG now?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_xutT0Pj018CigEBwmo0gLtuB1">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">평일:</prop>
+        <prop type="context_next">주말:</prop>
+        <seg>금요일 1회</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121218Z" changedate="20201104T121218Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Once every Friday </seg>
+      </tuv>
+    </tu>
+    <tu tuid="_yP0Rdng02Cv9sEj02k7UMOXn1">
+      <tuv xml:lang="ko">
+        <prop type="context_next">참고 자료</prop>
+        <seg>KR Push 발송 정책</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T115210Z" changedate="20201104T115210Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>KR Push Notification Policy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_ydMvoOwiwtE2kN4AXCwjZwGY">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">Mobile Live Ops팀</prop>
+        <prop type="context_next">KR Push 발송 시간</prop>
+        <seg>Push 내용을 발송 희망 일정 기준 최소 2일, 평균 7일전 유관부서에서 공유 받아 발송</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T131621Z" changedate="20201107T013339Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Push notification contents should be shared by relevant teams at least 2 days and an average of 7 days prior to the scheduled release date.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_zafIHR3I0kO5oQ9gjB00lXWJ2">
+      <tuv xml:lang="ko">
+        <prop type="context_prev">오후 12시 or 오후 6시</prop>
+        <prop type="context_next">평일:</prop>
+        <seg>KR Push 발송 횟수</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201104T121217Z" changedate="20201107T013342Z">
+        <prop type="project">20613513</prop>
+        <prop type="created_by">geehee7@gmail.com</prop>
+        <prop type="modified_by">geehee7@gmail.com</prop>
+        <prop type="filename">KR Push 발송 정책 (1).doc</prop>
+        <seg>Cadence</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
