@@ -1,0 +1,52 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: gloz-logstash
+  name: logstash-SET_BUILD_NUMBER
+  namespace: es
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: gloz-logstash
+  strategy:
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 1
+    type: RollingUpdate
+  template:
+    metadata:
+      labels:
+        app: gloz-logstash
+    spec:
+      securityContext:
+        runAsUser: 1000
+        runAsGroup: 1000
+        fsGroup: 1000
+      containers:
+        - image: 740016600163.dkr.ecr.ap-northeast-2.amazonaws.com/glocalize-dev/logstash:SET_BUILD_NUMBER
+          imagePullPolicy: Always
+          envFrom:
+            - secretRef:
+                name: logstash-auth
+          name: logstash
+          ports:
+            - containerPort: 80
+              protocol: TCP
+          resources: {}
+          terminationMessagePath: /dev/termination-log
+          terminationMessagePolicy: File
+          volumeMounts:
+          - mountPath: /usr/share/logstash/data/plugins
+            name: logstash-index
+      volumes:
+        - name: logstash-index
+          persistentVolumeClaim:
+            claimName: logstash-index
+      dnsPolicy: ClusterFirst
+      restartPolicy: Always
+      schedulerName: default-scheduler
+      terminationGracePeriodSeconds: 30
+      nodeSelector:
+        node: management
