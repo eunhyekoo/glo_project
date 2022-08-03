@@ -1,9 +1,0 @@
-version: "3.6"
-services:
-  logstash:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    image: 740016600163.dkr.ecr.ap-northeast-2.amazonaws.com/glocalize-dev/logstash
-    container_name: logstash
-    stop_signal: SIGKILL
